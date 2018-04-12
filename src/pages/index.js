@@ -1,4 +1,5 @@
 import React from "react"
+import Link from "gatsby-link";
 
 export default ({ data }) => {
   return (
@@ -7,8 +8,10 @@ export default ({ data }) => {
       <h4>{data.allMarkdownRemark.totalCount} Songs</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
+        <Link to={node.fields.slug}>
           <span className="song-title">{node.frontmatter.title}</span>
           <p>{node.excerpt}</p>
+        </Link>
         </div>
       ))}
     </div>
@@ -24,6 +27,9 @@ export const query = graphql`
           id
           frontmatter {
             title
+          }
+          fields {
+            slug
           }
           excerpt
         }
