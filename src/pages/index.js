@@ -4,14 +4,15 @@ import Link from "gatsby-link";
 export default ({ data }) => {
   return (
     <div id="main">
-      <h1>All Songs</h1>
-      <h4>{data.allMarkdownRemark.totalCount} Songs</h4>
+      <h1>{data.allMarkdownRemark.totalCount} Songs</h1>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
-        <Link to={node.fields.slug}>
-          <span className="song-title">{node.frontmatter.title}</span>
-          <p>{node.excerpt}</p>
-        </Link>
+        <ul className="song-list">
+          <li><Link to={node.fields.slug}>
+              <span className="song-title">{node.frontmatter.title}</span>&mdash; 
+              <span className="artist">{node.frontmatter.artist}</span>
+          </Link></li>
+          </ul>
         </div>
       ))}
     </div>
@@ -27,6 +28,7 @@ export const query = graphql`
           id
           frontmatter {
             title
+            artist
           }
           fields {
             slug

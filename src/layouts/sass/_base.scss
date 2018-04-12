@@ -1,18 +1,15 @@
 body {
-  background-color: $colour-secondary;
+  background: url('../images/main-bg.png');
+  background-color: #6c7045;
+  font-family: $main-font;
 }
 
 a {
   color: $colour-links;
 }
 
-h1, h2, h3, h4, h5, h6, 
-.site-title,
-.song-title {
-  font-family: 'PT Serif', serif;
-}
-
-h1 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: $title-font;
   color: $colour-primary;
 }
 
@@ -26,23 +23,14 @@ table {
 
 #root {
   background-color: $colour-background;
-  margin: 0 auto;
+  margin: 20px auto;
   max-width: 960px;
   padding: 20px;
-  font-family: 'PT Mono', monospace;
-}
-
-#main h1 {
-  font-size: 48px;
 }
 
 .site-title {
   color: $colour-secondary;
-  font-size: 36px;
+  font-size: 24px;
   font-weight: bold;
   text-decoration: none !important;
-}
-
-.song-title {
-  color: $colour-secondary;
 }
