@@ -1,11 +1,19 @@
-#main {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 20px 0;
-  .site-title {
-    font-size: 36px;
-    text-decoration: none !important;
-  }
+body {
+  background-color: $colour-secondary;
+}
+
+a {
+  color: $colour-links;
+}
+
+h1, h2, h3, h4, h5, h6, 
+.site-title,
+.song-title {
+  font-family: 'PT Serif', serif;
+}
+
+h1 {
+  color: $colour-primary;
 }
 
 img {
@@ -16,3 +24,25 @@ table {
   width: 100%;
 }
 
+#root {
+  background-color: $colour-background;
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 20px;
+  font-family: 'PT Mono', monospace;
+}
+
+#main h1 {
+  font-size: 48px;
+}
+
+.site-title {
+  color: $colour-secondary;
+  font-size: 36px;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+
+.song-title {
+  color: $colour-secondary;
+}

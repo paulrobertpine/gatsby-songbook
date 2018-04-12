@@ -3,7 +3,7 @@ import Link from "gatsby-link";
 import './index.scss'
 
 export default ({ children, data }) => 
-  <div id="main">
+  <div id="root">
     <Link className="site-title"to={`/`}>
       {data.site.siteMetadata.title}
     </Link>

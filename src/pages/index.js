@@ -2,7 +2,7 @@ import React from "react"
 
 export default ({ data }) => {
   return (
-    <div>
+    <div id="main">
       <h1>All Songs</h1>
       <h4>{data.allMarkdownRemark.totalCount} Songs</h4>
       {data.allMarkdownRemark.edges.map(({ node }) => (
