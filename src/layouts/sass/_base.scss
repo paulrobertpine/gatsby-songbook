@@ -1,15 +1,15 @@
 body {
   background: url('../images/main-bg.png');
   background-color: #6c7045;
-  font-family: $main-font;
+  font-family: $font-main;
 }
 
 a {
-  color: $colour-links;
+  color: $colour-link;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $title-font;
+  font-family: $font-title;
   color: $colour-primary;
 }
 
@@ -19,6 +19,10 @@ img {
 
 table {
   width: 100%;
+}
+
+pre {
+  font-family: $font-mono;
 }
 
 #root {
@@ -33,4 +37,14 @@ table {
   font-size: 24px;
   font-weight: bold;
   text-decoration: none !important;
+}
+
+span[data-chord]:before {
+  position    : relative;
+  top         : -1em;
+  display     : inline-block;
+  content     : attr(data-chord);
+  width       : 0;
+  font-style  : italic;
+  font-weight : bold;
 }

@@ -1,5 +1,8 @@
 ul.song-list a {
-    font-family: $title-font;
+    font-family: $font-title;
     color: $colour-text;
     text-decoration: none;
+    &:hover {
+        background-color: $colour-link;
+    }
 }
