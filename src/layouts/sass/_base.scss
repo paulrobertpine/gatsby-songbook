@@ -1,6 +1,6 @@
 body {
   background: url('../images/main-bg.png');
-  background-color: #6c7045;
+  background-color: $colour-secondary;
   font-family: $font-main;
 }
 
@@ -21,10 +21,6 @@ table {
   width: 100%;
 }
 
-pre {
-  font-family: $font-mono;
-}
-
 #root {
   background-color: $colour-background;
   margin: 20px auto;
@@ -33,18 +29,13 @@ pre {
 }
 
 .site-title {
-  color: $colour-secondary;
+  color: $colour-primary;
   font-size: 24px;
-  font-weight: bold;
-  text-decoration: none !important;
-}
-
-span[data-chord]:before {
-  position    : relative;
-  top         : -1em;
-  display     : inline-block;
-  content     : attr(data-chord);
-  width       : 0;
-  font-style  : italic;
-  font-weight : bold;
+  // font-weight: bold;
+  text-decoration: none;
+  text-transform: uppercase;
+  &:hover {
+    background-color: $colour-link;
+    color: $colour-background;
+  }
 }

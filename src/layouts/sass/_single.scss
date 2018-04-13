@@ -1,13 +1,26 @@
-// .song-title {
-//     color: $colour-secondary;
-// }
-
-// sup {
-//     color: $colour-primary;
-//     top: -1em;
-//     right: -1em;
-// }
 pre {
     font-family: $font-mono;
     font-size: 18px;
+}
+
+.song p {
+    font-size: 20px; 
+    line-height: 2.3;
+}
+
+.song h2 {
+    color: $colour-secondary;
+    margin-bottom: 30px;
+}
+
+span[data-chord]:before {
+    position: relative;
+    top: -1.2em;
+    display: inline-block;
+    content: attr(data-chord);
+    width: 0;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    color: $colour-primary;
 }
