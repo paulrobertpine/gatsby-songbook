@@ -1,7 +1,7 @@
 body {
-  background: url('../images/main-bg.png');
-  background-color: $colour-secondary;
-  font-family: $font-main;
+  background-color: $colour-background;
+  // background: url('../images/main-bg.png');
+  // background-color: $colour-secondary;
 }
 
 a {
@@ -9,33 +9,21 @@ a {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font-title;
   color: $colour-primary;
 }
 
-img {
-  max-width: 100%;
-}
-
-table {
-  width: 100%;
-}
-
-#root {
-  background-color: $colour-background;
+#main {
   margin: 20px auto;
-  max-width: 960px;
-  padding: 20px;
+  max-width: 750px;
+  padding: 20px 5px;;
 }
 
 .site-title {
-  color: $colour-primary;
-  font-size: 24px;
-  // font-weight: bold;
   text-decoration: none;
-  text-transform: uppercase;
-  &:hover {
-    background-color: $colour-link;
+  h1 {
+    background-color: $colour-secondary;
     color: $colour-background;
+    font-size: 24px;
+    padding: 20px;
   }
 }

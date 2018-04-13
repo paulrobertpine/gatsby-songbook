@@ -3,15 +3,17 @@ import Link from "gatsby-link";
 
 export default ({ data }) => {
   return (
-    <div id="main">
+    <div>
       <h1>{data.allMarkdownRemark.totalCount} Songs</h1>
       {data.allMarkdownRemark.edges.map(({ node }) => (
         <div key={node.id}>
-        <ul className="song-list">
-          <li><Link to={node.fields.slug}>
-              <span className="song-title">{node.frontmatter.title}</span>&mdash; 
-              <span className="artist">{node.frontmatter.artist}</span>
-          </Link></li>
+          <ul className="song-list">
+            <li>
+              <Link to={node.fields.slug}>
+                <span className="song-title">{node.frontmatter.title}</span>&mdash; 
+                <span className="artist">{node.frontmatter.artist}</span>
+              </Link>
+            </li>
           </ul>
         </div>
       ))}

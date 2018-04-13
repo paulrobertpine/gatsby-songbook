@@ -1,10 +1,10 @@
 pre {
-    font-family: $font-mono;
+    // font-family: $font-mono;
     font-size: 18px;
 }
 
 .song p {
-    font-size: 20px; 
+    font-size: 18px; 
     line-height: 2.3;
 }
 
@@ -14,13 +14,14 @@ pre {
 }
 
 span[data-chord]:before {
+    color: $colour-secondary;
+    content: attr(data-chord);
+    display: inline-block;
+    font-size: 16px;
+    // font-style: italic;
+    font-weight: bold;
     position: relative;
     top: -1.2em;
-    display: inline-block;
-    content: attr(data-chord);
     width: 0;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 18px;
-    color: $colour-primary;
+    word-wrap: normal;
 }

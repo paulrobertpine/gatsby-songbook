@@ -1,5 +1,5 @@
 ---
-title: "Hard Times"
+title: "Hard Times <pre>"
 artist: Gillian Welch & David Rawlings
 ---
 <pre>
