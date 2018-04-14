@@ -5,15 +5,15 @@ import './index.scss';
 
 export default ({ children, data }) =>
   <div id="root">
-    <Link className="site-title"to={`/`}>
+    <Link className="site-title" to={`/`}>
       <h1>{data.site.siteMetadata.title}</h1>
     </Link>
     <div id="main">
       {children()}
     </div>
-    <Link className="site-footer">
+    <a href="#" className="site-footer">
       <h1>Top</h1>
-    </Link>
+    </a>
   </div>
 
 export const query = graphql`

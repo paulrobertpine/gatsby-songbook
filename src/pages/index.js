@@ -1,6 +1,8 @@
 import React from "react"
 import Link from "gatsby-link";
 
+// this is the home page
+
 export default ({ data }) => {
   return (
     <div>
@@ -10,7 +12,7 @@ export default ({ data }) => {
           <ul className="song-list">
             <li>
               <Link to={node.fields.slug}>
-                <span className="song-title">{node.frontmatter.title}</span>&mdash; 
+                <span className="song-title">{node.frontmatter.title}</span>&mdash;
                 <span className="artist">{node.frontmatter.artist}</span>
               </Link>
             </li>
