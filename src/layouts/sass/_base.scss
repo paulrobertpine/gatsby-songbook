@@ -6,6 +6,7 @@ body {
 
 a {
   color: $colour-link;
+  transition: background-color 0.2s ease;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -18,12 +19,18 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px 5px;;
 }
 
-.site-title {
+a.site-title {
   text-decoration: none;
   h1 {
+    background: url("../images/home.svg") no-repeat;
+    background-size: 60px;
     background-color: $colour-secondary;
-    color: $colour-background;
+    color: $colour-primary;
     font-size: 24px;
-    padding: 20px;
+    padding: 20px 0 20px 75px;
+    transition: background-color 2s ease;
+    &:hover {
+      background-color: $colour-link;
+    }
   }
 }
