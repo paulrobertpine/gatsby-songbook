@@ -5,7 +5,10 @@ $colour-background: #f4f4f4;
 $colour-text: #373737;
 $colour-link: #1e50d8;
 
+// @import url('https://fonts.googleapis.com/css?family=Space+Mono');
+// @import url('https://fonts.googleapis.com/css?family=Fira+Mono');
+// @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 // fonts @import here or in index.scss
-// $font-main: 'PT Serif', serif;
-// $font-title: 'PT Serif', serif;
-// $font-mono: 'PT Mono', monospace;
+// $font-main: 'FONT', sans-serif;
+// $font-title: 'FONT', serif;
+$font-mono: monospace;
