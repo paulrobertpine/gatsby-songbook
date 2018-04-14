@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
-import './index.scss'
-// import Logo from '../images/home.svg'; react component way?
+import './index.scss';
+// import Logo from '../images/like.svg';
 
 export default ({ children, data }) =>
   <div id="root">
@@ -11,6 +11,9 @@ export default ({ children, data }) =>
     <div id="main">
       {children()}
     </div>
+    <Link className="site-footer"to={`/`}>
+      <h1>TOP</h1>
+    </Link>
   </div>
 
 export const query = graphql`

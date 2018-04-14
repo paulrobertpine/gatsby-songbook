@@ -2,6 +2,8 @@
 title: "Hard Times <span>"
 artist: Gillian Welch & David Rawlings
 ---
+\<span> (or other HTML tags) let you insert chords; possible to transpose chords, better for phones and zooming
+
 intro
 C Csus2 C Csus4
 

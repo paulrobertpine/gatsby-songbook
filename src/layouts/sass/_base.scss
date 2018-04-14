@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 20px 5px;;
 }
 
-a.site-title {
+a.site-title, a.site-footer {
   text-decoration: none;
   h1 {
     background: url("../images/home.svg") no-repeat;
@@ -31,6 +31,22 @@ a.site-title {
     transition: background-color 2s ease;
     &:hover {
       background-color: $colour-link;
+    }
+  }
+}
+
+// overides
+a.site-footer {
+  h1 {
+    background: url("../images/like.svg") center no-repeat;
+    background-size: 30px;
+    padding: 20px 0 20px 100px;
+    text-align: center;
+    color: $colour-background;
+    transition: all 1s ease;
+    &:hover {
+      background-color: $colour-background;
+      color: $colour-primary;
     }
   }
 }

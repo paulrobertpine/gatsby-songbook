@@ -4,8 +4,8 @@ pre {
 }
 
 .song p {
-    font-size: 18px; 
-    line-height: 2.3;
+    font-size: 20px;
+    line-height: 2.5;
 }
 
 .song h2 {
@@ -13,15 +13,16 @@ pre {
     margin-bottom: 30px;
 }
 
-span[data-chord]:before {
+span[data-chord]{
+  font-family:"Playfair Display", serif;
+  &:before {
     color: $colour-secondary;
     content: attr(data-chord);
     display: inline-block;
-    font-size: 16px;
-    // font-style: italic;
-    font-weight: bold;
+    font-size: 18px;
     position: relative;
     top: -1.2em;
     width: 0;
     word-wrap: normal;
+  }
 }
