@@ -11,8 +11,8 @@ export default ({ children, data }) =>
     <div id="main">
       {children()}
     </div>
-    <Link className="site-footer"to={`/`}>
-      <h1>TOP</h1>
+    <Link className="site-footer">
+      <h1>Top</h1>
     </Link>
   </div>
 
