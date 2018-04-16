@@ -1,11 +1,8 @@
-
 ---
 title: "You Don’t Know How it Feels"
 artist: "Tom Petty"
 ---
 <pre>
-
-
 
 [Verse 1]
 E                   A                   E                   A  (x2)
