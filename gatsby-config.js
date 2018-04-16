@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `DAG Songbook`,
+    title: `Songbook`,
   },
   plugins: [
     `gatsby-plugin-sass`,

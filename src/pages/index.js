@@ -6,19 +6,18 @@ import Link from "gatsby-link";
 export default ({ data }) => {
   return (
     <div>
-      <h1>{data.allMarkdownRemark.totalCount} Songs</h1>
-      {data.allMarkdownRemark.edges.map(({ node }) => (
-        <div key={node.id}>
-          <ul className="song-list">
-            <li>
-              <Link to={node.fields.slug}>
-                <span className="song-title">{node.frontmatter.title}</span>&mdash;
-                <span className="artist">{node.frontmatter.artist}</span>
-              </Link>
-            </li>
-          </ul>
-        </div>
-      ))}
+      <h1>DAG Jams</h1>
+      <h2>{data.allMarkdownRemark.totalCount} Songs</h2>
+      <div id="songbook">
+        {data.allMarkdownRemark.edges.map(({ node }) => (
+          <div key={node.id} className="song-card">
+            <Link to={node.fields.slug}>
+              <span className="song-title">{node.frontmatter.title}</span>
+              {/* <span className="artist">{node.frontmatter.artist}</span> */}
+            </Link>
+          </div>
+        ))}
+      </div>
     </div>
   );
 };

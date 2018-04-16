@@ -1,14 +1,16 @@
 // colours
-$colour-primary: #d0d000;
+$colour-primary: hsl(59, 72%, 48%);
+$colour-primary-25: rgba(255, 251, 0, 0.25);
 $colour-secondary: #1c5a7e;
 $colour-background: #f4f4f4;
 $colour-text: #373737;
 $colour-link: #1e50d8;
+$colour-border: rgba(55, 55, 55, 0.2);
 
 // @import url('https://fonts.googleapis.com/css?family=Space+Mono');
 // @import url('https://fonts.googleapis.com/css?family=Fira+Mono');
 // @import url('https://fonts.googleapis.com/css?family=Inconsolata');
 // fonts @import here or in index.scss
-// $font-main: 'FONT', sans-serif;
-// $font-title: 'FONT', serif;
+$font-main: 'Playfair Display', serif;
+$font-title: 'Playfair Display', serif;
 $font-mono: monospace;
