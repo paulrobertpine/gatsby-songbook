@@ -1,14 +1,8 @@
 ---
-title: "Title"
-artist: "Artist"
+title: "Elvis Presley Blues"
+artist: "Gillian Welch & David Rawlings"
 ---
 <pre>
-
-Elvis Presley Blues
-
-
-Elvis Presley Blues - Gillian Welch / David Rawlings
-Time (The Revelator) - song 7
 Capo 7(D  D7  G   D   Bm   A)
 (G7) = (3 x 3 0/2  0 1/0)
 
