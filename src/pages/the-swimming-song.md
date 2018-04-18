@@ -4,8 +4,8 @@ artist: "Loudon Wainright III"
 key: G
 ---
 <pre>
-|:G C G   |D   Em   |
- |Em  C   |D   Em   |D   G   :|
+|G C G   |D   Em   |
+|Em  C   |D   Em   |D   G   |
 
      G      C      G
 This summer I went swimming

@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
 import './index.scss';
-// import Logo from '../images/like.svg';
 
 export default ({ children, data }) =>
   <div id="root">
