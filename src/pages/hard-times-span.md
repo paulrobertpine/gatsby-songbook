@@ -2,12 +2,18 @@
 title: "Hard Times <span>"
 artist: Gillian Welch & David Rawlings
 ---
-\<span> (or other HTML tags) let you insert chords; possible to transpose chords, better for phones and zooming
+<pre>
+span (or other HTML tags) let you insert chords
+ - possible to transpose chords
+ - better for phones and zooming
+</pre>
+
+e.g. There was a \<span data-chord="Am">\</span>camp town
 
 intro
 C Csus2 C Csus4 (Csus4 = F)
 
-There was a <span data-chord="Am"></span>camp town <span data-chord="G&"></span>man, used to <span data-chord="F"></span>plow and <span data-chord="C"></span>sing  
+There was a <span data-chord="Am"></span>camp town <span data-chord="G"></span>man, used to <span data-chord="F"></span>plow and <span data-chord="C"></span>sing  
 <span data-chord="Am"></span>he loved that <span data-chord="G"></span>mule and the <span data-chord="F"></span>mule loved <span data-chord="C"></span>him  
 When the <span data-chord="Am"></span>day got <span data-chord="G"></span>long as it <span data-chord="F"></span>does about <span data-chord="C"></span>now  
 <span data-chord="Am"></span>I'd hear him <span data-chord="G"></span>singing to his <span data-chord="F"></span>muley <span data-chord="C"></span>cow

@@ -3,13 +3,11 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
-    // background-color: pink;
 }
 
 .song-card {
     border: 1px $colour-primary solid;
-    background-color: $colour-primary-25;
-    /* offset-x | offset-y | blur-radius | color */
+    // background-color: $colour-primary-25;
     box-shadow: 2px 2px 5px $colour-border;
     a {
         display:inline-block;
