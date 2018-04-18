@@ -8,13 +8,13 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "gatsby": "^1.9.247",
+    "gatsby": "^1.9.250",
     "gatsby-cli": "^1.1.50",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-sass": "^1.0.25",
     "gatsby-plugin-typography": "^1.7.18",
-    "gatsby-source-filesystem": "^1.5.29",
-    "gatsby-transformer-remark": "^1.7.39",
+    "gatsby-source-filesystem": "^1.5.32",
+    "gatsby-transformer-remark": "^1.7.40",
     "typography-theme-kirkham": "^0.16.3"
   }
 }
