@@ -8,7 +8,7 @@ media_folder: static/assets
 collections:
   - name: song
     label: Song
-    # folder: songs
+    folder: songs
     create: true
     fields:
       - { name: "title", label: "Title" }
