@@ -36,4 +36,6 @@ One more kiss before we part
 You have caused me lots of trouble
 darling, you have broke my heart
 
+chorus
+
 </pre>

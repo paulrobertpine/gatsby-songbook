@@ -1,7 +1,5 @@
 body {
   background-color: $colour-background;
-  // background: url('../images/main-bg.png');
-  // background-color: $colour-secondary;
 }
 
 a {
@@ -12,13 +10,14 @@ a {
 h1 {
   color: $colour-primary;
 }
+
 h2, h3, h4, h5, h6 {
   color: $colour-secondary;
 }
 
 #main {
   margin: 20px auto;
-  max-width: 750px;
+  max-width: 800px;
   padding: 20px 5px;;
 }
 
@@ -38,7 +37,6 @@ a.site-title, a.site-footer {
   }
 }
 
-// overides
 a.site-footer {
   h1 {
     background: url("../images/like.svg") center no-repeat;

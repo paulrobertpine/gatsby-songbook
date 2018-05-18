@@ -7,7 +7,6 @@
 
 .song-card {
     border: 1px $colour-primary solid;
-    // background-color: $colour-primary-25;
     box-shadow: 2px 2px 5px $colour-border;
     a {
         display:inline-block;
@@ -22,26 +21,7 @@
         }
         .song-title, .artist {
             font-family: $font-main;
-            // display: block;
-            // text-align: center;
         }
         width: 100%;
     }
 }
-
-
-// .wrapper {
-//     display: grid;
-//     grid-template-columns: 100px 100px 100px;
-//     grid-gap: 10px;
-//     background-color: #fff;
-//     color: #444;
-//   }
-  
-//   .box {
-//     background-color: #444;
-//     color: #fff;
-//     border-radius: 5px;
-//     padding: 20px;
-//     font-size: 150%;
-//   }

@@ -1,17 +1,16 @@
-pre {
-    font-family: $font-mono;
-    font-size: 18px;
-}
-
-.song p {
-    font-size: 20px;
-    line-height: 2.5;
-}
-
-.song h2 {
+.sheet h2 {
     color: $colour-secondary;
     margin-bottom: 30px;
 }
+
+.song {
+    white-space: pre; 
+    display: block; 
+    // line-height: 1;
+    unicode-bidi: embed;
+    font-family: $font-mono;
+    font-size: 18px;
+  }
 
 span[data-chord]{
   font-family:"Playfair Display", serif;

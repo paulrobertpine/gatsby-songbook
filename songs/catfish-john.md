@@ -16,7 +16,7 @@ But come the morning I'd always be there
 D                           A           D
 Walking in his footsteps in sweet delta dawn.
 
-1. D      G                D
+D      G                D
 Take me back to  another morning
       G             D
 And a time so long ago
@@ -25,7 +25,7 @@ When the sweet magnolias blossomed
                  A                 D
 And the cotton fields were white as snow.
 
-2. D       G                D
+D       G                D
 Catfish John was a river hobo
              G                 D
 He lived and died on the river bend
@@ -34,7 +34,7 @@ Thinkin' back I still remember
          A            D
 I was proud to be his friend.
 
-3.       G                    D
+       G                    D
 Born a slave in the town of Vicksburg
        G              D
 Traded for a chestnut mare
@@ -42,5 +42,4 @@ Traded for a chestnut mare
 Oh He never spoke a word in anger
              A              D
 Though his load was hard to bear.
-
 </pre>
