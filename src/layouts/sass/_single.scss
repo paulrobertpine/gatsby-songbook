@@ -3,10 +3,14 @@
     margin-bottom: 30px;
 }
 
+.pre {
+  font-family: $font-mono;
+  font-size: 18px;
+}
+
 .song {
     white-space: pre; 
     display: block; 
-    // line-height: 1;
     unicode-bidi: embed;
     font-family: $font-mono;
     font-size: 18px;
