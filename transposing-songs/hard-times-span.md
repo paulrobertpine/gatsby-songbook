@@ -1,5 +1,5 @@
 ---
-title: Hard Times <span>
+title: Hard Times
 artist: Gillian Welch & David Rawlings
 key: C
 ---
