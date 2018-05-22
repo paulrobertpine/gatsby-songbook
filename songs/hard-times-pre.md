@@ -1,9 +1,10 @@
 ---
-title: "Hard Times <pre>"
+title: Hard Times
 artist: Gillian Welch & David Rawlings
 ---
 <pre>
-intro C    Cadd9    C    Csus 
+intro 
+|C   |Csus2|C   |Csus4| 
 
             Am        G             F        C
 There was a camp town man, used to plow and sing
@@ -14,9 +15,9 @@ When the day got long as it does about now
 Am           G              F     C
 I'd hear him singing to his muley cow
 
-C    Cadd9    C    Csus 
+C    Csus2    C    Csus 
 Calling, "Come on my sweet old girl,
-C    Cadd9    C    Csus 
+C    Csus2    C    Csus 
 I'd bet the whole damn world, that
 C           Dm      C/E                   G    Gsus    G
 we're gonna make it yet to the end of the road"
@@ -38,9 +39,9 @@ They were supping on tears, they were supping on wine
 Am            G             F         C  
 We all get to heaven in our own sweet time
 
-C    Cadd9    C    Csus 
+C    Csus2    C    Csus 
 So come all you Asheville boys
-C    Cadd9    C    Csus 
+C    Csus2    C    Csus 
 'n turn up your old-time noise
     C                 Dm    C/E                       G  Gsus  G
 'n kick 'til the dust comes up from the cracks in the floor
@@ -62,9 +63,9 @@ Am          G               F        C
 Woke up one morning and the mule was gone
 
 
-C  Cadd9  C  Csus 
+C  Csus2  C  Csus 
 So come all you ragtime kings,
-C  Cadd9  C  Csus 
+C  Csus2  C  Csus 
 'n come on you dogs and sing
 C              Dm        C/E                G  Gsus  G
 'n pick up the dusty old horn and give it a blow
