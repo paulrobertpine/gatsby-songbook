@@ -1,6 +1,6 @@
 ---
-title: "Don’t This Road Look Rough and Rocky "
-artist: "Flatt & Scruggs"
+title: 'Don’t This Road Look Rough and Rocky '
+artist: Flatt & Scruggs
 ---
 <pre>
 
@@ -13,7 +13,7 @@ But before the morning, darling
 D                   G
 We'll be many miles apart
 
-chorus
+[chorus]
 C                              G
 Don't this road look rough and rocky
                              D
@@ -29,13 +29,13 @@ Far across the deep blue sea
 While the others you are thinking
 Won't you sometimes think of me
 
-chorus
+[chorus]
 
 One more kiss before i leave you
 One more kiss before we part
 You have caused me lots of trouble
 darling, you have broke my heart
 
-chorus
+[chorus]
 
 </pre>
