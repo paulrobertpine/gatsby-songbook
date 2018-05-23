@@ -1,5 +1,5 @@
 ---
-title: Is the life of a man any more than the leaves?
+title: Is The life Of A Man Any More Than the Leaves?
 artist: Trad?
 ---
 <pre>
