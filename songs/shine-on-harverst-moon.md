@@ -2,6 +2,7 @@
 title: Shine On Harverst Moon
 artist: Nora Bayes & Jack Norworth
 ---
+<pre>
 [Intro]
 |:Gm D7:|
 
@@ -32,3 +33,4 @@ So shine on, shine on harvest moon, for me n’ my gal
 [REPEAT VERSE1]
 
 [CHORUS]
+</pre>
