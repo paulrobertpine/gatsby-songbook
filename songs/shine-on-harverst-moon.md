@@ -7,16 +7,22 @@ artist: Nora Bayes & Jack Norworth
 |:Gm D7:|
 
 [Verse]
-Gm                                                                           D7
-The night was mighty dark so you could hardly see, cause the moon refused to shine
-Gm                                                   C
-There’s a couple sittin  ‘neath the willow tree, for love, they pine
-Eb                                        Bb
-Little May was kinda ‘fraid of darkness, so she said I think I’ll go
-C7                                                                           F       
-Boy began to sigh, looked up in the sky and told the moon his little tale of woe,
-D7/F#
-oh
+Gm                                                                          
+The night was mighty dark so you could hardly see, 
+                          D7
+cause the moon refused to shine
+Gm
+There’s a couple sittin  ‘neath the willow tree, 
+               C
+for love, they pine
+Eb
+Little May was kinda ‘fraid of darkness, 
+Bb
+so she said I think I’ll go
+C7                                                                                 
+Boy began to sigh, looked up in the sky 
+                                     F    D7/F#
+and told the moon his little tale of woe, oh
 
 [Chorus]
 G7                         C7     
