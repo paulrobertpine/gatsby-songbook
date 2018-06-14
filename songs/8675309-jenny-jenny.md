@@ -2,12 +2,11 @@
 title: 8675309 (Jenny Jenny)
 artist: Tommy Tu Tone
 ---
-**F#m   D   A    B
-**
+**F#m   D   A    B**
 
-**\[Verse]
+\[Verse]
 
-F#m   D   A    B**
+F#m   D   A    B
 
 **Jenny Jenny, who can I turn to?
 **
@@ -23,7 +22,6 @@ F#m   D   A    B**
 
 \[Chorus]
 
-
 **
 E         D        A
 **
@@ -34,80 +32,53 @@ E         D        A
 **E         A        D
 **
 
-**I need to make you mine
-**
+**I need to make you mine**
 
-**E         D        A
-**
+**E         D        A**
 
-**Jenny don't change your number
-**
+**Jenny don't change your number**
 
-**F#m   D   A    B
-**
+**F#m   D   A    B**
 
-**867-5309
-**
+**867-5309**
 
-**(867-5309)
-**
+**(867-5309)**
 
-**867-5309
-**
+**867-5309**
 
-**(867-5309)
-**
-
-\*\*
+**(867-5309)**
 
 \[Verse]
-\*\*
 
 **
-F#m   D   A    B
-**
+F#m   D   A    B**
 
-**Jenny Jenny, your the girl for me
-**
+**Jenny Jenny, your the girl for me**
 
-**You don't know me but you make me so happy
-**
+**You don't know me but you make me so happy**
 
-**I tried to call you before but I lost my nerve
-**
+**I tried to call you before but I lost my nerve**
 
-**I tried my imagination but I was disturbed
-**
+**I tried my imagination but I was disturbed**
 
-**
-\[Chorus]
-**
+**\[Chorus]
 
-**
-E         D        A
-**
+E         D        A**
 
-**Jenny I got your number
-**
+**Jenny I got your number**
 
-**E         A        D
-**
+**E         A        D**
 
-**I need to make you mine
-**
+**I need to make you mine**
 
 **E         D        A
 **
 
 **Jenny don't change your number
-**
 
-**
-F#m   D   A    B
-**
+F#m   D   A    B**
 
-**867-5309
-**
+**867-5309**
 
 **(867-5309)
 **
