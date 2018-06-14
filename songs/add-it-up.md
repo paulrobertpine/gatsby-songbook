@@ -2,172 +2,89 @@
 title: 'Add it Up '
 artist: Violent Femmes
 ---
-Verse]
-
-
-
-   B5
-
-   Why can't I get just one kiss(2x)
-
-   A
-
-   believe me there'd be some things that I wouldn't miss
-
-\    B5 (stop abruptly)
-
-   but I look at your pants and I need a kiss
-
-
-
-
-
-\[Verse]
-
-
-
-   Why can't I get just one screw(2x)
-
-   believe me I'd know what to do
-
-   but something won't let me make love to you
-
-
-
-
-
-\[Interlude]
-
-
-
-At this point there's a little interlude that's dominated melodically by the
-
-bass. The guitar in the background plays something similar to the verse
-
-figure. Feel free to post it if you want to take the time to figure it out.
-
-
-
-
-
-\[Verse]
-
-
-
-   Why can't I get just one fuck(2x)
-
-   I guess it's got something to do with luck
-
-   but I waited my whole life for just one
-
-
-
-
-
-\[Chorus]
-
-
-
-   B5                       A                  B5
-
-   Day...after day...I get angry...and I will say...that the day...is in my
-
-\    A               B5
-
-   sight...when I take a bow...and say goodnight
-
-
-
-
-
-\[Verse] 
-
-(palm muted)
-
-
-
-   Mo my momma momma mo my mum
-
-   Have you kept your eye your eye on your son
-
-   I know you've had problems your not the only one
-
-   but when your sugar left he left you on the run
-
-
-
-   Mo my momma momma mo my mum
-
-   take a look now what your boy has done
-
-   he's walking around like he's number one
-
-   he went downtown and he got him a gun
-
-
-
-   Don't shoot shoot shoot that thing at me
-
-   You know you got my sympathy
-
-   but don't shoot shoot shoot that thing at me
-
-\[Guitar solo]
-
-   In your broken down kitchen at the top of the stairs
-
-   Can I mix in with your affairs
-
-   Share a smoke
-
-   Make a joke
-
-   Grasp and reach for a leg of hope
-
-
-
-   Words to memorize
-
-   Words hypnotize
-
-   Words make my mouth exercise
-
-   Words all fail the magic prize
-
-   Nothing I can say when I'm in your thighs
-
-
-
-   Mo my momma momma mo my mother
-
-   I would love to love you lover
-
-   The city's restless it's ready to pounce
-
-   it go here in your bedroom ounce for ounce
-
-
-
-   Said I'm giving you a decision to make
-
-   Things to lose, things to take
-
-   Just as she was about ready to cut it up
-
-   She said wait a minute honey I'm gonna Add it up
-
-
-
-   I'm gonna Add it up Add it up
-
-   See what you got you gotta  Add it up
-
-   Day after day
-
-   I get angry and I will say
-
-   that the day is in my sight
-
-   when I take a bow and say goodnight
-
-   goodnight
+Day after day 
+I will walk and I will play
+But the day after today
+I will stop and I will start
+
+|B .  |B . |B .  |B . |
+|A .  |A . |B .  |B . |
+(throughout)
+
+Why can't I get just one kiss
+Why can't I get just one kiss
+Believe me, there'd be somethings that I wouldn't miss
+But I look at your pants and I need a kiss
+
+Why can't I get just one screw 
+Why can't I get just one screw
+Believe me, I know what to do
+But something won't let me make love to you
+
+(solo)
+
+Why can't I get just one fuck
+Why can't I get just one fuck
+I guess it got something to do with luck
+But I waited my whole life for just one
+
+Day after day
+I get angry and I will say 
+That the day is in my sight 
+When I'll take a bow and say goodnight
+
+Oh, ma-mama, mama-mo-ma-mum
+Have you kept your eye, your eye on your son?
+I know you've had problems, you're not the only one
+When your sugar left, he left you on the run
+
+Oh, ma-mama, mama-mo-ma-mum
+Take a look now at what your boy has done
+He's walking around like he's number one
+Went downtown and you got him a gun
+
+So don't shoot, shoot, shoot that thing at me
+Don't shoot, shoot, shoot that thing at me
+You know you've got my sympathy
+
+But don't shoot, shoot, shoot that thing at me
+Don't shoot, shoot, shoot that thing at me
+Don't shoot, shoot, shoot that thing at me
+You know you've got my sympathy
+But don't shoot, shoot, shoot that thing at me
+
+(solo)
+
+Broken down kitchen at the top of the stairs
+Can I mix in with your affairs?
+Share a smoke, make a joke
+Grasp and reach for a leg of hope
+
+Words to memorize, words hypnotize
+Words make my mouth exercise
+Words all failed the magic prize
+Nothing I can say when I'm in your thighs
+
+Oh, ma-mama, mo-ma, mo-my mother
+I would love to love you, lover
+City is restless, it's ready to pounce
+Oh, here in your bedroom, ounce for ounce
+
+Say, ma-mama, mo-ma, mo-my mother
+I would love to love you, lover
+City is restless, it's ready to pounce
+Oh, here in your bedroom, ounce for ounce
+
+I've given you a decision to make
+Things to lose, things to take
+Just as she's about ready to cut it up
+She says, "wait a minute, honey, I'm gonna add it up!"
+
+Add it up! Add it up! Add it up! Add it up!
+Add it up! Add it up! Add it up! Add it up!
+
+Day after day, I get angry and I will say
+That the day is in my sight
+When I'll take a bow and say goodnight
+
+(solo)
