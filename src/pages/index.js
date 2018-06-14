@@ -6,7 +6,7 @@ import Link from "gatsby-link";
 export default ({ data }) => {
   return (
     <div>
-      <h1>DAG Jams</h1>
+      <h1>Jams!</h1>
       <h2>{data.allMarkdownRemark.totalCount} Songs</h2>
       <div id="songbook">
         {data.allMarkdownRemark.edges.map(({ node }) => (
@@ -24,7 +24,7 @@ export default ({ data }) => {
 
 export const query = graphql`
   query IndexQuery {
-    allMarkdownRemark(sort: {fields: [frontmatter___title], order: ASC}) {
+    allMarkdownRemark {
       totalCount
       edges {
         node {
