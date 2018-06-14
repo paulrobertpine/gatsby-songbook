@@ -8,6 +8,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
+    "chordsheetjs": "^2.5.0",
     "gatsby": "^1.9.271",
     "gatsby-cli": "^1.1.50",
     "gatsby-link": "^1.6.40",
