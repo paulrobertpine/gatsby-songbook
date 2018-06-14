@@ -2,186 +2,186 @@
 title: So Long Marianne
 artist: Leonard Cohen
 ---
-**\[Verse 1]**
+\[Verse 1]
 
-**\    A                               Bm       **
+\ A Bm
 
-**Come over to the window,  my little darling**
+Come over to the window, my little darling
 
-**D                              A**
+D A
 
-**I'd like to try to read your palm**
+I'd like to try to read your palm
 
-**G                                    D**
+G D
 
-**I used to think I was some sort of gypsy boy**
+I used to think I was some sort of gypsy boy
 
-**F#m                         E   Esus4 E E7 **
+F#m E Esus4 E E7
 
-**   before I let you take me home**
+before I let you take me home
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**\[Verse 2]**
+\[Verse 2]
 
-**\    A                  Bm   **
+\ A Bm
 
-**Well you know that I love to live with you**
+Well you know that I love to live with you
 
-**D                                A**
+D A
 
-** but you make me forget so very much**
+but you make me forget so very much
 
-**G                          D**
+G D
 
-** I forget to pray for the angels**
+I forget to pray for the angels
 
-**\    F#m                       E  sus4 E E7 **
+\ F#m E sus4 E E7
 
-**and then the angels forget to pray for us**
+and then the angels forget to pray for us
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**\[Verse 3]**
+\[Verse 3]
 
-**\    A               Bm  **
+\ A Bm
 
-**We met when we were almost young **
+We met when we were almost young
 
-**D                         A **
+D A
 
-** deep in the green lilac park**
+deep in the green lilac park
 
-**G                                D**
+G D
 
-** You held on to me like I was a crucifix**
+You held on to me like I was a crucifix
 
-**F#m                                 E   Esus4 E E7 **
+F#m E Esus4 E E7
 
-**   as we went kneeling through the dark**
+as we went kneeling through the dark
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**\[Verse 4]**
+\[Verse 4]
 
-**\    A                                 Bm**
+\ A Bm
 
-**Your letters they all say that you're beside me now**
+Your letters they all say that you're beside me now
 
-**D                        A**
+D A
 
-** then why do I feel so alone**
+then why do I feel so alone
 
-**G                                 D **
+G D
 
-** I'm standing on a ledge and your fine spider web**
+I'm standing on a ledge and your fine spider web
 
-**\    F#m                      E  Esus4 E E7**
+\ F#m E Esus4 E E7
 
-**is fastening my ankle to a stone**
+is fastening my ankle to a stone
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**\[Verse 5]**
+\[Verse 5]
 
-**\    A              Bm**
+\ A Bm
 
-**For now I need your hidden love**
+For now I need your hidden love
 
-**D                         A**
+D A
 
-** I'm cold as a new razor blade**
+I'm cold as a new razor blade
 
-**G                                D**
+G D
 
-** You left when I told you I was curious**
+You left when I told you I was curious
 
-**F#m                         E   Esus4 E E7**
+F#m E Esus4 E E7
 
-**   I never said that I was brave**
+I never said that I was brave
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**\[Verse 6]**
+\[Verse 6]
 
-**\    A                     Bm**
+\ A Bm
 
-**Oh, you are really such a pretty one**
+Oh, you are really such a pretty one
 
-**D                                   A **
+D A
 
-** I see you've gone and changed your name again**
+I see you've gone and changed your name again
 
-**G                              D**
+G D
 
-** And just when I climbed this whole mountainside**
+And just when I climbed this whole mountainside
 
-**\    F#m                     E  Esus4 E E7**
+\ F#m E Esus4 E E7
 
-**to wash my eyelids in the rain**
+to wash my eyelids in the rain
 
-**\[Chorus]**
+\[Chorus]
 
-**\    A                 F#m**
+\ A F#m
 
-**Now so long, Marianne,    It's time that we began**
+Now so long, Marianne, It's time that we began
 
-**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
+\ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-**to laugh      and cry   and cry      and laugh about it all again**
+to laugh and cry and cry and laugh about it all again
 
-**   A                    Bm**
+A Bm
 
-**Oh, your eyes, well, I forget your eyes**
+Oh, your eyes, well, I forget your eyes
 
-**D                              A**
+D A
 
-** your body's at home in every sea**
+your body's at home in every sea
 
-**G                             D**
+G D
 
-** How come you gave away your news to everyone**
+How come you gave away your news to everyone
 
-**F#m                              E Esus4 E E7**
+F#m E Esus4 E E7
 
-**   that you said was a secret to me**
+that you said was a secret to me
