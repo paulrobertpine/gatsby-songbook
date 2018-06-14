@@ -13,7 +13,7 @@ export default ({ data }) => {
           <div key={node.id} className="song-card">
             <Link to={node.fields.slug}>
               <span className="song-title">{node.frontmatter.title}</span>
-              {/* <span className="artist">{node.frontmatter.artist}</span> */}
+              <span className="artist">{node.frontmatter.artist}</span>
             </Link>
           </div>
         ))}
