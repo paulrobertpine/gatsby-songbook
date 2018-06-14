@@ -2,266 +2,186 @@
 title: So Long Marianne
 artist: Leonard Cohen
 ---
+**\[Verse 1]**
 
+**\    A                               Bm       **
 
+**Come over to the window,  my little darling**
 
+**D                              A**
 
+**I'd like to try to read your palm**
 
+**G                                    D**
 
+**I used to think I was some sort of gypsy boy**
 
+**F#m                         E   Esus4 E E7 **
 
-\[Verse 1]
+**   before I let you take me home**
 
+**\[Chorus]**
 
+**\    A                 F#m**
 
-\    A                               Bm       
+**Now so long, Marianne,    It's time that we began**
 
-Come over to the window,  my little darling
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
-D                              A
+**to laugh      and cry   and cry      and laugh about it all again**
 
-I'd like to try to read your palm
+**\[Verse 2]**
 
-G                                    D
+**\    A                  Bm   **
 
-I used to think I was some sort of gypsy boy
+**Well you know that I love to live with you**
 
-F#m                         E   Esus4 E E7 
+**D                                A**
 
-   before I let you take me home
+** but you make me forget so very much**
 
+**G                          D**
 
+** I forget to pray for the angels**
 
+**\    F#m                       E  sus4 E E7 **
 
+**and then the angels forget to pray for us**
 
-\[Chorus]
+**\[Chorus]**
 
+**\    A                 F#m**
 
+**Now so long, Marianne,    It's time that we began**
 
-\    A                 F#m
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
-Now so long, Marianne,    It's time that we began
+**to laugh      and cry   and cry      and laugh about it all again**
 
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
+**\[Verse 3]**
 
-to laugh      and cry   and cry      and laugh about it all again
+**\    A               Bm  **
 
+**We met when we were almost young **
 
+**D                         A **
 
+** deep in the green lilac park**
 
+**G                                D**
 
-\[Verse 2]
+** You held on to me like I was a crucifix**
 
+**F#m                                 E   Esus4 E E7 **
 
+**   as we went kneeling through the dark**
 
-\    A                  Bm   
+**\[Chorus]**
 
-Well you know that I love to live with you
+**\    A                 F#m**
 
-D                                A
+**Now so long, Marianne,    It's time that we began**
 
- but you make me forget so very much
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
-G                          D
+**to laugh      and cry   and cry      and laugh about it all again**
 
- I forget to pray for the angels
+**\[Verse 4]**
 
-\    F#m                       E  sus4 E E7 
+**\    A                                 Bm**
 
-and then the angels forget to pray for us
+**Your letters they all say that you're beside me now**
 
+**D                        A**
 
+** then why do I feel so alone**
 
+**G                                 D **
 
+** I'm standing on a ledge and your fine spider web**
 
-\[Chorus]
+**\    F#m                      E  Esus4 E E7**
 
+**is fastening my ankle to a stone**
 
+**\[Chorus]**
 
-\    A                 F#m
+**\    A                 F#m**
 
-Now so long, Marianne,    It's time that we began
+**Now so long, Marianne,    It's time that we began**
 
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
-to laugh      and cry   and cry      and laugh about it all again
+**to laugh      and cry   and cry      and laugh about it all again**
 
+**\[Verse 5]**
 
+**\    A              Bm**
 
+**For now I need your hidden love**
 
+**D                         A**
 
-\[Verse 3]
+** I'm cold as a new razor blade**
 
+**G                                D**
 
+** You left when I told you I was curious**
 
-\    A               Bm  
+**F#m                         E   Esus4 E E7**
 
-We met when we were almost young 
+**   I never said that I was brave**
 
-D                         A 
+**\[Chorus]**
 
- deep in the green lilac park
+**\    A                 F#m**
 
-G                                D
+**Now so long, Marianne,    It's time that we began**
 
- You held on to me like I was a crucifix
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
-F#m                                 E   Esus4 E E7 
+**to laugh      and cry   and cry      and laugh about it all again**
 
-   as we went kneeling through the dark
+**\[Verse 6]**
 
+**\    A                     Bm**
 
+**Oh, you are really such a pretty one**
 
+**D                                   A **
 
+** I see you've gone and changed your name again**
 
-\[Chorus]
+**G                              D**
 
+** And just when I climbed this whole mountainside**
 
+**\    F#m                     E  Esus4 E E7**
 
-\    A                 F#m
+**to wash my eyelids in the rain**
 
-Now so long, Marianne,    It's time that we began
+**\[Chorus]**
 
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
+**\    A                 F#m**
 
-to laugh      and cry   and cry      and laugh about it all again
+**Now so long, Marianne,    It's time that we began**
 
+**\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      **
 
+**to laugh      and cry   and cry      and laugh about it all again**
 
+**   A                    Bm**
 
+**Oh, your eyes, well, I forget your eyes**
 
-\[Verse 4]
+**D                              A**
 
+** your body's at home in every sea**
 
+**G                             D**
 
-\    A                                 Bm
+** How come you gave away your news to everyone**
 
-Your letters they all say that you're beside me now
+**F#m                              E Esus4 E E7**
 
-D                        A
-
- then why do I feel so alone
-
-G                                 D 
-
- I'm standing on a ledge and your fine spider web
-
-\    F#m                      E  Esus4 E E7
-
-is fastening my ankle to a stone
-
-
-
-
-
-\[Chorus]
-
-
-
-\    A                 F#m
-
-Now so long, Marianne,    It's time that we began
-
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
-
-to laugh      and cry   and cry      and laugh about it all again
-
-
-
-
-
-
-
-
-
-
-
-\[Verse 5]
-
-
-
-\    A              Bm
-
-For now I need your hidden love
-
-D                         A
-
- I'm cold as a new razor blade
-
-G                                D
-
- You left when I told you I was curious
-
-F#m                         E   Esus4 E E7
-
-   I never said that I was brave
-
-
-
-
-
-\[Chorus]
-
-
-
-\    A                 F#m
-
-Now so long, Marianne,    It's time that we began
-
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
-
-to laugh      and cry   and cry      and laugh about it all again
-
-
-
-
-
-\[Verse 6]
-
-
-
-\    A                     Bm
-
-Oh, you are really such a pretty one
-
-D                                   A 
-
- I see you've gone and changed your name again
-
-G                              D
-
- And just when I climbed this whole mountainside
-
-\    F#m                     E  Esus4 E E7
-
-to wash my eyelids in the rain
-
-
-
-\[Chorus]
-
-\    A                 F#m
-
-Now so long, Marianne,    It's time that we began
-
-\    E   Esus4     E  E7     E Esus4       E      E7     A        Asus4      
-
-to laugh      and cry   and cry      and laugh about it all again
-
-
-
-   A                    Bm
-
-Oh, your eyes, well, I forget your eyes
-
-D                              A
-
- your body's at home in every sea
-
-G                             D
-
- How come you gave away your news to everyone
-
-F#m                              E Esus4 E E7
-
-   that you said was a secret to me
+**   that you said was a secret to me**
