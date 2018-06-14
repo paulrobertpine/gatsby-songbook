@@ -2,144 +2,226 @@
 title: 8675309 (Jenny Jenny)
 artist: Tommy Tu Tone
 ---
-**F#m   D   A    B**
+**F#m   D   A    B
+**
 
-**Verse]**
+**\[Verse]
 
-**F#m   D   A    B**
+F#m   D   A    B**
 
-**Jenny Jenny, who can I turn to?**
+**Jenny Jenny, who can I turn to?
+**
 
-**You give me something I can hold onto**
+**You give me something I can hold onto
+**
 
-**I know you think I'm like the others before**
+**I know you think I'm like the others before
+**
 
-**Who saw your name and number on the wall**
+**Who saw your name and number on the wall
+**
 
-**\[Chorus]**
+\[Chorus]
 
-**E         D        A**
 
-**Jenny I got your number**
+**
+E         D        A
+**
 
-**E         A        D**
+**Jenny I got your number
+**
 
-**I need to make you mine**
+**E         A        D
+**
 
-**E         D        A**
+**I need to make you mine
+**
 
-**Jenny don't change your number**
+**E         D        A
+**
 
-**F#m   D   A    B**
+**Jenny don't change your number
+**
 
-**867-5309**
+**F#m   D   A    B
+**
 
-**(867-5309)**
+**867-5309
+**
 
-**867-5309**
+**(867-5309)
+**
 
-**(867-5309)**
+**867-5309
+**
 
-**\[Verse]**
+**(867-5309)
+**
 
-**F#m   D   A    B**
+\*\*
 
-**Jenny Jenny, your the girl for me**
+\[Verse]
+\*\*
 
-**You don't know me but you make me so happy**
+**
+F#m   D   A    B
+**
 
-**I tried to call you before but I lost my nerve**
+**Jenny Jenny, your the girl for me
+**
 
-**I tried my imagination but I was disturbed**
+**You don't know me but you make me so happy
+**
 
-**\[Chorus]**
+**I tried to call you before but I lost my nerve
+**
 
-**E         D        A**
+**I tried my imagination but I was disturbed
+**
 
-**Jenny I got your number**
+**
+\[Chorus]
+**
 
-**E         A        D**
+**
+E         D        A
+**
 
-**I need to make you mine**
+**Jenny I got your number
+**
 
-**E         D        A**
+**E         A        D
+**
 
-**Jenny don't change your number**
+**I need to make you mine
+**
 
-**F#m   D   A    B**
+**E         D        A
+**
 
-**867-5309**
+**Jenny don't change your number
+**
 
-**(867-5309)**
+**
+F#m   D   A    B
+**
 
-**867-5309**
+**867-5309
+**
 
-**(867-5309)**
+**(867-5309)
+**
 
-**\[Bridge]**
+**867-5309
+**
 
-**C#m                  E**
+**(867-5309)
+**
 
-**I got it (I got it)  I got it**
+**
+\[Bridge]
+**
 
-**F#m        A          B**
+**
+C#m                  E
+**
 
-**I got you number on the wall**
+**I got it (I got it)  I got it
+**
 
-**C#m                   E**
+**F#m        A          B
+**
 
-**I got it (I got it)  I got it**
+**I got you number on the wall
+**
 
-**F#m        A          B**
+**C#m                   E
+**
 
-**For a good time, for a good time call!**
+**I got it (I got it)  I got it
+**
 
-**\[Solo](verse 3)**
+**F#m        A          B
+**
 
-**F#m   D   A    B x6**
+**For a good time, for a good time call!
+**
 
-**\[Chorus]**
+**
+\[Solo](verse 3)
+**
 
-**E**
+**
+F#m   D   A    B x6
+**
 
-**Jenny I got your number**
+**
+\[Chorus]
+**
 
-**E         A        D**
+**E
+**
 
-**I need to make you mine**
+**Jenny I got your number
+**
 
-**E**
+**E         A        D
+**
 
-**Jenny don't change your number**
+**I need to make you mine
+**
 
-**F#m   D   A    B**
+**E
+**
 
-**867-5309**
+**Jenny don't change your number
+**
 
-**(867-5309)**
+**
+F#m   D   A    B
+**
 
-**867-5309**
+**867-5309
+**
 
-**(867-5309)**
+**(867-5309)
+**
 
-**F#m   D   A    B**
+**867-5309
+**
 
-**Jenny Jenny, Who can I turn too**
+**(867-5309)
+**
 
-**(867-5309)**
+**F#m   D   A    B
+**
 
-**For the price of a dime I can Always turn to you**
+**Jenny Jenny, Who can I turn too
+**
 
-**(867-5309)**
+**(867-5309)
+**
 
-**867-5309**
+**For the price of a dime I can Always turn to you
+**
 
-**(867-5309)**
+**(867-5309)
+**
 
-**867-5309**
+**867-5309
+**
 
-**(867-5309)**
+**(867-5309)
+**
 
-****
+**867-5309
+**
 
-****
+**(867-5309)
+**
+
+\*\*
+\*\*
+
+\*\*
+\*\*
