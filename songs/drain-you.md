@@ -2,150 +2,106 @@
 title: Drain You
 artist: Nirvana
 ---
+**\[Verse 1]**
 
+**A       C# F#    B    A          C#        F#       B**
 
-\[Verse 1]
+**  One baby to another says I'm lucky to have met you...**
 
+**A       C#   F#       B       A         C#           F#        **
 
+**I don't care what you think unless it is about me**
 
-A       C# F#    B    A          C#        F#       B
+**It is now my duty to completely drain you **
 
-  One baby to another says I'm lucky to have met you...
+**I travel through a tube and end up in your infection **
 
-A       C#   F#       B       A         C#           F#        
+**\[Chorus]**
 
-I don't care what you think unless it is about me
+**E  D      B                  **
 
-It is now my duty to completely drain you 
+**\    Chew your meat for you.  **
 
-I travel through a tube and end up in your infection 
+**D         B**
 
+**Pass it   back and forth **
 
+**In a      passionate kiss**
 
+**From my   mouth to yours,**
 
+**A G    F#**
 
-\[Chorus]
+**I like you...**
 
+**\[Verse 2]**
 
+**A      C#   F#    B   A       C#     F#     B**
 
-E  D      B                  
+**  With eyes so dilated, I've become your pupil**
 
-\    Chew your meat for you.  
+**A       C#   F#       B       A         C#     F# **
 
-D         B
+** You've taught me everything Without a poison apple**
 
-Pass it   back and forth 
+**The water is so yellow, I'm a healthy student **
 
-In a      passionate kiss
+**Indebted and so grateful - Vacuum out the fluids **
 
-From my   mouth to yours,
+**\[Chorus]**
 
-A G    F#
+**E  D      B                  **
 
-I like you...
+**\    Chew your meat for you.  **
 
+**D         B**
 
+**Pass it   back and forth **
 
+**In a      passionate kiss**
 
+**From my   mouth to yours,**
 
-\[Verse 2]
+**A G    F#**
 
+**I like you...**
 
+**break (while "You" repeats five times, drum and bass only)**
 
-A      C#   F#    B   A       C#     F#     B
+**\[Instrumental]**
 
-  With eyes so dilated, I've become your pupil
+**A       C# F#    B    A          C#        F#       B**
 
-A       C#   F#       B       A         C#     F# 
+**A       C# F#    B    A          C#        F#       B**
 
- You've taught me everything Without a poison apple
+**\[Verse 1]**
 
+**A       C# F#    B    A          C#        F#       B**
 
+**  One baby to another says I'm lucky to have met you...**
 
-The water is so yellow, I'm a healthy student 
+**A       C#   F#       B       A         C#           F#        **
 
-Indebted and so grateful - Vacuum out the fluids 
+**I don't care what you think unless it is about me**
 
+**It is now my duty to completely drain you **
 
+**I travel through a tube and end up in your infection **
 
+**\[Chorus]**
 
+**E  D      B                  **
 
-\[Chorus]
+**\    Chew your meat for you.  **
 
+**D         B**
 
+**Pass it   back and forth **
 
-E  D      B                  
+**In a      passionate kiss**
 
-\    Chew your meat for you.  
+**From my   mouth to yours,**
 
-D         B
+**A G    F#**
 
-Pass it   back and forth 
-
-In a      passionate kiss
-
-From my   mouth to yours,
-
-A G    F#
-
-I like you...
-
-
-
-break (while "You" repeats five times, drum and bass only)
-
-
-
-
-
-\[Instrumental]
-
-
-
-A       C# F#    B    A          C#        F#       B
-
-A       C# F#    B    A          C#        F#       B
-
-
-
-
-
-\[Verse 1]
-
-
-
-A       C# F#    B    A          C#        F#       B
-
-  One baby to another says I'm lucky to have met you...
-
-A       C#   F#       B       A         C#           F#        
-
-I don't care what you think unless it is about me
-
-It is now my duty to completely drain you 
-
-I travel through a tube and end up in your infection 
-
-
-
-
-
-\[Chorus]
-
-
-
-E  D      B                  
-
-\    Chew your meat for you.  
-
-D         B
-
-Pass it   back and forth 
-
-In a      passionate kiss
-
-From my   mouth to yours,
-
-A G    F#
-
-I like you...
+**I like you...**
