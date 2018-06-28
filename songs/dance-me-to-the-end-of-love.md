@@ -2,168 +2,125 @@
 title: Dance Me To The End Of Love
 artist: Leonard Cohen
 ---
-**\[Verse 1]**
+[Verse 1]
+Am
+Dance me to your beauty
 
-**Am**
+\    Em
+With a burning violin
 
-**Dance me to your beauty**
+Am
+Dance me through the panic
 
-**\    Em**
+\    Em 
+Till I'm gathered safely in
 
-**With a burning violin**
+Am
+Lift me like an olive branch
 
-**Am**
+\    Em
+And be my homeward dove
 
-**Dance me through the panic**
+B7                     Em
+Dance me to the end of love
 
-**\    Em  **
+B7                  Em7add11 Em
+Dance me to the end of love
 
-**Till I'm gathered safely in**
+\[Verse 2]
+Am
+Let me see your beauty
 
-**Am**
+\    Em
+When the witnesses are gone
 
-**Lift me like an olive branch**
+Am
+Let me feel you moving
 
-**\    Em**
+\    Em
+Like they do in Babylon
 
-**And be my homeward dove**
+Am
+Show me slowly what I only
 
-**B7                     Em**
+Em
+Know the limits of
 
-**Dance me to the end of love**
+B7                     Em
+Dance me to the end of love
 
-**B7                  Em7add11 Em**
+B7                  Em7add11 Em
+Dance me to the end of love
 
-**Dance me to the end of love**
+[Verse 3]
+Am
+Dance me to the wedding now
 
-**\[Verse 2]**
+Em
+Dance me on and on
 
-**Am**
+Am
+Dance me very tenderly and
 
-**Let me see your beauty**
+Em
+Dance me very long
 
-**\    Em**
+    Am
+We're both of us beneath our love
 
-**When the witnesses are gone**
+\    Em
+We're both of us above
 
-**Am**
+B7                     Em
+Dance me to the end of love
 
-**Let me feel you moving**
+B7                  Em7add11 Em
+Dance me to the end of love
 
-**\    Em**
+\[Verse 4]
+Am
+Dance me to the children
 
-**Like they do in Babylon**
+\    Em
+Who are asking to be born
 
-**Am**
+Am
+Dance me through the curtains
 
-**Show me slowly what I only**
+\    Em
+That our kisses have outworn
 
-**Em**
+Am
+Raise a tent of shelter now
 
-**Know the limits of**
+\    Em
+Though every thread is torn
 
-**B7                     Em**
+B7                  Em7add11 Em
+Dance me to the end of love
 
-**Dance me to the end of love**
+\[Verse 5]
 
-**B7                  Em7add11 Em**
+Am
+Dance me to your beauty
 
-**Dance me to the end of love**
+\    Em
+With a burning violin
 
-**\[Verse 3]**
+Am
+Dance me through the panic
 
-**Am**
+    Em
+Till I'm gathered safely in
 
-**Dance me to the wedding now**
+Am
+Touch me with your naked hand
 
-**Em**
+Em
+Touch me with your glove
 
-**Dance me on and on**
+B7                     Em
+Dance me to the end of love
 
-**Am**
-
-**Dance me very tenderly and**
-
-**Em**
-
-**Dance me very long**
-
-**\    Am**
-
-**We're both of us beneath our love**
-
-**\    Em**
-
-**We're both of us above**
-
-**B7                     Em**
-
-**Dance me to the end of love**
-
-**B7                  Em7add11 Em**
-
-**Dance me to the end of love**
-
-**\[Verse 4]**
-
-**Am**
-
-**Dance me to the children**
-
-**\    Em**
-
-**Who are asking to be born**
-
-**Am**
-
-**Dance me through the curtains**
-
-**\    Em**
-
-**That our kisses have outworn**
-
-**Am**
-
-**Raise a tent of shelter now**
-
-**\    Em**
-
-**Though every thread is torn**
-
-**B7                  Em7add11 Em**
-
-**Dance me to the end of love**
-
-**\[Verse 5]**
-
-**Am**
-
-**Dance me to your beauty**
-
-**\    Em**
-
-**With a burning violin**
-
-**Am**
-
-**Dance me through the panic**
-
-**\    Em**
-
-**Till I'm gathered safely in**
-
-**Am**
-
-**Touch me with your naked hand**
-
-**Em**
-
-**Touch me with your glove**
-
-**B7                     Em**
-
-**Dance me to the end of love**
-
-**B7                  Em7add11 Em**
-
-**Dance me to the end of love**
+B7                  Em7add11 Em
+Dance me to the end of love
