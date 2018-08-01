@@ -2,98 +2,87 @@
 title: Wonderin’ Where I’m Bound
 artist: Tom Paxton
 ---
-Capo 2nd fret (sounding A major)
+[Intro]
+Dm G C Am
+Dm G C
 
- G    
-
+       C    
 It's a long and dusty road
-
-\    C        /B     Am
-
+       F       Em    Dm
 It's a hot and heavy load
-
-\    D            /C    /B /A   G    lick#1
-
+        G7                        C
 And the folks I meet ain't always kind
-
-\    G
-
-Some are bad and some are good’n
-
-\    C        /B         Am      
-
+         C
+Some are bad and some are good
+          F        Em        Dm
 Some have done the best they could
-
-\    D             /C      /B /A  G   lick#2
-
+G7                                    C
 Some have tried to ease my trouble in mind
 
-
-
-\    C               D                G                Em      C
-
+      Dm             G                C                Am
 And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
 
-\    D                G
-
-can't help but wonder where I'm bound 
-
-
-
+          C
 I've been wandering through this land
-
+     F         Em     Dm
 Just doin' the best I can
-
+G7                                 C
 Trying to find what I was meant to do
-
+        
 And the people that I see
-
+        F       Em     Dm
 Look as worried as can be
+       G7                            C
+And it looks like they are wanderin' too
 
-And it looks like they are wand’rin’ too
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
 
+[Instrumental]
 
+      C    
+But I had a little girl one time
+        F         Em     Dm
+She had lips like cherry wine
+        G7                                 C
+And she loved me, till my head went plum insane
+          
+But I was, too blind to see
+        F         Em       Dm
+She was driftin' away from me
+       G7                               C
+And my good girl went off on a midnight train
 
-But I had me a buddy back home
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
 
-And he started off to roam
+[Instrumental]
 
-Now he’s out, gone to Frisco Bay
-
-And sometimes when I've had a few
-
-His old voice comes ringin' through
-
-And yes I'm goin' out to see him some old day
-
-
-
+       C    
 If you see me passin' by
-
+        F           Em     Dm
 And you sit and you wonder why
-
-And you wish that you were a rambler, too
-
+        G7                          C
+And you wish that you were rambling too
+          
 nail your shoes to the kitchen floor
-
+        F      Em      Dm
 Lace'em up and bar the door
-
+G7                                        C
 Thank your stars for the roof that's over you
 
+      Dm             G                C                Am
+And I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound 
 
-
-
-
-Lick#1    D                     Lick#2     G
-
-\|---------2--|          |----------3--|
-
-\|---------3--|          |----------0--|
-
-\|---------2--|          |----------0--|
-
-\|-----0h2-0--|          |-----0----0--|
-
-\|-0h2--------|          |-0h2------2--|
-
-\|------------|          |----------3--
+  Dm             G                C                Am
+I can't help but wonder where I'm bound, where I'm bound
+Dm             G                C
+Can't help but wonder where I'm bound

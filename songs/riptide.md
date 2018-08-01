@@ -1,6 +1,6 @@
 ---
-title: "Riptide"
-artist: "Vance Joy"
+title: Riptide
+artist: Vance Joy
 ---
 <pre>
 
@@ -37,6 +37,8 @@ I love you when you're singing that song and
 I got a lump in my throat 'cause
 You're gonna sing the words wrong
 
+Am G  C C
+Am G  F  F
 I just wanna, I just wanna know
 If you're gonna, if you're gonna stay
 I just gotta, I just gotta know
