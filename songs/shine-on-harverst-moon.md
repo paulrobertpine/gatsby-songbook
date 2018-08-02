@@ -1,5 +1,5 @@
 ---
-title: Shine On Harverst Moon
+title: Shine On Harvest Moon
 artist: Nora Bayes & Jack Norworth
 ---
 <pre>
