@@ -6,7 +6,7 @@ artist: Neil Young
 
       D       A         G            D
 Did I see you down in a young girl's town,
-                            A
+D                            A
 with your mother in so much pain?
       G      A            Bm         E
 I was almost there at the top of the stairs,
@@ -24,7 +24,7 @@ with the promise of a man.
 
       D       A       G        D
 Did I see you walking with the boys,
-                          A
+D                          A
 though it was not hand in hand?
         G          A         Bm     E
 And was some black face in a lonely place,
@@ -33,7 +33,7 @@ when you could understand?
 
         D        A     G        D
 Did she wake you up to tell you that,
-                        A
+D                        A
 it was only a change of plan?
 G               A          Bm        E
 Dream up, dream up, let me fill your cup,
@@ -42,7 +42,7 @@ with the promise of a man.
 
        D       A              G     D
 Will I see you give more than I can take?
-                    A
+D                    A
 Will I only harvest some?
        G        A            Bm       E
 As the days fly past will we lose our grasp,
@@ -51,7 +51,7 @@ or fuse it in the sun?
 
         D        A     G        D
 Did she wake you up to tell you that,
-                        A
+D                        A
 it was only a change of plan?
 G               A          Bm        E
 Dream up, dream up, let me fill your cup,
