@@ -2,97 +2,97 @@
 title: Ob-la-di Ob-la-da
 artist: The Beatles
 ---
-Intro: |A   |A   |A   |A   ||
+Intro: |G   |G   |G   |G   ||
 
-A                           E
+G                           D
 Desmond has a borrow in the market place,
-E7                       A
+D7                       G
 Molly is a singer in the band.
-                               D
+                               C
 Desmond says to Molly, girl, I like your face
-          A                E                A
+          G                D                G
 And Molly says this as she takes him by the hand,
 
 Chorus:
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
 
-A                             E
+G                             D
 Desmond takes a trolly to the jewller's store.
-E7                         A
+D7                         G
 Buys a twenty carat golden ring.
-                               D
+                               C
 Takes it back to Molly waiting at the door.
-          A               E             A
+          G               D             G
 And as he gives it to her she begins to sing,
 
 Chorus
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
 
-D                                                      A Asus2 A A7
+C                                                      G  Gsus2  G  G7
 In a couple of years they have built a home sweet home.
-D
+C
 With a couple of kids running in the yard,
-   A/E                 E
+   G/D                 D
 Of Desmond and Molly Jones.
 
-A                       E
+G                       D
 Happy ever after in the market place,
-E7                               A
+D7                               G
 Desmond lets the children lend a hand.
-                                 D
+                                 C
 Molly stays at home and does her pretty face
-           A                 E                 A
+           G                 D                 G
 And in the evening she still sings it with the band.
 
 Chorus:
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
 
-D                                                      A Asus2 A A7
+C                                                      G  Gsus2  G  G7
 In a couple of years they have built a home sweet home.
-D
+C
 With a couple of kids running in the yard,
-   A/E                 E
+   G/D                 D
 Of Desmond and Molly Jones.
 
-A                       E
+G                       D
 Happy ever after in the market place,
-E7                               A
+D7                               G
 Molly lets the children lend a hand.
-                                 D
+                                 C
 Desmond stays at home and does his pretty face
-           A               E               A
+           G               D               G
 And in the evening she's a singer with the band.
 
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         A
+G               D         G
 La-la how their life goes on.
-(A)                           E   F#m7
+(G)                           D   Em7
 Ob-La-Di, Ob-La-Da, life goes on__bra.
-A               E         F#m7
+G               D         Em7
 La-la how their life goes on.
 
 And if you want some fun,
-     E            A
+     D            G
 Take Ob-La-Di-Bla-Da.
