@@ -10,14 +10,14 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `src`,
+        name: `songs`,
         path: `${__dirname}/songs/`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `src`,
+        name: `transposing-songs`,
         path: `${__dirname}/transposing-songs/`,
       },
     },

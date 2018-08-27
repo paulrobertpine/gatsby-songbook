@@ -1,7 +1,5 @@
-import React from "react"
+import React from "react";
 import Link from "gatsby-link";
-
-// this is the home page
 
 export default ({ data }) => {
   return (

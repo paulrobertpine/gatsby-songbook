@@ -1,32 +1,26 @@
 .sheet h2 {
-    color: $colour-secondary;
-    margin-bottom: 30px;
-}
-
-pre {
-  font-family: $font-mono;
-  font-size: 18px;
+  color: $colour-secondary;
+  margin-bottom: 30px;
 }
 
 .song {
-    white-space: pre; 
-    display: block; 
-    unicode-bidi: embed;
-    font-family: $font-mono;
-    font-weight: bold;
-    font-size: 20px;
-  }
+  font-size: 22px;
 
-span[data-chord]{
-  font-family:"Playfair Display", serif;
-  &:before {
-    color: $colour-secondary;
-    content: attr(data-chord);
-    display: inline-block;
-    font-size: 18px;
-    position: relative;
-    top: -1.2em;
-    width: 0;
-    word-wrap: normal;
+  .chord-sheet {
+    .row {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr) );
+      padding-top: 1rem;
+    }
+    .chord {
+      color: $colour-primary;
+      font-weight: bold;
+      font-style: italic;
+    }
+    .empty-line {
+      height: 2rem;
+      // border-top: 1px solid #ccc;
+    }
   }
+  
 }
