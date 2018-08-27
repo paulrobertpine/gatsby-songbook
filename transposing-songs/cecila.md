@@ -11,3 +11,6 @@ key: C
 
 [C]Tortilia, you're [F]breaking my [C]heart, you're 
 [F]shaking my [C]confidence [G7]daily
+
+Hey, I just met you[Am]and this crazy
+[Gm]So whatevs, Will this[F]work? maybe
