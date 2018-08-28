@@ -1,26 +1,36 @@
-.sheet h2 {
-  color: $colour-secondary;
-  margin-bottom: 30px;
+.sheet {
+  max-width: 600px;
+  margin: 0 auto;
+
+  h2 {
+    color: $colour-secondary;
+    margin-bottom: 30px;
+  }
 }
+
 
 .song {
   font-size: 22px;
 
   .chord-sheet {
     .row {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr) );
-      padding-top: 1rem;
+      padding-top: 0.5rem;
+      
+      .column {
+        display: inline-block;
+        margin-right: 0.5rem;
+
+        .chord {
+          color: $colour-primary;
+          font-weight: bold;
+          font-style: italic;
+        }
+      }
     }
-    .chord {
-      color: $colour-primary;
-      font-weight: bold;
-      font-style: italic;
-    }
+
     .empty-line {
       height: 2rem;
-      // border-top: 1px solid #ccc;
+      // background-color: purple;
     }
   }
-  
 }

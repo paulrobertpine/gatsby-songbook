@@ -6,19 +6,11 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-transformer-remark`,
     `gatsby-plugin-netlify-cms`,
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `songs`,
         path: `${__dirname}/songs/`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `transposing-songs`,
-        path: `${__dirname}/transposing-songs/`,
       },
     },
     {
@@ -39,5 +31,6 @@ module.exports = {
         icon: "src/images/microphone.png",
       },
     },
+    `gatsby-plugin-offline`
   ],
 };

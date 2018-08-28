@@ -13,13 +13,6 @@ collections:
     fields:
       - { name: "title", label: "Title" }
       - { name: "artist", label: "Artist" }
-      - { name: "body", label: "Body", widget: "markdown"}
-  - name: transposing-song
-    label: Transposing Song
-    folder: transposing-songs
-    create: true
-    fields:
-      - { name: "title", label: "Title" }
-      - { name: "artist", label: "Artist" }
       - { name: "key", label: "Key" }
+      - { name: "chordpro", label: "ChordPro?", widget: "boolean", default: true }
       - { name: "body", label: "Body", widget: "markdown"}
