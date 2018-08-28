@@ -2,7 +2,7 @@
 title: Deep River Blues
 artist: Traditional
 key: E
-chordpro: false
+chordpro: true
 ---
 [|E...|A7...|E...|A7...|E...|...|B7...|....|]
 [|E...|A7...|E...|A7...|E...|B7...|E...|....|]
