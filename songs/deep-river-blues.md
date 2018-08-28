@@ -2,19 +2,19 @@
 title: Deep River Blues
 artist: Traditional
 key: E
+chordpro: false
 ---
-<pre>
-|E   |A7  |E   |A7  |E   |    |B7  |    |
-|E   |A7  |E   |A7  |E   |B7  |E   |    | 
+[|E...|A7...|E...|A7...|E...|...|B7...|....|]
+[|E...|A7...|E...|A7...|E...|B7...|E...|....|]
 
-[Intead of A7, you can also play E diminished]
+(Intead of A7, you can also play E diminished)
 
-Let it rain,let it pour, 
-Let it rain a whole lot more, 
-'Cause I got them deep river blues. 
-Let the rain drive right on, 
-Let the waves sweep along, 
-'Cause I got them deep river blues. 
+[E]Let it rain,[A7]let it pour, 
+[E]Let it rain a [A7]whole lot more, 
+'Cause [E]I got them deep river [B7]blues. 
+[E]Let the rain [A7]drive right on, 
+[E]Let the waves [A7]sweep along, 
+'Cause [E]I got them [D7]deep river [E]blues. 
 
 My old gal's a good old pal, 
 And she looks like a water fowl, 
@@ -36,5 +36,3 @@ I'll go down, don't you see,
 Now I'm gonna say goodbye, 
 And if I sink, just let me die, 
 'Cause I got them deep river blues.
-
-</pre>
