@@ -14,7 +14,7 @@ chordpro: true
 'Cause [E]I got them deep river [B7]blues. 
 [E]Let the rain [A7]drive right on, 
 [E]Let the waves [A7]sweep along, 
-'Cause [E]I got them [D7]deep river [E]blues. 
+'Cause [E]I got them [B7]deep river [E]blues. 
 
 My old gal's a good old pal, 
 And she looks like a water fowl, 
