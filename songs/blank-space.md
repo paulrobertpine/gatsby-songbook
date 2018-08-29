@@ -1,14 +1,13 @@
 ---
 title: Blank Space
 artist: Taylor Swift
+key: D
+chordpro: false
 ---
-<pre>
 
-
-[Verse]
 
 D
- Nice to meet you where you been
+Nice to meet you where you been
                           Bm
 I can show you incredible things
 
@@ -19,11 +18,11 @@ G
 Oh my God, look at that face
 
 You look like my next mistake
-A7sus4                    A
+A7sus4                 A
 Love’s a game, want to plaaaaay?
 
 D
- New money, suit and tie
+New money, suit and tie
                           Bm
 I can read you like a magazine
 
@@ -40,59 +39,55 @@ G                       A
 I can make the bad guys good for a weekend
 
 
-[Chorus]
-
-D                                                        Bm
- So it's gonna be forever or it's gonna go down in flames
-
+D                                                 
+So it's gonna be forever or it's gonna go down in flames
+Bm
 You can tell me when it's over mmm
-                              Em
+                              
 If the high was worth the pain
-
+Em
 Got a long list of ex-lovers
-                           G
+                           
 They'll tell you I'm insane
-                                                       D
+G                                                     
 Cause you know I love the players and you love the game
 
+(chorus)
 D
 Cause we're young and we're reckless
-                           Bm
+
 We'll take this way too far
-
- It'll leave you breathless, mmm
-                    Em
+Bm
+It'll leave you breathles
+                   
 Or with a nasty scar
-
- Got a long list of ex-lovers
-                           G
+Em
+Got a long list of ex-lovers
+                           
 They'll tell you I'm insane  
-                          G   N.C.                D
+G                          
 But I got a blank space baby and I'll write your name
-
-
-[Verse]
 
 D
 Cherry lips, crystal skies
-                            Bm
+                            
 I could show you incredible things
-
+Bm
 Stolen kisses, pretty lies
-                              G
+                              
 You're the king baby I'm your queen
-
+G
 Find out what you want       
            
 Be that girl for a month
 A7sus4                     A        
 Wait the worst is yet to come, oh no
 
- D                         
+D                         
 Screaming crying perfect storms
-                          Bm
+                          
 I can make all the tables turn
-
+Bm
 Rose garden filled with thorns
 
 Keep you second guessing
@@ -102,14 +97,11 @@ Like "Oh my god who is she?"
 I get drunk on jealousy
     A
 But you'll come back each time you leave
-                               G N.C.
+                               G 
 Cause darlin' I'm a nightmare, dressed like a daydream
 
-
-[Chorus]
-
 D                                                        Bm
- So it's gonna be forever or it's gonna go down in flames
+So it's gonna be forever or it's gonna go down in flames
 
 You can tell me when it's over, mm
                               Em
@@ -121,61 +113,43 @@ They'll tell you I'm insane
                                                        D
 Cause you know I love the players and you love the game
 
- D
-Cause we're young and we're reckless
-                           Bm
-We'll take this way too far
-
-It'll leave you breathless, mmm
-                    Em
-Or with a nasty scar
-
-Got a long list of ex-lovers
-                           G
-They'll tell you I'm insane (insane)
-                          G  N.C.
-But I got a blank space baby and I'll write your name
+(chorus)
 
 
-[Bridge]
-
+(bridge)
 D           
- Boys only want love if it's torture
-
+Boys only want love if it's torture
 Don't say I didn't, say I didn't warn you
-D  
- Boys only want love if it's torture
-D N.C.
- Don't say I didn't, say I didn't warn you
+Boys only want love if it's torture
+Don't say I didn't, say I didn't warn you
 
-
-[Chorus]
-
-D                                                        Bm
- So it's gonna be forever or it's gonna go down in flames
-
+(chorus)
+D                                                        
+So it's gonna be forever or it's gonna go down in flames
+Bm
 You can tell me when it's over mmm
-                              Em
+                              
 If the high was worth the pain
-
+Em
 Got a long list of ex-lovers
-                           G
+                           
 They'll tell you I'm insane
-                                                       D
+G                                                       
 Cause you know I love the players and you love the game
 
-
+D
 Cause we're young and we're reckless
-                           Bm
+                           
 We'll take this way too far
-
+Bm
 It'll leave you breathless, mmm
-                    Em
+                    
 Or with a nasty scar
-
+Em
 Got a long list of ex-lovers
-                           G
+                           
 They'll tell you I'm insane  
-                          G  N.C.
+G  
 But I got a blank space baby and I'll write your name
-</pre>
+D
+
