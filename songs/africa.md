@@ -4,7 +4,7 @@ artist: Toto
 key: G
 chordpro: false
 ---
-Intro]
+[Intro]
 F   Am   x4
 
 [Verse 1]
