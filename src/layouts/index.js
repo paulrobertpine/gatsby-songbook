@@ -1,5 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
+import 'typeface-cabin';
+import 'typeface-aleo';
 import './index.scss';
 
 export default ({ children, data }) =>

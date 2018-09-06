@@ -1,11 +1,16 @@
 body {
   background-color: $colour-background;
+  font-family: $font-main;
 }
 
 a {
   color: $colour-link;
   transition: background-color 0.2s ease;
 }
+
+// h1, h2, h3, h4, h5, h6 {
+//   font-family: "Cabin", serif;
+// }
 
 h1 {
   color: $colour-primary;

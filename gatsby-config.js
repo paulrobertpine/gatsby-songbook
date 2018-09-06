@@ -7,19 +7,6 @@ module.exports = {
     `gatsby-transformer-remark`,
     `gatsby-plugin-netlify-cms`,
     {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `songs`,
-        path: `${__dirname}/songs/`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: "Jams!",
@@ -29,6 +16,13 @@ module.exports = {
         theme_color: "#c7c41d;",
         display: "minimal-ui",
         icon: "src/images/microphone.png",
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `songs`,
+        path: `${__dirname}/songs/`,
       },
     },
     `gatsby-plugin-offline`

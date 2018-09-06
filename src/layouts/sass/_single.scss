@@ -18,19 +18,20 @@
       
       .column {
         display: inline-block;
-        margin-right: 0.5rem;
+        margin-right: 0.3rem;
 
         .chord {
+          font-family: $font-title;
           color: $colour-primary;
-          font-weight: bold;
-          font-style: italic;
+          font-size: 20px;
+          // font-weight: bold;
+          // font-style: italic;
         }
       }
     }
 
     .empty-line {
       height: 2rem;
-      // background-color: purple;
     }
   }
 }
