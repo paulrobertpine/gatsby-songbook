@@ -15,7 +15,7 @@ module.exports = {
         background_color: "#1c5a7e",
         theme_color: "#c7c41d;",
         display: "minimal-ui",
-        icon: "src/images/microphone.png",
+        icon: "src/images/like.png",
       },
     },
     {

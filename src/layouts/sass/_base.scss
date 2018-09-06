@@ -8,10 +8,6 @@ a {
   transition: background-color 0.2s ease;
 }
 
-// h1, h2, h3, h4, h5, h6 {
-//   font-family: "Cabin", serif;
-// }
-
 h1 {
   color: $colour-primary;
 }
@@ -26,7 +22,7 @@ h2, h3, h4, h5, h6 {
   padding: 20px 5px;
 }
 
-a.site-title, a.site-footer {
+a.site-title {
   text-decoration: none;
   h1 {
     background: url("../images/home.svg") no-repeat;
@@ -34,8 +30,9 @@ a.site-title, a.site-footer {
     background-color: $colour-secondary;
     color: $colour-primary;
     font-size: 24px;
-    padding: 20px 0 20px 75px;
-    transition: background-color 2s ease;
+    padding: 20px 0 20px 80px;
+    margin: 0;
+    transition: background-color 0.7s ease;
     &:hover {
       background-color: $colour-link;
     }
@@ -43,6 +40,7 @@ a.site-title, a.site-footer {
 }
 
 a.site-footer {
+  text-decoration: none;
   h1 {
     background: url("../images/like.svg") center no-repeat;
     background-size: 30px;
