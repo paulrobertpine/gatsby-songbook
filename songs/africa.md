@@ -30,7 +30,7 @@ Dm                      A#            F             C
 There's nothing that a hundred men or more could ever do       
 Dm           A#          F  C
 I bless the rains down in  Africa
-Dm              A#              F        Am  C Dm   F Am
+Dm              A#              F        Am  C Dm  C F Am
 Gonna take some time to do the things we never  had
 
 [Verse 2]
@@ -54,7 +54,7 @@ Dm                    A#            F             C
 There's nothing that a hundred men or more could ever do
 Dm         A#            F  C
 I bless the rains down in  Africa
-Dm            A#             F        Am  C Dm   F Am
+Dm            A#             F        Am  C Dm  C    F Am
 Gonna take some time to do the things we never  had
 
 [Interlude]
