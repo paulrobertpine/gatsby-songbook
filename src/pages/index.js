@@ -1,9 +1,11 @@
-import React from "react";
-import Link from "gatsby-link";
+import React from "react"
+import { graphql } from "gatsby"
+import Link from "gatsby-link"
+import Layout from "../components/layout"
 
 export default ({ data }) => {
   return (
-    <div>
+    <Layout>
       <h1>Jams!</h1>
       <h2>{data.allMarkdownRemark.totalCount} Songs</h2>
       <div id="songbook">
@@ -16,7 +18,7 @@ export default ({ data }) => {
           </div>
         ))}
       </div>
-    </div>
+    </Layout>
   );
 };
 
@@ -39,4 +41,4 @@ export const query = graphql`
       }
     }
   }
-`;
+`

@@ -23,12 +23,15 @@
     .song-title, .artist {
       display: block;
       text-align: center;
+      font-family: $font-title;
+    }
+    .song-title {
+      font-size: 18px;
     }
     .artist {
-      // font-size: 16px;
+      font-size: 16px;
       color: $colour-primary;
       padding-top: 5px;
     }
   }
-
 }

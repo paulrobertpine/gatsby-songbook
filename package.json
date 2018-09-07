@@ -1,6 +1,11 @@
 {
   "name": "dag-songbook",
   "description": "DAG songbook",
+  "author": "Paul Clifford <paulrobertpine@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulrobertpine/gatsby-dag.git"
+  },
   "license": "MIT",
   "scripts": {
     "develop": "gatsby develop",
@@ -10,16 +15,21 @@
   "dependencies": {
     "chordjs": "^1.1.1",
     "chordsheetjs": "^2.8.1",
-    "gatsby": "^1.9.271",
-    "gatsby-link": "^1.6.40",
-    "gatsby-plugin-manifest": "^1.0.27",
-    "gatsby-plugin-netlify-cms": "^2.0.1",
-    "gatsby-plugin-offline": "^1.0.18",
-    "gatsby-plugin-sass": "^1.0.26",
-    "gatsby-source-filesystem": "^1.5.32",
-    "gatsby-transformer-remark": "^1.7.40",
-    "netlify-cms": "^1.9.1",
+    "gatsby": "next",
+    "gatsby-plugin-manifest": "next",
+    "gatsby-plugin-netlify-cms": "next",
+    "gatsby-plugin-offline": "next",
+    "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-sass": "next",
+    "gatsby-source-filesystem": "next",
+    "gatsby-transformer-remark": "next",
+    "immutable": "^3.8.2",
+    "netlify-cms": "^2.1.1",
+    "node-sass": "^4.9.3",
     "normalize-css": "^2.3.1",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-helmet": "^5.2.0",
     "typeface-aleo": "0.0.44",
     "typeface-cabin": "0.0.54"
   }

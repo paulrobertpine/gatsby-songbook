@@ -1,0 +1,41 @@
+.song-header {
+  display: grid;
+  align-items: center;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  border-bottom: 1px dotted $colour-text;
+  padding: 10px;
+  h1 {
+
+  }
+  h2 {
+    color: $colour-secondary;
+  }
+  h3 {
+    color: $colour-text;
+  }
+}
+
+.song {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 30px 10px 0 10px;
+  font-size: 20px;
+  .chord-sheet {
+    .row {
+      padding-top: 0.5rem;
+      .column {
+        display: inline-block;
+        margin-right: 0.3rem;
+        .chord {
+          font-family: $font-title;
+          color: $colour-secondary;
+          font-size: 20px;
+          font-weight: bold;
+        }
+      }
+    }
+    .empty-line {
+      height: 2rem;
+    }
+  }
+}

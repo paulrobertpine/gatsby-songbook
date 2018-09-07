@@ -8,6 +8,10 @@ a {
   transition: background-color 0.2s ease;
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-title;
+}
+
 h1 {
   color: $colour-primary;
 }
@@ -18,8 +22,7 @@ h2, h3, h4, h5, h6 {
 
 #main {
   margin: 20px auto;
-  max-width: 1000px;
-  padding: 20px 5px;
+  max-width: 1200px;
 }
 
 a.site-title {
