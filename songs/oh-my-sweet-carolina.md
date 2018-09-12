@@ -4,7 +4,7 @@ artist: Ryan Adams
 key: C
 chordpro: false
 ---
-Verse 1]
+[Verse 1]
     C                         F              C
 I went down to Houston and I stopped in San Antone
     C                            G
