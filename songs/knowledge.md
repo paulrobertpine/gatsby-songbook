@@ -32,13 +32,6 @@ i'm not gonna change my mind
 All i know is that i dont know
 All i know is that i dont know nothin. (x2)
 
-Solo 
-e-------------------------|
-b-------------------------|
-g-------------------------|(x2)
-d-3-2-0---3-2-0---1-1-----|
-a-------3-------3-----1---|
-E-----------------------1-|
 
 What you gonna do with yourself
 Boy better make up your mind.
