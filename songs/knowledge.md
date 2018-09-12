@@ -1,8 +1,9 @@
 ---
-title: "Knowledge"
-artist: "Operation Ivy"
+title: Knowledge
+artist: Operation Ivy
+key: C
+chordpro: false
 ---
-<pre>
 
 C
 I know things are gettin tough when u
@@ -22,7 +23,6 @@ All i know is that i dont know
 Bb                   F
 All i know is that i dont know nothin.
 
-[Chords are just the same, rest of lyrics and little solo below]
 
 We're gettin 
 taught to decide
@@ -45,7 +45,6 @@ Boy better make up your mind.
 What you gonna do with yourself
 you're runnin out of time.
 
-[Play little solo bit again]
 
 All i know is that i dont know
 All i know is that i dont know nothin. (x2 Palm muted)
@@ -53,4 +52,3 @@ All i know is that i dont know nothin. (x2 Palm muted)
 All i know is that i dont know
 All i know is that i dont know nothin. (x2 not muted)
 
-</pre>
