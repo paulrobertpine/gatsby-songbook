@@ -2,7 +2,6 @@ module.exports = {
   plugins: [
     `gatsby-plugin-sass`,
     `gatsby-transformer-remark`,
-    `gatsby-plugin-netlify-cms`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -22,6 +21,8 @@ module.exports = {
         path: `${__dirname}/songs/`,
       },
     },
-    `gatsby-plugin-offline`
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
+    'gatsby-plugin-netlify', // make sure to keep it last in the array
   ],
 };

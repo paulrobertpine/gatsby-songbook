@@ -1,5 +1,5 @@
 {
-  "name": "dag-songbook",
+  "name": "gatsby-dag",
   "description": "DAG songbook",
   "author": "Paul Clifford <paulrobertpine@gmail.com>",
   "repository": {
@@ -17,20 +17,25 @@
     "chordsheetjs": "^2.8.1",
     "gatsby": "next",
     "gatsby-plugin-manifest": "next",
+    "gatsby-plugin-netlify": "next",
     "gatsby-plugin-netlify-cms": "next",
     "gatsby-plugin-offline": "next",
     "gatsby-plugin-react-helmet": "next",
     "gatsby-plugin-sass": "next",
     "gatsby-source-filesystem": "next",
     "gatsby-transformer-remark": "next",
+    "lodash": "^4.17.5",
+    "lodash-webpack-plugin": "^0.11.4",
     "immutable": "^3.8.2",
     "netlify-cms": "^2.1.1",
     "node-sass": "^4.9.3",
     "normalize-css": "^2.3.1",
+    "parcel-bundler": "^1.9.4",
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-helmet": "^5.2.0",
     "typeface-aleo": "0.0.44",
-    "typeface-cabin": "0.0.54"
+    "typeface-cabin": "0.0.54",
+    "uuid": "^3.2.1"
   }
 }
