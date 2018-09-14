@@ -1,7 +1,7 @@
-import React from "react"
-import { graphql } from "gatsby"
-import Link from "gatsby-link"
-import Layout from "../components/layout"
+import React from 'react'
+import { graphql } from 'gatsby'
+import Link from 'gatsby-link'
+import Layout from '../components/layout'
 
 export default ({ data }) => {
   return (
@@ -19,8 +19,8 @@ export default ({ data }) => {
         ))}
       </div>
     </Layout>
-  );
-};
+  )
+}
 
 export const query = graphql`
   query IndexQuery {

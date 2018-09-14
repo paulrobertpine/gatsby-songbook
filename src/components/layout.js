@@ -1,13 +1,13 @@
-import React from "react"
-import Helmet from "react-helmet"
-import { Link } from "gatsby"
+import React from 'react'
+import Helmet from 'react-helmet'
+import { Link } from 'gatsby'
 import 'typeface-cabin'
 import 'typeface-aleo'
-import "../styles/style.scss"
+import '../styles/style.scss'
 
 export default ({ children }) => (
   <div id="root">
-    <Helmet htmlAttributes={{ lang: "en" }}>
+    <Helmet htmlAttributes={{ lang: 'en' }}>
       <meta charSet="utf-8" />
       <title>Songbook</title>
     </Helmet>

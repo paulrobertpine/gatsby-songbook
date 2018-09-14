@@ -8,9 +8,11 @@
   },
   "license": "MIT",
   "scripts": {
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "serve": "gatsby serve"
+    "clean": "rimraf .cache public",
+    "develop": "npm run clean && gatsby develop",
+    "build": "npm run clean && gatsby build",
+    "serve": "gatsby serve",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\""
   },
   "dependencies": {
     "chordjs": "^1.1.1",
@@ -37,5 +39,9 @@
     "typeface-aleo": "0.0.44",
     "typeface-cabin": "0.0.54",
     "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.7.4",
+    "rimraf": "^2.6.2"
   }
 }
