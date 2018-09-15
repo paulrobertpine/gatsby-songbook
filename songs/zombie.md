@@ -1,0 +1,54 @@
+---
+title: Zombie
+artist: Cranberries
+key: Em
+chordpro: true
+---
+[Intro] 
+Em C G D/F#  4x
+
+[Verse 1]
+Em       C                G                D/F# 
+Another head hangs lowly, child is slowly taken
+Em               C                    G               D/F# 
+And the violence caused such silence, who are we mistaken 
+        Em                        C 
+But you see it's not me, it's not my family
+        G                               D/F# 
+In your head, in your head, they are fighting 
+           Em                              C                                                         
+With their tanks and their bombs and their bombs and their guns 
+         G                             D/F#
+in your head, in your head, they are crying
+
+[Chorus 1]
+        Em            C            G             D/F# 
+In your head, in your head, zombie, zombie, zombie 
+               Em            C            G             D/F# 
+What's in your head, in your head, zombie, zombie, zombie 
+
+Em C G D/F# x2
+
+[Verse 2]
+Em        C                  G              D/F# 
+Another mother's breaking heart is taking over
+Em                C               G            D/F# 
+When the violence causes silence, we must be mistaken
+         Em                   C  
+It's the same old theme since 1916
+        G                                  D/F# 
+In your head, in your head, they're still fighting
+           Em                              C  
+With their tanks and their bombs and their bombs and their guns
+        G                            D/F# 
+In your head, in your head, they're dying
+
+[Chorus 2]
+        Em            C            G             D/F# 
+In your head, in your head, zombie, zombie, zombie 
+               Em            C            G             D/F# 
+What's in your head, in your head, zombie, zombie, zombie 
+
+[Outro]
+Em C G D/F# 
+(repeat to fade)
