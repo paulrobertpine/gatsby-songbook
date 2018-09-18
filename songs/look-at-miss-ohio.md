@@ -1,5 +1,5 @@
 ---
-title: ' Look At Miss Ohio'
+title: Look At Miss Ohio
 artist: Gillian Welch
 ---
 <pre>

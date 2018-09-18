@@ -1,6 +1,6 @@
 ---
-title: ' Like A Hurricane'
-artist: ' Neil Young'
+title: Like A Hurricane
+artist: Neil Young
 ---
 
 Am                              G

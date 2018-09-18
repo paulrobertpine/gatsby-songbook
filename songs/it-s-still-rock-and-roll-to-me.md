@@ -1,5 +1,5 @@
 ---
-title: ' It''s Still Rock And Roll To Me'
+title: It's Still Rock And Roll To Me
 artist: Billy Joel
 key: C
 chordpro: true

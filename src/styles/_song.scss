@@ -26,10 +26,15 @@
       .column {
         display: inline-block;
         margin-right: 0.3rem;
+        .lyrics {
+          &:after {
+            // content: '\200b';
+          }
+        }
         .chord {
           font-family: $font-title;
-          color: $colour-secondary;
-          font-size: 20px;
+          color: $colour-chord;
+          font-size: 18px;
           font-weight: bold;
         }
       }
