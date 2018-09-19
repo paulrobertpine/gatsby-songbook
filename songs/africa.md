@@ -2,84 +2,44 @@
 title: Africa
 artist: Toto
 key: G
-chordpro: false
+chordpro: true
 ---
-[Intro]
-F   Am   x4
+[F][Am][x4]
 
-[Verse 1]
-G                   Bm      Em
-I hear the drums echoing tonight
-G                 F             Am          Em    F  Am
-She hears only whispers of some quiet conversa - tion
-G                Bm            Em           G
-She's coming in twelve thirty flight   the moonlit wings
-F                      Am7               Em    F  Am
-Reflect the stars that guide me toward salva-tion
-G              Bm              Em
-I stopped an old man along the way
-G                    F             Am               Em    F Am
-Hoping to find some long forgotten words or ancient melo-dies
-G              Bm        Em                  F                Am
-He turned to me as if to say hurry boy, it's waiting there for you
+[G]I hear the drums ech[Bm]oing ton[Em]ight
+[G]She hears only whi[F]spers of some [Am]quiet conver[Em]sa - t[F]ion[Am]
+[G]She's coming in t[Bm]welve thirty f[Em]light   the m[G]oonlit wings
+[F]Reflect the stars that [Am7]guide me toward sa[Em]lva-ti[F]on[Am]
+[G]I stopped an ol[Bm]d man along the [Em]way
+[G]Hoping to find some l[F]ong forgotten [Am]words or ancient [Em]melo-d[F]ie[Am]s
+[G]He turned to me[Bm] as if to [Em]say hurry boy, it's [F]waiting there for[Am]you
 
-[Chorus]
-Dm            A#              F       C
-Gonna take a lot to drag me away from you
-Dm                      A#            F             C
-There's nothing that a hundred men or more could ever do       
-Dm           A#          F  C
-I bless the rains down in  Africa
-Dm              A#              F        Am  C Dm  C F Am
-Gonna take some time to do the things we never  had
+[Dm]Gonna take a l[Bb]ot to drag me aw[F]ay from [C]you
+[Dm]There's nothing that a h[Bb]undred men or [F]more could eve[C]r do
+[Dm]I bless the r[Bb]ains down in[F]  A[C]frica
+[Dm]Gonna take some [Bb]time to do the t[F]hings we [Am]neve[C]r [Dm] had[C][F][Am]
 
-[Verse 2]
-G             Bm             Em
-The wild dogs cry out in the night
-G                     F                Am       Em    F  Am
-As they grow restless longing for some solitary compa-ny
-G           Bm               Em
-I know that I must do what's right
-G                      F          Am                Em     F  Am
-As sure as Kilimanjaro rises like Olympus above the Serengeti
-G         Bm                 Em
-I seek to cure what's deep inside
-Em                 F                   Am
-Frightened of this thing that I've become
+[G]The wild dogs [Bm]cry out in the [Em]night
+[G]As they grow restless [F]longing for some [Am]solitary [Em]compa-[F]ny[Am]
+[G]I know that [Bm]I must do what's [Em]right
+[G]As sure as Kilimanjaro [F]rises like [Am]Olympus above the [Em]Serenge[F]ti[Am]
+[G]I seek to [Bm]cure what's deep in[Em]side
+[Em]Frightened of this [F]thing that I've beco[Am]me
 
-[Chorus]
-Dm          A#            F       C
-Gonna take a lot to drag me away from you
-Dm                    A#            F             C
-There's nothing that a hundred men or more could ever do
-Dm         A#            F  C
-I bless the rains down in  Africa
-Dm            A#             F        Am  C Dm  C    F Am
-Gonna take some time to do the things we never  had
+[Dm]Gonna take a[Bb] lot to drag m[F]e away f[C]rom you
+[Dm]There's nothing that a[Bb] hundred men o[F]r more could e[C]ver do
+[Dm]I bless the[Bb] rains down in[F]  A[C]frica
+[Dm]Gonna take som[Bb]e time to do th[F]e things [Am]we n[C]ev[Dm]er  [C]had[F][Am]
 
-[Interlude]
-G   Bm    Em    G   F   Am    Em     F   Am
+[G][Bm][Em][G][F][Am][Em][F][Am]
+[G][B7][Em]hurry boy, it's [F]waiting there for [Am]you
 
-[Bridge]
-G  B7   Em               F              Am
-          hurry boy, it's waiting there for you
+[Dm]Gonna take a[Bb] lot to drag m[F]e away f[C]rom you
+[Dm]There's nothing that a[Bb] hundred men o[F]r more could e[C]ver do
+[Dm]I bless the[Bb] rains down in[F]  A[C]frica
+[Dm]I bless the[Bb] rains down in[F]  A[C]frica
+[Dm]I bless the[Bb] rains down in[F]  A[C]frica
+[Dm]I bless the[Bb] rains down in[F]   [C]Africa
+[Dm]I bless the[Bb] rains down in[F]  A[C]frica
 
-[Outro/Chorus]
-Dm          A#            F       C
-Gonna take a lot to drag me away from you
-Dm                    A#            F             C
-There's nothing that a hundred men or more could ever do
-Dm         A#            F  C
-I bless the rains down in  Africa
-Dm         A#            F  C
-I bless the rains down in  Africa
-Dm         A#            F  C
-I bless the rains down in  Africa
-Dm         A#            F  C
-I bless the rains down in   Africa
-Dm         A#            F  C
-I bless the rains down in  Africa
-
-[Outro]
-Dm            A#             F        Am  C Dm   F Am
-Gonna take some time to do the things we never  had
+[Dm]Gonna take som[Bb]e time to do th[F]e things [Am]we n[C]ev[Dm]er  h[F]ad[Am]
