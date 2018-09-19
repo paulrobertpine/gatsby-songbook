@@ -43,6 +43,15 @@
           color: $colour-chord;
           font-size: 18px;
           font-weight: bold;
+          &:after {
+            content: '\200b';
+          }
+          &:empty {
+            color: $colour-primary;
+            &:after {
+              content: ".";
+            }
+          }
         }
       }
     }

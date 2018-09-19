@@ -2,11 +2,9 @@
 title: Albuquerque
 artist: Neil Young
 key: Em
+chordpro: true
 ---
-(intro on verse)
-
-          Em             D 
-Well they say that Santa Fe 
+Well they [Em]say that Santa [D]Fe 
      Em                     D 
 it's less than ninety miles away 
              Em             G                 A 
