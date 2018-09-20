@@ -1,41 +1,31 @@
 ---
 title: 'Don’t This Road Look Rough and Rocky '
 artist: Flatt & Scruggs
+key: G
+chordpro: true
 ---
-<pre>
+[G]Darling, I have [C]come to[G]tell you
+Though it almost breaks my [D]heart
+[G]But before the [C]morning, [G]darling
+[D]We'll be many miles [G]apart
 
-G              C       G
-Darling, I have come to tell you
-                           D
-Though it almost breaks my heart
-G              C        G
-But before the morning, darling
-D                   G
-We'll be many miles apart
-
-[chorus]
-C                              G
-Don't this road look rough and rocky
-                             D
-Don't that sea look wide and deep
-G             C        G
-Don't my baby look the sweetest
-D                     G
-when she's in my arms asleep
+(chorus)
+[C]Don't this road look rough and [G]rocky
+Don't that sea look wide and [D]deep
+[G]Don't my baby [C]look the [G]sweetest
+[D]when she's in my arms [G]asleep
 
 
-Can't you hear the nightbirds crying
-Far across the deep blue sea
-While the others you are thinking
-Won't you sometimes think of me
+[G]Can't you hear the [C]nightbirds [G]crying
+Far across the deep blue [D]sea
+[G]While the others [C]you are [G]thinking
+[D]Won't you sometimes think of [G]me
 
-[chorus]
+(chorus)
 
-One more kiss before i leave you
-One more kiss before we part
-You have caused me lots of trouble
-darling, you have broke my heart
+[G]One more kiss be-[C]fore I [G]leave you
+One more kiss before we [D]part
+[G]You have caused me [C]lots of [G]trouble
+[D]darling, you have broke my [G]heart
 
-[chorus]
-
-</pre>
+(chorus)
