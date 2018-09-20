@@ -1,14 +1,16 @@
 ---
 title: 'Add it Up '
 artist: Violent Femmes
+key: B
+chordpro: true
 ---
 Day after day 
 I will walk and I will play
 But the day after today
 I will stop and I will start
 
-|B .  |B . |B .  |B . |
-|A .  |A . |B .  |B . |
+[|B|B|B|B|
+|A|A|B|B|]
 (throughout)
 
 Why can't I get just one kiss
