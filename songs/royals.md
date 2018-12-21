@@ -2,7 +2,7 @@
 title: Royals
 artist: Lorde
 ---
-<pre>
+
 [Verse]
 
 D
@@ -120,4 +120,4 @@ Let me be your ruler - you can call me Queen Bee
 And baby I'll rule, I'll rule, I'll rule, I'll rule
 G                            D
 Let me live that fantasy
-</pre>
+

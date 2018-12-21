@@ -2,7 +2,7 @@
 title: Please Do Not Go
 artist: Violent Femmes
 ---
-<pre>
+
 INTRO:
    ------
    G   C D  [play four times]
@@ -150,5 +150,5 @@ INTRO:
    A|--3---2---0-------5-----3-5----5--3--2--0----|
    E|--------------3------------------------------|
 
-</pre>
+
    

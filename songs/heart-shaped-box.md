@@ -2,7 +2,7 @@
 title: Heart Shaped Box
 artist: Nirvana
 ---
-<pre>
+
 [Verse]
 
 Am   F       D             Am   F    D  D7
@@ -114,4 +114,4 @@ I wish I could eat your cancer when you turn black...
     Your advice, 
            F   D  D7
     Your advice...
-</pre>
+

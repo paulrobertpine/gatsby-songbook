@@ -2,7 +2,7 @@
 title: "Jack of Diamonds"
 artist: "Traditional"
 ---
-<pre>
+
 3/4
 |A  |D  |A  |A  |
 |A  |D  |E  |A  |
@@ -54,4 +54,4 @@ And trust to my luck
 
 chorus
 
-</pre>
+

@@ -2,7 +2,7 @@
 title: "Elvis Presley Blues"
 artist: "Gillian Welch & David Rawlings"
 ---
-<pre>
+
 Capo 7(D  D7  G   D   Bm   A)
 (G7) = (3 x 3 0/2  0 1/0)
 
@@ -53,4 +53,4 @@ And he (C) shook it like a midnight (G) rambler, baby
 Like he (C) never seen, never (G) seen,
 Like he never (G7) seen, never (G) seen
 
-</pre>
+

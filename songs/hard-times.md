@@ -2,7 +2,7 @@
 title: Hard Times
 artist: Gillian Welch & David Rawlings
 ---
-<pre>
+
 intro 
 |C   |Csus2|C   |Csus4| 
 
@@ -76,4 +76,4 @@ Am        G            F       C
 Hard times ain't gonna rule my mind, sugar
 Am        G            F       G       C
 Hard times ain't gonna rule my mind no more
-</pre>
+

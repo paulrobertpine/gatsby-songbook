@@ -2,7 +2,7 @@
 title: Look At Miss Ohio
 artist: Gillian Welch
 ---
-<pre>
+
 
 [Verse]
 F        C      G              Am  G
@@ -41,4 +41,4 @@ Oh me oh my oh, look at Miss Ohio
 She a-runnin' around with her rag-top down
 She says I wanna do right but not right now
 Oh I wanna do right but not right now
-</pre>
+

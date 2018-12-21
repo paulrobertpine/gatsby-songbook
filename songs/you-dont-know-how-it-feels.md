@@ -2,7 +2,7 @@
 title: "You Don’t Know How it Feels"
 artist: "Tom Petty"
 ---
-<pre>
+
 
 [Verse 1]
 E                   A                   E                   A  (x2)
@@ -35,4 +35,3 @@ E                   A                   E                   A  (x2)
 My old man was born to rock but he's still tryin' to beat the clock
 Think of me what you will, I've still got a little space to fill
 
-</pre>

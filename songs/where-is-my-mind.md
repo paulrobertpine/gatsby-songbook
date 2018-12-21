@@ -2,7 +2,7 @@
 title: "Where is my mind?"
 artist: "Pixies"
 ---
-<pre>
+
 [Intro]
 
   E             C#m          G#            A      
@@ -105,4 +105,4 @@ G#           A
 E  C#m  G#  A   
 E  C#m  G#  A   
 
-</pre>
+

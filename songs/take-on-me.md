@@ -2,7 +2,7 @@
 title: Take On Me
 artist: Aha
 ---
-\[Intro]
+[Intro]
 
 E|-2-2-------0-0--0-4-4-5-7-5-5-5-0---2-2--2-0-0-2-0-|
 
@@ -16,7 +16,7 @@ A|---------------------------------------------------|
 
 E|---------------------------------------------------|
 
-\[Verse]
+[Verse]
 
 Bm E A D A/C#
 
@@ -30,7 +30,7 @@ Bm E F#m D
 
 Shine away, I’ll be coming for your love OK
 
-\[Chorus]
+[Chorus]
 
 A E/G# F#m D
 
@@ -44,17 +44,17 @@ A E/G# F#m D
 
 I’ll be gone
 
-\ A E/G# F#m D
+ A E/G# F#m D
 
 in a day or two
 
-\[Verse]
+[Verse]
 
-\ Bm E A D A/C#
+ Bm E A D A/C#
 
 So, needless to say at odds and ends, but I feel
 
-\ Bm E A D A/C#
+ Bm E A D A/C#
 
 stumbling awake slowly learning that life is OK,
 
@@ -62,7 +62,7 @@ Bm E F#m D
 
 Say after me, it’s so much better to be safe than sorry
 
-\[Chorus]
+[Chorus]
 
 A E/G# F#m D
 
@@ -76,11 +76,11 @@ A E/G# F#m D
 
 I’ll be gone
 
-\ A E/G# F#m D
+ A E/G# F#m D
 
 in a day or two
 
-\[Instrumental]
+[Instrumental]
 
 C#m G
 
@@ -88,21 +88,21 @@ C#m G
 
 Bm E
 
-\[Verse]
+[Verse]
 
-\ Bm E A D A/C#
+ Bm E A D A/C#
 
 Oh, things that you say, yeah is it life or just to play
 
-\ Bm E A D A/C#
+ Bm E A D A/C#
 
 My worries away, you’re all the things I’ve got to remember  
 
 Bm E F#m D
 
-\ You shine away, I’ll be coming for you anyway
+ You shine away, I’ll be coming for you anyway
 
-\[Chorus]
+[Chorus]
 
 A E/G# D
 
@@ -116,7 +116,7 @@ A E/G# D
 
 I’ll be gone
 
-\ A E/G# D
+ A E/G# D
 
 in a day or two
 
@@ -132,7 +132,7 @@ A E/G# D
 
 I’ll be gone
 
-\ A E/G# D
+ A E/G# D
 
 in a day or two
 

@@ -2,10 +2,10 @@
 title: Your Cheatin’ Heart
 artist: Hank Williams
 ---
-\[Intro:]
+[Intro:]
 D7 G
 
-\[Verse 1:]
+[Verse 1:]
               G                   C
 Your cheatin' heart will make you weep
                D                G
@@ -16,7 +16,7 @@ But sleep won't come the whole night through
 Your cheatin' heart will tell on you
 
 
-\[Chorus:]
+[Chorus:]
                 C                 G
 When tears come down like fallin' rain
               A7                D
@@ -27,11 +27,11 @@ You'll walk the floor the way I do
 Your cheatin' heart will tell on you
 
 
-\[Interlude:]
+[Interlude:]
 G C D (x2)
 
 
-\[Verse 2:]
+[Verse 2:]
               G                    C
 Your cheatin' heart will pine some day
               D                G
@@ -42,7 +42,7 @@ The time will come when you'll be blue
 Your cheatin heart will tell on you
 
 
-\[Chorus:]
+[Chorus:]
                 C                 G
 When tears come down like fallin' rain
               A7                D

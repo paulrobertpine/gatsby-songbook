@@ -2,7 +2,7 @@
 title: Kiss Off
 artist: Violent Femmes
 ---
-<pre>
+
 [Intro]
 Em
 

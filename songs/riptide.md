@@ -2,7 +2,7 @@
 title: Riptide
 artist: Vance Joy
 ---
-<pre>
+
 
 Am G  C C
 Am G  C C
@@ -68,4 +68,4 @@ I got a lump in my throat 'cause
 You're gonna sing the words wrong
 I got a lump in my throat because you're gonna sing the words wrong
 
-</pre>
+

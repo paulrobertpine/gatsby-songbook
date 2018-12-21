@@ -2,7 +2,7 @@
 title: "I Feel It All"
 artist: "Feist"
 ---
-<pre>
+
 [Verse 1]
 D                   G           G     Bm
  I feel it all, I feel it all
@@ -95,4 +95,4 @@ D              G       G   Bm
 End on D
 
 
-</pre>
+

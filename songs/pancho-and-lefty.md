@@ -2,7 +2,7 @@
 title: "Pancho & Lefty"
 artist: "Townes Van Zandt"
 ---
-<pre>
+
 There are a few measures of 2/4 in this song
 notated like this: / F  C /.
  
@@ -100,4 +100,4 @@ CHORUS
 (go so wrong)
 
 end Am
-</pre>
+

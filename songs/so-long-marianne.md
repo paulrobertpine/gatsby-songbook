@@ -2,15 +2,16 @@
 title: So Long Marianne
 artist: Leonard Cohen
 ---
-\[Verse 1]
+[Verse 1]
 
-\ A Bm
+ A Bm
 
 Come over to the window, my little darling
 
 D A
 
-I'd like to try to read your palm
+I'd like to try to read your palm
+
 
 G D
 
@@ -20,19 +21,20 @@ F#m E Esus4 E E7
 
 before I let you take me home
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
 Now so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
 to laugh and cry and cry and laugh about it all again
 
-\[Verse 2]
+[Verse 2]
 
-\ A Bm
+ A Bm
+
 
 Well you know that I love to live with you
 
@@ -42,25 +44,25 @@ but you make me forget so very much
 
 G D
 
-I forget to pray for the angels
+ forget to pray for the angels
 
-\ F#m E sus4 E E7
+ F#m E sus4 E E7
 
-and then the angels forget to pray for us
+nd then the angels forget to pray for us
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
-Now so long, Marianne, It's time that we began
+ow so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-to laugh and cry and cry and laugh about it all again
+o laugh and cry and cry and laugh about it all again
 
-\[Verse 3]
+[Verse 3]
 
-\ A Bm
+ A Bm
 
 We met when we were almost young
 
@@ -74,21 +76,21 @@ You held on to me like I was a crucifix
 
 F#m E Esus4 E E7
 
-as we went kneeling through the dark
+s we went kneeling through the dark
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
-Now so long, Marianne, It's time that we began
+ow so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-to laugh and cry and cry and laugh about it all again
+o laugh and cry and cry and laugh about it all again
 
-\[Verse 4]
+[Verse 4]
 
-\ A Bm
+ A Bm
 
 Your letters they all say that you're beside me now
 
@@ -98,25 +100,25 @@ then why do I feel so alone
 
 G D
 
-I'm standing on a ledge and your fine spider web
+'m standing on a ledge and your fine spider web
 
-\ F#m E Esus4 E E7
+ F#m E Esus4 E E7
 
-is fastening my ankle to a stone
+s fastening my ankle to a stone
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
-Now so long, Marianne, It's time that we began
+ow so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-to laugh and cry and cry and laugh about it all again
+o laugh and cry and cry and laugh about it all again
 
-\[Verse 5]
+[Verse 5]
 
-\ A Bm
+ A Bm
 
 For now I need your hidden love
 
@@ -130,21 +132,21 @@ You left when I told you I was curious
 
 F#m E Esus4 E E7
 
-I never said that I was brave
+ never said that I was brave
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
-Now so long, Marianne, It's time that we began
+ow so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
-to laugh and cry and cry and laugh about it all again
+o laugh and cry and cry and laugh about it all again
 
-\[Verse 6]
+[Verse 6]
 
-\ A Bm
+ A Bm
 
 Oh, you are really such a pretty one
 
@@ -154,19 +156,19 @@ I see you've gone and changed your name again
 
 G D
 
-And just when I climbed this whole mountainside
+nd just when I climbed this whole mountainside
 
-\ F#m E Esus4 E E7
+ F#m E Esus4 E E7
 
-to wash my eyelids in the rain
+o wash my eyelids in the rain
 
-\[Chorus]
+[Chorus]
 
-\ A F#m
+ A F#m
 
-Now so long, Marianne, It's time that we began
+ow so long, Marianne, It's time that we began
 
-\ E Esus4 E E7 E Esus4 E E7 A Asus4
+ E Esus4 E E7 E Esus4 E E7 A Asus4
 
 to laugh and cry and cry and laugh about it all again
 

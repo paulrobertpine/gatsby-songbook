@@ -2,7 +2,7 @@
 title: Method Acting
 artist: Bright Eyes
 ---
-<pre>
+
         Em                                Bm7
 There's no beginning to the story, a bookshelf sinks into the sand
      C                                        G  F#/D
@@ -89,4 +89,4 @@ And the story goes
 And the story goes
 And it goes on and on and on and on
 It's going on and on and on and on
-</pre>
+

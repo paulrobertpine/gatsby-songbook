@@ -2,7 +2,7 @@
 title: "The Eye"
 artist: "Brandi Carlile"
 ---
-<pre>
+
 [Verse]
 
 F C                        F C                        F             
@@ -93,4 +93,4 @@ Am                                 C
 But only if you're standing in the eye
 
 
-</pre>
+

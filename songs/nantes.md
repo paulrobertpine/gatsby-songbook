@@ -2,7 +2,7 @@
 title: Nantes
 artist: Beirut
 ---
-<pre>
+
 
 [Intro]  
 Am G C
@@ -74,4 +74,4 @@ Since I've seen you smile
 Am G C
 Am G C
 Am G C
-</pre>
+

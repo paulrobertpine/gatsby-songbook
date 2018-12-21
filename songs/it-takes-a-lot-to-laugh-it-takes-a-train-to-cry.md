@@ -2,7 +2,7 @@
 title: It Takes A Lot To Laugh It Takes A Train To Cry
 artist: Bob Dylan
 ---
-<pre>
+
 INTRO
 | G C/G G    | 
 (acoustic guitar only)
@@ -84,4 +84,4 @@ OUTRO
 | G C/G G    | G C/G G    | G C/G G    | G C/G G G(b5) C5/G |
 
 (fade out)
-</pre>
+

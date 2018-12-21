@@ -2,7 +2,7 @@
 title: Say It Aint So
 artist: Weezer
 ---
-<pre>
+
 [Intro] Am E F C
 
 Am E F C
@@ -106,4 +106,4 @@ F            C
 Say it ain't so a-woah-a-woah.
 Am Am   E E    F        C
 My love is a life-taker.
-</pre>
+

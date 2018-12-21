@@ -2,7 +2,7 @@
 title: "I Can't Feel My Face"
 artist: "The Weeknd"
 ---
-<pre>
+
 G F Am
 
         G                                  F
@@ -38,4 +38,4 @@ All the misery was necessary when we're deep in love.
 This I know, girl, this I know.
 
 
-</pre>
+

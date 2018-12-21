@@ -2,7 +2,7 @@
 title: "Hold On"
 artist: "Tom Waits"
 ---
-<pre>
+
 Intro, D, 4 bars
 
 D .                 G ...
@@ -99,4 +99,4 @@ x4
 
 You gotta hold on x8 (fade)
 
-</pre>
+

@@ -2,7 +2,7 @@
 title: "Lithium"
 artist: "Nirvana"
 ---
-<pre>
+
 
 [Intro]
 
@@ -88,4 +88,4 @@ G    Bb          G       Bb      C        A
 D    F#m     Bm     G      Bb     C     A     C
 
 
-</pre>
+

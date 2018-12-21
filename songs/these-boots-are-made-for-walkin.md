@@ -6,7 +6,7 @@ Intro]
 
 E E E E
 
-\[Verse]
+[Verse]
 
 E
 
@@ -18,17 +18,17 @@ A
 
 You've been messing where you shouldnt be messing,
 
-\ E
+ E
 
 And now someone else is getting all your best.
 
-\[Chorus]
+[Chorus]
 
-\ G Em
+ G Em
 
 These Boots are made for walking
 
-\ G Em
+ G Em
 
 And that's just what they'll do,
 
@@ -40,7 +40,7 @@ E E E E E E
 
 you.
 
-\[Verse]
+[Verse]
 
 E7
 
@@ -52,17 +52,17 @@ A7
 
 You keep sameing when you ought to be -a- changing,
 
-\ E7
+ E7
 
 Now what's rights right but you aint been right yet.
 
-\[Chorus]
+[Chorus]
 
-\ G Em
+ G Em
 
 These Boots are made for walking
 
-\ G Em
+ G Em
 
 And that's just what they'll do,
 
@@ -74,7 +74,7 @@ E E E E E E
 
 you.
 
-\[Verse]
+[Verse]
 
 E7
 
@@ -90,13 +90,13 @@ E7
 
 And what he knows you aint had time to learn.
 
-\[Chorus]
+[Chorus]
 
-\ G Em
+ G Em
 
 These Boots are made for walking
 
-\ G Em
+ G Em
 
 And that's just what they'll do,
 
@@ -104,7 +104,7 @@ G Em
 
 One of these days these boots are gonna walk all over you.
 
-\[Outro]
+[Outro]
 
 E
 

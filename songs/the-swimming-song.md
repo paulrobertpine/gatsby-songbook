@@ -3,7 +3,7 @@ title: "The Swimming Song"
 artist: "Loudon Wainright III"
 key: G
 ---
-<pre>
+
 |G C G   |D   Em   |
 |Em  C   |D   Em   |D   G   |
 
@@ -51,4 +51,4 @@ But I held my breath and I kicked my feet
 And I moved my arms around.
 I moved my arms arou
 
-</pre>
+

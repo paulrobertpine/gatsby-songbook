@@ -2,7 +2,7 @@
 title: I Kissed A Girl
 artist: Katy Perry
 ---
-<pre>
+
 [Verse]
 
 Am          C            Dm
@@ -146,4 +146,4 @@ I kissed a girl,
 And I liked it.
 F
    I liked it
-</pre>
+

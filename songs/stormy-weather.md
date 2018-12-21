@@ -2,7 +2,7 @@
 title: "Stormy Weather"
 artist: "Harold Arlen & Ted Koehler"
 ---
-<pre>
+
 |C Am7 |Dm7 G7 | or 
 |C A7  |Dm7 G7 | or
 |C C#o |Dm7 G7 |
@@ -42,4 +42,4 @@ Stormy weather
 Since my man and I ain't together
 Keeps rainin' all the time
 Keeps rainin' all the time
-</pre>
+

@@ -2,7 +2,7 @@
 title: Every You Every Me
 artist: Placebo
 ---
-<pre>
+
 [Intro] 
 
 D Bb C (4 times)
@@ -124,4 +124,4 @@ Every me and every you
       A    Bb
 Every Me...hee (4 times)
 
-</pre>
+

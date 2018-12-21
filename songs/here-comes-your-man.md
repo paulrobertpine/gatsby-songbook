@@ -2,7 +2,7 @@
 title: "Here comes your man"
 artist: "Pixies"
 ---
-<pre>
+
 [Intro]
    D             G       A
 e|-----------------------------------|
@@ -85,4 +85,4 @@ G    A               D
      Here comes your man
 G    A               D
      Here comes your man (add 3 long maaaaan lines + 1 shorty)
-</pre>
+

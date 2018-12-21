@@ -2,7 +2,7 @@
 title: You Wont See Me
 artist: The Beatles
 ---
-<pre>
+
 [Intro]
 D A
 
@@ -140,4 +140,4 @@ A   E
 Ooh ooh la la la
 D   A
 Ooh ooh la la la
-</pre>
+

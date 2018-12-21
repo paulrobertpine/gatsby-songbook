@@ -2,7 +2,7 @@
 title: In Bloom
 artist: Nirvana
 ---
-<pre>
+
 [Intro]
 
 A  F#  E   G  (x2)
@@ -113,4 +113,4 @@ Yeah.  Ooh.
 A F#   E  G      A
 Ooh.   Ooh.
 
-</pre>
+

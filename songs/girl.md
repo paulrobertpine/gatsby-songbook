@@ -2,7 +2,7 @@
 title: Girl
 artist: The Beatles
 ---
-<pre>
+
 [Verse]
 
        Em        B7                Em  Em7
@@ -93,4 +93,4 @@ ah girl
 
 G    Bm    Am  D7       
 ah girl                (repeat to fade)
-</pre>
+

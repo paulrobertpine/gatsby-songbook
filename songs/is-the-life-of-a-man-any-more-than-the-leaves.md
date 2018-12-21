@@ -2,7 +2,7 @@
 title: Is The life Of A Man Any More Than the Leaves?
 artist: Trad?
 ---
-<pre>
+
 A  A  D A x3
 
 A
@@ -45,4 +45,4 @@ I hear the funeral bells ring
 
 A                     Bm        D             A
 What is the life of a man any more than the leaves?
-</pre>
+

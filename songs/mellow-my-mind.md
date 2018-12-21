@@ -2,7 +2,7 @@
 title: "Mellow My Mind"
 artist: "Neil Young"
 ---
-<pre>
+
 C    E7        Am
 Baby mellow my mind,
          D7
@@ -46,5 +46,5 @@ Am         C/G             F
 Ain't got nothin' of those feelings
        D7      G
 That I had.
-</pre>
+
 (repeat first verse and end at fish on the line)

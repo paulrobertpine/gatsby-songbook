@@ -2,7 +2,7 @@
 title: Karma Police
 artist: Radiohead
 ---
-<pre>
+
 
 [Intro]
 Am D/F# Em G
