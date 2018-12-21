@@ -8,7 +8,12 @@ a {
   transition: background-color 0.2s ease;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $font-title;
 }
 
@@ -16,7 +21,11 @@ h1 {
   color: $colour-primary;
 }
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   color: $colour-secondary;
 }
 
@@ -28,15 +37,16 @@ h2, h3, h4, h5, h6 {
 
 a.site-title {
   text-decoration: none;
+
   h1 {
-    background: url("../images/home.svg") no-repeat;
-    background-size: 60px;
     background-color: $colour-secondary;
     color: $colour-primary;
     font-size: 24px;
-    padding: 20px 0 20px 80px;
+    padding: 20px;
     margin: 0;
     transition: background-color 0.7s ease;
+    text-align: center;
+
     &:hover {
       background-color: $colour-link;
     }

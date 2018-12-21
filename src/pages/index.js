@@ -8,7 +8,7 @@ export default ({ data }) => {
     <Layout>
       <h1>Jams!</h1>
       <h2>{data.allMarkdownRemark.totalCount} Songs</h2>
-      <div id="songbook">
+      <div className="songbook">
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <div key={node.id} className="song-card">
             <Link to={node.fields.slug}>
