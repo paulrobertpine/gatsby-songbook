@@ -4,6 +4,15 @@ artist: Tallest Man on Earth
 key: C
 chordpro: true
 ---
+(you can pull-on or bend)
+e|---0--3-0---------------0---3-0-------------------------|
+B|---1------3-0--6--5-----1-------3-0-1--p3(b)-1----------|
+G|---0-----------5--------0-----------2--p2(b)-0----------|
+D|---2-----------6--------2-----------3--------2----------|
+A|---3-----------5--------------------3--------3----------|
+E|--------------------------------------------------------|
+you can pull or bend
+
 C                    C/G
 Jump 'long the creekside
 F                   C
@@ -20,14 +29,7 @@ You grew up by playin' the valley so wild
 And that's why
 G*                    C
 You're so beautiful now
-(you can pull-on or bend)
-e|---0--3-0---------------0---3-0-------------------------|
-B|---1------3-0--6--5-----1-------3-0-1--p3(b)-1----------|
-G|---0-----------5--------0-----------2--p2(b)-0----------|
-D|---2-----------6--------2-----------3--------2----------|
-A|---3-----------5--------------------3--------3----------|
-E|--------------------------------------------------------|
-you can pull or bend
+
 And, dancin' you back to the lonesome, young mare
 You call up her owner; say your heart will be there
 You'll build a collection of scars on your knees
