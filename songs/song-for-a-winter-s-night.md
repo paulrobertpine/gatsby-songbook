@@ -22,15 +22,10 @@ I would be happy just to hold the hands I love..
 G       D                   G   D
 on this winter's night with you.
 
-
 The smoke is rising in the shadows overhead,
-
 My glass is almost empty.
-
 I read again between the lines upon the page,
-
 The words of love you sent me.
-
 
 If I could know within my heart
 That you were lonely too
