@@ -9,14 +9,16 @@ G
 Verse 1
 G                      C  G         
 I'll close my eyes and listen 
-G/Fto   you, the corn come out. 
+G/F# Em                 C 
+to   you, the corn come out. 
           Am       Em               C
 Don't you hear the stars, they glisten, 
    G     D      C     C/B  C/A
 as we go in and out. 
 G                            C  G
 Down where the trees grow together, 
-G/Fand the western path comes to an end 
+G/F# Em                 C 
+and the western path comes to an end 
            Am      Em              C  
 to see the sign it says 'clear weather', 
      G          D         C
@@ -33,14 +35,16 @@ when we can feel the watery dew?
 Verse 2
 G                             C G 
 I just can't be there with no other, 
-G/FI    know those hills will be true, 
+G/F# Em                 C 
+I    know those hills will be true, 
  Am          Em            C 
 away from my sister and brother, 
     G                D          C
 and down through the grasses so blue. 
 G                    C   G
 The air is sweet and steady 
-G/Fand  flowers bloom out of sight, 
+G/F# Em                 C 
+and  flowers bloom out of sight, 
   Am       Em         C
 I know the sky is ready, 
     G             D      C
