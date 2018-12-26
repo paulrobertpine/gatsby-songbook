@@ -4,7 +4,6 @@ artist: Dean Martin
 key: G
 chordpro: true
 ---
-
              (Capo 2nd fret.)
 G                 B7                E
 Please don't talk about me when I'm gone.
