@@ -10,6 +10,7 @@ Verse 1
 G                      C  G         
 I'll close my eyes and listen 
 G/F# Em                 C 
+
 to   you, the corn come out. 
           Am       Em               C
 Don't you hear the stars, they glisten, 
