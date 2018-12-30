@@ -4,7 +4,7 @@ artist: 'Arthur Russell '
 key: G
 chordpro: true
 ---
-Intro
+Intro 
 G
 Verse 1
 G                      C  G         
