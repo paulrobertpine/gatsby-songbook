@@ -5,29 +5,21 @@ key: Em
 chordpro: true
 ---
 Well they [Em]say that Santa [D]Fe 
-     Em                     D 
-it's less than ninety miles away 
-             Em             G                 A 
-and I've got time to roll a number and rent a car 
-   G        Em      D 
-Oh Alaaaalllal  - buquerque
+is less than ninety miles [D]away 
+and I've got [Em]time to roll a [G]number and rent a [A]car 
+
+Oh [G]Aaa[Em]al bu[D]querque
      
-          Em              D
-I've been flying down the road 
-              Em             D
-and I've been starving to be alone 
-    Em               G               A 
-Independent from the scene that I've known 
-G        Em      D 
-Alaaaalllal  - buquerque 
+I've been [Em]flying down the [D]road 
+and I've been [Em]starving to be [D]alone 
+Inde-[Em]pendent from the [G]scene that I've [A]known 
+
+Oh [G]Aaa[Em]al bu[D]querque
 
 (solos on verse)
   
-        Em          D
-So I'll stop when I can 
-          Em                     D
-Find some fried eggs and country ham
-          Em                   G                A
-I'll find somewhere where they don't care who I am
-   G        Em      D 
-Oh Alaaaalllal  - buquerque x2
+So I'll [Em]stop when I [D]can 
+Find some [Em]fried eggs and country [D]ham
+I'll find [Em]somewhere where they [G]don't care who I [A]am
+
+Oh [G]Aaa[Em]al bu[D]querque x2

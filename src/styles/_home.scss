@@ -6,7 +6,7 @@
   margin: 5px;
 
   .song-card {
-    box-shadow: 0px 0px 5px $colour-primary;
+    box-shadow: 0px 0px 3px $colour-text;
 
     a {
       display: flex;
@@ -32,7 +32,7 @@
 
       .artist {
         font-size: 16px;
-        color: $colour-primary;
+        color: $colour-text;
         padding-top: 5px;
       }
     }
