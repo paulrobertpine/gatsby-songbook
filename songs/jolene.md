@@ -1,0 +1,75 @@
+---
+title: Jolene
+artist: Dolly Parton
+key: Am
+chordpro: true
+---
+Am
+(4 bars)
+Chorus
+  Am      C       G       Am
+Jolene, Jolene, Jolene, Jolene
+     G                                  Am
+I'm begging of you, please don't take my man
+  Am      C       G      Am
+Jolene, Jolene, Jolene, Jolene
+   G                   Em             Am
+Please don't take him just because you can
+Verse
+       Am        C
+Your beauty is beyond compare
+       G                Am
+With flaming locks of auburn hair
+       G             Em              Am
+With ivory skin and eyes of emerald green
+       Am             C
+Your smile is like a breath of spring
+       G                  Am
+Your voice is soft like summer rain
+       G         Em             Am
+And I cannot compete with you, Jolene
+Verse
+    Am             C
+He talks about you in his sleep
+     G                Am
+There's nothing I can do to keep
+       G             Em               Am
+From crying when he calls your name, Jolene
+    Am            C
+And I can easily understand
+    G                 Am
+How you could easily take my man
+         G                  Em           Am
+But you don't know what he means to me, Jolene
+Chorus
+  Am      C       G       Am
+Jolene, Jolene, Jolene, Jolene
+      G                                 Am
+I'm begging of you, please don't take my man
+  Am      C       G       Am
+Jolene, Jolene, Jolene, Jolene
+  G                    Em             Am
+Please don't take him just because you can
+Verse
+Am                    C
+You could have your choice of men
+    G              Am
+But I could never love again
+   G           Em           Am
+He's the only one for me, Jolene
+   Am               C
+I had to have this talk with you
+    G           Am
+My happiness depends on you
+    G           Em           Am
+Whatever you decide to do, Jolene
+Chorus
+ 
+  Am      C       G       Am
+Jolene, Jolene, Jolene, Jolene
+      G                                 Am
+I'm begging of you, please don't take my man
+  Am      C       G       Am
+Jolene, Jolene, Jolene, Jolene
+  G                    Em            Am
+Please don't take him even though you can
