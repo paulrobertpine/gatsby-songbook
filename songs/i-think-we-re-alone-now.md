@@ -33,18 +33,4 @@ The [G]beating of our hearts is the [D]only sound
 [D]'Cause what would they [F#m]say?
 [Bm]If they ever [A]knew and saw it?
 
-(refrain)
-
-(chorus x2) 
-
-(jam!)
-[D-F#m-Bm-A]
-x2
-
-(refrain)
-
-(chorus)
-
-(interlude)
-
-(chorus x3)
+refrain, chorus, interlude, chorus x3
