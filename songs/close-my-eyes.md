@@ -2,7 +2,7 @@
 title: Close My Eyes
 artist: 'Arthur Russell '
 key: G
-chordpro: true
+chordpro: false
 ---
 Intro 
 G
