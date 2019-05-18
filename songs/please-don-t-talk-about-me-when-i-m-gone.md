@@ -2,9 +2,8 @@
 title: Please Don't Talk About Me When I'm Gone
 artist: Dean Martin
 key: G
-chordpro: true
+chordpro: false
 ---
-             (Capo 2nd fret.)
 G                 B7                E
 Please don't talk about me when I'm gone.
            A                     D                G
@@ -32,6 +31,9 @@ We're parting..you go your way, I'll go mine.
 It's best, that we do.
 A                A7                     D               D7
 Here's a kiss, I hope that this, brings lots of luck to you.
-    GOh, makes no difference how I carry on.
-          ARemember, please don't talk about me when I'm gone.
-          ARemember, please don't talk about me when I'm gone.
+     G                   B7          E
+Oh, makes no difference how I carry on.
+       A                  D                G
+Remember, please don't talk about me when I'm gone.
+     A                  D                G
+Remember, please don't talk about me when I'm gone.
