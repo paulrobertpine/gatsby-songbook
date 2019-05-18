@@ -6,9 +6,9 @@ chordpro: false
 ---
 G                 B7                E
 Please don't talk about me when I'm gone.
-           A                     D                G
+           A                     D                G       D
 Oh, honey, though our friendship ceases, from now on.
-D           G                B7            E
+        G                B7            E
 And listen, if you can't say anything real nice.
             A               D            G
 It's better not to talk, at all, is my advice.
