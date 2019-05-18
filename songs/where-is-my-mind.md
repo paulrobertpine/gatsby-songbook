@@ -1,21 +1,9 @@
 ---
-title: "Where is my mind?"
-artist: "Pixies"
+title: Where is my mind?
+artist: Pixies
+key: E
+chordpro: true
 ---
-
-[Intro]
-
-  E             C#m          G#            A      
-e|-----4-----4-|----4-----4-|-----4-----4-|-0--0----0--|
-B|--5-----5----|-5-----5----|--4-----4----|-5--5p4--5--|
-G|-------------|------------|-------------|------------|  x4
-D|-------------|------------|-------------|------------|
-A|-------------|------------|-------------|------------|
-E|-------------|------------|-------------|------------|
-
-
-[Verse]
-
            E                        C#m               G#  A
  With your feet in the air and your head on the ground
 E    C#m            G#       A         
@@ -27,9 +15,6 @@ But there's nothing in it
            A
 And you'll ask yourself
 
-
-[Chorus]
-
 E            C#m
  Where is my mind?
 G#           A
@@ -39,10 +24,6 @@ G#           A
  E   G#         A             Am        C#m   B
  Way out in the water, see it swimming.
 
-
-
-
-[Verse]
 
 E                        C#m    G#  A
 I was swimmin' in the Carribean
@@ -56,8 +37,6 @@ But they told me, he swears
 Tryin' to talk to me, to me, to me
 
 
-[Chorus]
-
 E            C#m
  Where is my mind?
 G#           A
@@ -67,16 +46,6 @@ G#           A
  E   G#         A             Am        C#m   B
  Way out in the water, see it swimming.
 
-[Solo]
-
-e|-------------------------------|-------------------------10--12--14b-|
-B|--7---7---7--7-----------------|--------7--7/10--10--12--------------|
-G|--9b--9b--------9--7--7--7-----|--7--9-------------------------------|
-D|----------------------------9--|-------------------------------------|
-A|-------------------------------|-------------------------------------|
-E|-------------------------------|-------------------------------------|
-
-[Verse]
            E                        C#m               G#  A
  With your feet in the air and your head on the ground
 E    C#m            G#       A         
@@ -88,7 +57,6 @@ But there's nothing in it
            A
 And you'll ask yourself
 
-[Chorus]
 
 E            C#m
  Where is my mind?
@@ -99,8 +67,6 @@ G#           A
  E   G#         A             Am        C#m   B
  Way out in the water, see it swimming.
 
-
-[Outro]
 
 E  C#m  G#  A   
 E  C#m  G#  A   
