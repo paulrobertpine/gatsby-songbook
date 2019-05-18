@@ -14,12 +14,7 @@ I keep the ends out for the tie that binds
                B7               E
 Because you're mine, I walk the line
 (Then walk up to A)
-E|----------|   
-B|----------|   
-G|----------|   
-D|----------|                       
-A|--------0-| 
-E|--0-2-4---|   
+
 Verse 2
           E7                    A 
 I find it very, very easy to be true
@@ -30,12 +25,7 @@ Yes, I'll admit that I'm a fool for you
                E7               A 
 Because you're mine, I walk the line
 (Then walk up to D)
-E|----------|   
-B|----------|   
-G|----------| 
-D|--------0-|
-A|--0-2-4---|   
-E|----------| 
+
 Verse 3
             A7                      D
 As sure as night is dark and day is light
@@ -46,12 +36,7 @@ And happiness I've known proves that it's right
               A7                D
 Because you're mine, I walk the line
 (Back down to A)
-e|----------| 
-B|----------| 
-G|----------| 
-D|--0-------|
-A|----4-2-0-|  
-E|----------| 
+
 Verse 4
              E7                     A
 You've got a way to keep me on your side
@@ -62,12 +47,7 @@ For you I know I'd even try to turn the tide
                E7               A
 Because you're mine, I walk the line
 (And back to E again)
-E|----------|   
-B|----------|   
-G|----------|   
-D|----------| 
-A|-0--------|
-E|---4-2-0--|
+
 Verse 4
          B7                           E
 I keep a close watch on this heart of mine
