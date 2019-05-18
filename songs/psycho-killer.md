@@ -14,7 +14,6 @@ A7                                     G
   Don't touch me I'm a real live wire
  
  
----CHORUS---
  F                G
    Psycho killer, qu'est-ce que c'est
  Am
@@ -30,7 +29,7 @@ A7                                     G
  F                   G
  Oh oh oh oooooooh   Ay ay ay ay ay ay ay  ooooh
       A7                                  G    x2
----VERSE 2---
+
  A7                                                     G
  You start a conversation, you can't even finish it
  A7                                                       G
@@ -39,7 +38,7 @@ A7                                     G
  When I have nothing to say, my lips are sealed
  A7                                       G
  Say something once, why say it again
----CHORUS---
+
  F                G
    Psycho killer, qu'est-ce que c'est
  Am
@@ -55,7 +54,7 @@ A7                                     G
  F                   G
  Oh oh oh oooooooh   Ay ay ay ay ay 
  
----BRIDGE---
+
  Bm                        G
  Ce que j'ai fais, ce soir là      (What I did that night)
  Bm                        C 
@@ -72,7 +71,7 @@ A7                                     G
  We are vain and we are blind
  A                                       G
  I hate people when they're not polite
----CHORUS---
+
  F                G
    Psycho killer, qu'est-ce que c'est
  Am
@@ -88,4 +87,4 @@ A7                                     G
  F                   G
  Oh oh oh oooooooh   Ay ay ay ay ay ay ay
  
----ENDING---
+
