@@ -2,7 +2,7 @@
 title: Where is my mind?
 artist: Pixies
 key: E
-chordpro: true
+chordpro: false
 ---
            E                        C#m               G#  A
  With your feet in the air and your head on the ground
