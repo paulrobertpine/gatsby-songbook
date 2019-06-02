@@ -2,7 +2,7 @@
 title: Lake of Fire
 artist: Nirvana
 key: Em
-chordpro: true
+chordpro: false
 ---
 
 Intro  Em   D G|Em  A G|Em  D G|A  D Em|Em  D Em|Em  D Em||
