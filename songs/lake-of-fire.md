@@ -19,7 +19,8 @@ Int   Em    D Em|Em   D Em||
 Verse 1
 Bm                 G
 I knew a lady who came from Duluth
-Bm                      FBitten by a dog with a rabid tooth
+Bm                      F#
+Bitten by a dog with a rabid tooth
     Bm                        G
 She went to her grave just a little too soon
   A                              Bm
@@ -37,7 +38,8 @@ Int   Em    D Em|Em   D Em||
 Verse 2
 Bm              G
 People cry and people moan
- Bm                      FLook for a dry place to call their home
+ Bm                      F#
+Look for a dry place to call their home
 Bm                         G
 Try to find some place to rest their bones
           A                            Bm
