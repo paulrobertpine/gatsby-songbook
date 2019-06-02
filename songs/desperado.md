@@ -2,7 +2,7 @@
 title: Desperado
 artist: Johnny Cash
 key: G
-chordpro: true
+chordpro: false
 ---
 G   G7              C             Cm
 Desperado, why don't you come to your senses?
