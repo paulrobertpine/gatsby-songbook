@@ -7,7 +7,7 @@ chordpro: true
 Intro
  Cm
 Verse I
-Cm       
+Cm\
 You and me
  Gm              Fm
 We used to be together
@@ -25,7 +25,7 @@ This could be the end
 Verse III
    Cm       Gm     Fm           Bb
 It looks as though you're letting go
-       Eb       
+       Eb\
 And if it's real,
         Bb            C
 Well I don't want to know
@@ -51,7 +51,7 @@ Verse IV
 Our memories
 Gm             Fm
 They can be inviting
-               Bb               
+               Bb\
 But some are altogether
 Gm      Fm          Bb
 Mighty frightening
@@ -77,10 +77,16 @@ Bbm                       Eb
 I know what you're thinking
 C                  Bbm
 I don't need your reasons
-       C                 Fm - Eb – C - GDon't tell me 'cause it hurts
+       C                 Fm - Eb – C - G#
+
+Don't tell me 'cause it hurts
 Bridge
-Bbm       GIt's all ending
-          B      FI gotta stop pretending who we are...
+Bbm       G#
+
+It's all ending
+          B      F#     A - B - Eb    Eb - Eb - Eb - G#
+
+I gotta stop pretending who we are...
 Adlib
 Cm Gm Fm Bb
 Cm Gm Fm Bb
@@ -106,7 +112,7 @@ Bbm                   Eb
 I know what you're thinking
 C                   Bbm
 I don't need your reasons
-          C               Fm     
+          C               Fm\
 Don't tell me 'cause it hurts
        Bbm - C            Fm
 Don't tell me 'cause it hurts
@@ -135,7 +141,7 @@ Fm                   Bbm
 Hush me, hush me darling
 Eb                C
 Hush me, hush me darling
-Bbm                     
+Bbm\
 Hush me, hush me, 
          C      Fm   Bbm - C
 Don’t tell me ‘cause it hurts.
@@ -143,7 +149,7 @@ Fm                   Bbm
 Hush me, hush me darling
 Eb                C
 Hush me, hush me darling
-Bbm                     
+Bbm\
 Hush me, hush me, 
        C                Fm    Bbm - C
 Don’t tell me ‘cause it hurts.
