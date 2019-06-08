@@ -4,11 +4,7 @@ artist: Willie Nelson
 key: D
 chordpro: true
 ---
-D
-
-Verse 1
-
-\    G
+D                                            G
 
 Cowboys ain't easy to love and they're harder to hold
 
