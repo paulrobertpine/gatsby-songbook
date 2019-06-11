@@ -1,33 +1,67 @@
 import React from 'react'
-import { graphql } from 'gatsby'
-import Link from 'gatsby-link'
+import { graphql, Link } from 'gatsby'
+
 import Layout from '../components/layout'
 
-export default ({ data }) => {
-  return (
-    <Layout>
-      <h1>Jams!</h1>
-      <h2>{data.allMarkdownRemark.totalCount} Songs</h2>
-      <div className="songbook">
-        {data.allMarkdownRemark.edges.map(({ node }) => (
-          <div key={node.id} className="song-card">
-            <Link to={node.fields.slug}>
-              <span className="song-title">{node.frontmatter.title}</span>
-              <span className="artist">{node.frontmatter.artist}</span>
-            </Link>
+class Home extends React.Component {
+  constructor() {
+    super()
+    this.state = {
+      search: '',
+    }
+  }
+
+  updateSearch(event) {
+    this.setState({ search: event.target.value })
+  }
+
+  render() {
+    const data = this.props.data
+
+    let filteredSongs = data.allMarkdownRemark.edges.filter(edge => {
+      return (
+        edge.node.frontmatter.title
+          .toLowerCase()
+          .indexOf(this.state.search.toLowerCase()) !== -1
+      )
+    })
+
+    return (
+      <Layout>
+        <header>
+          <h1>Jams!</h1>
+          <h2>{filteredSongs.length} Songs</h2>
+          <div className="filters">
+            <label htmlFor="filter-search">Search:</label>
+            <input
+              type="text"
+              id="filter-search"
+              value={this.state.search}
+              onChange={this.updateSearch.bind(this)}
+            />
           </div>
-        ))}
-      </div>
-    </Layout>
-  )
+        </header>
+
+        <div className="songbook">
+          {filteredSongs.map(({ node }) => (
+            <div key={node.id} className="song-card">
+              <Link to={node.fields.slug}>
+                <span className="song-title">{node.frontmatter.title}</span>
+                <span className="artist">{node.frontmatter.artist}</span>
+              </Link>
+            </div>
+          ))}
+        </div>
+      </Layout>
+    )
+  }
 }
 
+export default Home
+
 export const query = graphql`
-  query IndexQuery {
-    allMarkdownRemark(
-      sort: {fields: [frontmatter___title], order: ASC},
-    ) {
-      totalCount
+  {
+    allMarkdownRemark(sort: { fields: [frontmatter___title], order: ASC }) {
       edges {
         node {
           id
@@ -38,7 +72,6 @@ export const query = graphql`
           fields {
             slug
           }
-          excerpt
         }
       }
     }

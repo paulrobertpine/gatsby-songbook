@@ -35,6 +35,16 @@ h6 {
   padding: 10px;
 }
 
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  h1, h2 {
+    margin-right: 2rem;
+  }
+}
+
 a.site-title {
   text-decoration: none;
 
