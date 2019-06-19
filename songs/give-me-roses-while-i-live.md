@@ -6,27 +6,27 @@ chordpro: true
 ---
 [G]Wonderful things of folks are said
 [D7]When they have passed [G]away                      
-Roses adorn the narrow bed
+[G]Roses adorn the narrow bed
 [D7]Over the sleeping [G]clay
 
-chorus
+(chorus)
 [C]Give me the roses [G]while I live 
-Trying to cheer me [D7]on
+[G]Trying to cheer me [D7]on
 [G]Useless are flowers that you give 
 [D7]After the soul is [G]gone
 
 (play chorus instrumental after each chorus)
 
-Let us not wait to do good deeds
-Till they have passed away
-Now is the time to sow good seeds
-While here on earth we stay
+[G]Kind words are useless when folks lie
+[D7]Cold in a narrow [G]bed
+[G]Don't wait till death to speak kind words
+[D7]Now should the words be [G]said
 
 (chorus)
 
-Let us not wait to do good deeds
-Till they have passed away
-Now is the time to sow good seeds
-While here on earth we stay
+[G]Let us not wait to do good deeds
+[D7]Till they have passed a-[G]way
+[G]Now is the time to sow good seeds
+[D7]While here on earth we [G]stay
 
 (chorus x2)
