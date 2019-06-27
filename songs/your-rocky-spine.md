@@ -139,14 +139,10 @@ Em D A C
 
 
 ALTERNATE VERSION UP 3 POSITIONS
-[Intro]
-
+Intro
 Gm F Gm D#
-Gm F C D#
-
-
-[Verse]
-
+Gm F C D#
+Verse
       Gm          F
 I was lost in the lakes
         C                D#
@@ -156,14 +152,10 @@ That your body makes, that your body makes
           C             D#
 That your body makes
 
+Instrumental
 
-[Instrumental]
-
-F D# F D#
-
-
-[Verse]
-
+F D# F D#
+Verse
     Gm                     F
 The mountains said I could find you here
      C                          D#
@@ -172,29 +164,20 @@ They whispered the snow and the leaves in my ear
 I traced my finger along your trails
      C                  D#
 Your body was the map, I was lost in it
-
-
-[Chorus]
-
-A#                 F
+Chorus
+A#                        F
 Floating over your rocky spine
-    C                      D#        F
+    C                      D#      F
 The glaciers made you, and now you’re mine
-A#                 F
+A#                        F
 Floating over your rocky spine
-    C                      D#        F
+    C                      D#      F
 The glaciers made you, and now you’re mine
 
-
-[Instrumental]
-
-
-Gm F C D#
-Gm F C D#
-
-
-[Verse]
-
+Instrumental
+Gm F C D# 
+Gm F C D#
+Verse
       Gm                 F
 I was moving across your frozen veneer
     C                D#
@@ -203,34 +186,25 @@ Gm                F
 Could you feel my footsteps
               C                            D#
 And would you shatter, would you shatter, would you
-
-
-[Instrumental]
-
-F D# F D#
-
-
-[Verse]
-
+Instrumental
+F D#   F   D#
+Verse
               Gm             F
 And with your soft fingers between my claws
      C       D#
 Like purity against resolve
         Gm                                 F
 I could tell, then and there, that we were formed from the clay
-    C                           D#  F
+    C                           D#
 And came from the rocks for the earth to display
-     A#           F
+     A#                          F
 They told me to be careful up there
-          C                     D#  F
+          C                     D#     F
 Where the wind blows a venomous rage through your hair
-     A#           F
+     A#                  D#
 They told me to be careful up there
-          C                       D#  F
+          C                       D#      F
 Where the wind rages through your hair
-
-
-[Outro]
-
+Outro
 Gm F C D#
 Gm F C D#
