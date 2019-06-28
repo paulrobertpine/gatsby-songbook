@@ -2,20 +2,14 @@
 title: Royals
 artist: Lorde
 ---
-
-[Verse]
-
 D
 I've never seen a diamond in the flesh
-            C                         G        
+            C                         G
 I cut my teeth on wedding rings in the movies
                    D                           C
 And I'm not proud of my address - in the torn up town
              G
 No postcode envy
-
-
-[Pre-Chorus]
 
 D
 But every song's like: gold teeth, grey goose, trippin' in the bathroom
@@ -29,9 +23,6 @@ But everybody's like Cristal, Mayback, diamonds on your timepiece
 Jet planes, islands, tigers on a gold leash
 C                                      G
 We don't care - we  aren't caught up in your love affair
-
-
-[Chorus]
 
                           D
 And we'll never be royals - It don't run in our blood
@@ -46,9 +37,6 @@ And baby I'll rule, I'll rule, I'll rule, I'll rule
 G                  D
 Let me live that fantasy
 
-
-[Verse]
-
 D
 My friends and I we've cracked the code
                   C                     G
@@ -57,9 +45,6 @@ We count our dollars on the train to the party
 And everyone who knows us knows that we're fine with this
                     G
 We didn't come from money
-
-
-[Pre-Chorus]
 
 D
 But every song's like: gold teeth, grey goose, trippin' in the bathroom
@@ -74,9 +59,6 @@ Jet planes, islands, tigers on a gold leash
 C                                      G
 We don't care - we  aren't caught up in your love affair
 
-
-[Chorus]
- 
                            D
 And we'll never be royals - It don't run in our blood
                  C
@@ -90,15 +72,12 @@ And baby I'll rule, I'll rule, I'll rule, I'll rule
 G                 D
 Let me live that fantasy
 
-
-[Bridge]
-
 D
 oh ooh oh ohh
-         C                                 
+         C
 We're bigger than we ever dreamed
                G
-And I'm in love with being queen (king)
+And I'm in love with being queen
 D
 oh ooh oh ohh
 C
@@ -106,8 +85,6 @@ Life's a game without a care
               G
 We aren't caught up in your love affair
 
-
-[Chorus]
                           D
 And we'll never be royals - It don't run in our blood
                  C
@@ -120,4 +97,3 @@ Let me be your ruler - you can call me Queen Bee
 And baby I'll rule, I'll rule, I'll rule, I'll rule
 G                            D
 Let me live that fantasy
-

@@ -4,7 +4,8 @@ artist: Enya
 key: C
 chordpro: false
 ---
-[Verse 1]
+|G / / / |F / C /|
+
        G                          F       C
 Let me sail, let me sail, let the Orinoco flow,
        G                          F              C
@@ -14,38 +15,39 @@ Let me sail, let me sail, let me crash upon your shore,
        G                         F               C
 Let me reach, let me beach far beyond the Yellow Sea.
 
-[Chorus 1]       
-Cm              Bb   F
- De de de, de de,
+|Cm / / / |Bb / F / | (x4)
+De de
 G
- De de de, de de.
-(x4)  
+De de
+
       F          C          G
-Sail away, sail away, sail away.
-(x4)      
-         
-[Verse 2]        
+Sail away, sail away, sail away.(x4)
+
         G                     F           C
 From Bissau to Palau - in the shade of Avalon,
        G                   F           C
 From Fiji to Tiree and the Isles of Ebony,
        G                   F            C
-From Peru to Cebu hear the power of Babylon,
+From Peru to Cebu feel the power of Babylon,
         G                   F              C
-From Bali to Cali - far beneath the Coral Sea.
+From Bali to Cali far beneath the Coral Sea.
 
-[Chorus 1]       
+|Cm / / / |Bb / F / | (x4)
+De de
+|G / / / | / / / / |
+De de
+
 C                       G               Am    Fmaj9  G
-Turn it up, turn it up, turn it up, up, Adieu. --> (x2)
+Turn it up, turn it up, turn it up, up, Adieu. (x2)
 C                       G               F      D
 Turn it up, turn it up, turn it up, up, Adieu.
-      F          C          G
-Sail away, sail away, sail away.
-(x4)   
 
-[Verse 3]        
+      F          C          G
+Sail away, sail away, sail away (x4)
+
+
          G                      F            C
-From the North to the South, Ebudae into Khartoum,
+From the North to the South, Ebudae onto Khartoum,
          G                         F             C
 From the deep Sea of Clouds to the Island of the Moon,
       G                      F                C
@@ -61,4 +63,5 @@ We can steer, we can near with Rob Dickins at the wheel,
        G                          F           C
 We can sigh, say goodbye Ross and his dependencies.
        G                        F          C
-We can sail, we can sail, sail away, sail away, sail...(etc.)
+We can sail, we can sail, sail away, sail away, sail...
+Sail away, sail away, sail away...
