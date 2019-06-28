@@ -35,9 +35,6 @@
       .column {
         margin-right: 0.2rem;
 
-        // .lyrics {
-
-        // }
 
         .chord {
           font-family: $font-title;
@@ -45,18 +42,10 @@
           font-size: 16px;
           font-weight: bold;
           min-width: 40px;
-
-          // &:after {
-          //   content: '\200b';
-          // }
+          min-height: 20px;
 
           &:empty {
-            color: white;
             min-width: 0;
-
-            &:after {
-              content: ".";
-            }
           }
         }
       }

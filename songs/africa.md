@@ -4,7 +4,8 @@ artist: Toto
 key: G
 chordpro: true
 ---
-[F][Am][x4]
+
+| [F]/ / / [Am]/ | / / / / | x4
 
 [G]I hear the drums ech[Bm]oing ton[Em]ight
 [G]She hears only whi[F]spers of some [Am]quiet conver[Em]sa - t[F]ion[Am]

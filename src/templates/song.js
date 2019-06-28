@@ -19,7 +19,7 @@ const Song = ({ data }) => {
     song = new ChordSheetJS.ChordSheetParser().parse(formattedSong)
   }
 
-  // Convert ChordPro object into HTML
+  // Convert song object into HTML
   const htmlChordSheet = new ChordSheetJS.HtmlDivFormatter().format(song)
 
   return (
