@@ -2,10 +2,12 @@
 title: This Must Be the Place (Naive Melody)
 artist: Talking Heads
 key: D
-chordpro: false
+chordpro: true
 ---
-|D . Em . | G . Em . |
-chords
+
+| [D]/ / [Em]/ / | [C]/ / [Em]/ / |
+
+(jam)
 
 Home is where I want to be
 Pick me up and turn me around
@@ -23,6 +25,8 @@ And you're standing here beside me
 I love the passing of time
 Never for money, always for love
 Cover up and say goodnight, say goodnight
+
+(jam)
 
 Home, is where I want to be
 But I guess I'm already there
