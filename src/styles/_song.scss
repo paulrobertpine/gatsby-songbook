@@ -6,7 +6,9 @@
   border-bottom: 1px dotted $colour-text;
   padding: 10px;
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     padding: 0 20px;
   }
 
@@ -26,33 +28,35 @@
   font-size: 20px;
 
   .chord-sheet {
+    .paragraph {
+      margin-bottom: 30px;
 
-    .row {
-      padding-top: 1rem;
-      display: flex;
-      flex-wrap: wrap;
+      .row {
+        padding-top: 1rem;
+        display: flex;
+        flex-wrap: wrap;
 
-      .column {
-        margin-right: 0.2rem;
+        .column {
+          margin-right: 0.2rem;
 
+          .chord {
+            font-family: $font-title;
+            color: $colour-chord;
+            font-size: 16px;
+            font-weight: bold;
+            min-width: 40px;
+            min-height: 20px;
 
-        .chord {
-          font-family: $font-title;
-          color: $colour-chord;
-          font-size: 16px;
-          font-weight: bold;
-          min-width: 40px;
-          min-height: 20px;
-
-          &:empty {
-            min-width: 0;
+            &:empty {
+              min-width: 0;
+            }
           }
         }
       }
-    }
 
-    .empty-line {
-      height: 1rem;
+      .empty-line {
+        height: 1rem;
+      }
     }
   }
 }
