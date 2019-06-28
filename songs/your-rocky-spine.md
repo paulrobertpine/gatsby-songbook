@@ -4,8 +4,6 @@ artist: Great Lake Swimmers
 key: Em
 chordpro: true
 ---
-
-
 Em D Em C
 
 Em D A C
