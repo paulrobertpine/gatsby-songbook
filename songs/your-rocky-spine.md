@@ -4,21 +4,9 @@ artist: Great Lake Swimmers
 key: Gm
 chordpro: true
 ---
-\[Intro]
-
-
-
 Gm F Gm D#
 
 Gm F C D#
-
-
-
-
-
-\[Verse]
-
-
 
 \    Gm          F
 
@@ -36,23 +24,9 @@ That your body makes, that your body makes
 
 That your body makes
 
+F D# 
 
-
-
-
-\[Instrumental]
-
-
-
-F D# F D#
-
-
-
-
-
-\[Verse]
-
-
+F D#
 
 \    Gm                     F
 
@@ -70,14 +44,8 @@ I traced my finger along your trails
 
 Your body was the map, I was lost in it
 
-
-
-
-
 \[Chorus]
 
-
-
 A#                 F
 
 Floating over your rocky spine
@@ -94,27 +62,9 @@ Floating over your rocky spine
 
 The glaciers made you, and now you’re mine
 
-
-
-
-
-\[Instrumental]
-
-
-
-
-
 Gm F C D#
 
 Gm F C D#
-
-
-
-
-
-\[Verse]
-
-
 
 \    Gm                 F
 
@@ -132,23 +82,9 @@ Could you feel my footsteps
 
 And would you shatter, would you shatter, would you
 
-
-
-
-
-\[Instrumental]
-
-
-
 F D# F D#
 
-
-
-
-
 \[Verse]
-
-
 
 \    Gm             F
 
@@ -181,14 +117,6 @@ They told me to be careful up there
 \    C                       D#  F
 
 Where the wind rages through your hair
-
-
-
-
-
-\[Outro]
-
-
 
 Gm F C D#
 
