@@ -4,69 +4,45 @@ artist: Great Lake Swimmers
 key: Gm
 chordpro: true
 ---
-Intro
-Gm F Gm D#
-Gm F C D#
-Verse
-      Gm          F
-I was lost in the lakes
-        C                D#
-And the shapes that your body makes
-          Gm                    F
-That your body makes, that your body makes
-          C             D#
-That your body makes
-Instrumental
-F D#  F  D#
-Verse
-    Gm                     F
-The mountains said I could find you here
-     C                          D#
-They whispered the snow and the leaves in my ear
-   Gm               F
-I traced my finger along your trails
-     C                  D#
-Your body was the map, I was lost in it
-Chorus
-A#                 F
-Floating over your rocky spine
-    C                      D#
-The glaciers made you, and now you’re mine
-A#                F
-Floating over your rocky spine
-    C                      D#
-The glaciers made you, and now you’re mine
-Instrumental
-Gm F C D#
-Gm F C D#
-Verse
-      Gm                 F
-I was moving across your frozen veneer
-    C                D#
-The sky was dark but you were clear
-Gm                F
-Could you feel my footsteps
-              C                            D#
-And would you shatter, would you shatter, would you
-Instrumental
-F D#  F  D #
-Verse
-              Gm             F
-And with your soft fingers between my claws
-     C       D#
-Like purity against resolve
-        Gm                                 F
-I could tell, then and there, that we were formed from the clay
-    C                           D#
-And came from the rocks for the earth to display
-     A#             F
-They told me to be careful up there
-          C                     D#
-Where the wind blows a venomous rage through your hair
-     A#            F
-They told me to be careful up there
-          C                       D#
-Where the wind rages through your hair
-Outro
-Gm F C D#
-Gm F C D#
+|[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2
+
+I was [Gm]lost in the [F]lakes
+And the [C]shapes that your [Eb]body makes
+That your [Gm]body makes, that your [F]body makes
+That your [C]body makes  [Eb]
+
+|[F]/ / / / |[Eb]/ / / / | x2
+
+And the [Gm]mountains said I could [F]find you here
+They [C]whispered the snow and the [Eb]leaves in my ear
+I [Gm]traced my finger a-[F]long your trails
+Your [C]body was the map, I was [FEb]lost in it
+
+[Bb]Floating over your [F]rocky spine
+The [C]glaciers made you, and [Eb]now you're mine
+[F]Floating over your [F]rocky spine
+The [C]glaciers made you, and [Eb]now you're mine
+
+|[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2
+
+I was [Gm]moving across your [F]frozen veneer
+The [C]sky was dark but [Eb]you were clear
+[Gm]Could you feel my [F]footsteps
+And would you [C]shatter, would you shatter, would you[Eb]
+
+|[F]/ / / / |[Eb]/ / / / | x2
+
+And with your [Gm]soft fingers be-[F]tween my claws
+Like [C]purity a-[Eb]gainst resolve
+I could [Gm]tell, then and there, we were [F]formed from the clay
+And [C]came from the rocks for the [Eb]earth to display
+
+They [Bb]told me to be [F]careful up there
+Where the [C]wind blows a venomous [Eb]rage through your hair
+They [Bb]told me to be [F]careful up there
+Where the [C]wind rages through your [Eb]hair
+
+|[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2
+
+[Eb]
+(ending chord)
