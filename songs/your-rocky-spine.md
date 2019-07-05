@@ -44,5 +44,4 @@ Where the [C]wind rages through your [Eb]hair
 
 |[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2
 
-[Eb]
-(ending chord)
+[Eb](ending chord)
