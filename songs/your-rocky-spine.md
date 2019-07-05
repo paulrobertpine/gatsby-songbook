@@ -16,7 +16,7 @@ That your [C]body makes  [Eb]
 And the [Gm]mountains said I could [F]find you here
 They [C]whispered the snow and the [Eb]leaves in my ear
 I [Gm]traced my finger a-[F]long your trails
-Your [C]body was the map, I was [FEb]lost in it
+Your [C]body was the map, I was [Eb]lost in it
 
 [Bb]Floating over your [F]rocky spine
 The [C]glaciers made you, and [Eb]now you're mine
