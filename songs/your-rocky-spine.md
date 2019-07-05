@@ -20,7 +20,7 @@ Your [C]body was the map, I was [Eb]lost in it
 
 [Bb]Floating over your [F]rocky spine
 The [C]glaciers made you, and [Eb]now you're mine
-[F]Floating over your [F]rocky spine
+[Bb]Floating over your [F]rocky spine
 The [C]glaciers made you, and [Eb]now you're mine
 
 |[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2
