@@ -6,14 +6,15 @@ backend:
 media_folder: static/assets
 
 collections:
-  - name: "song"
-    label: "Song"
-    folder: "songs"
+  - name: 'song'
+    label: 'Song'
+    folder: 'songs'
     create: true
-    slug: "{{slug}}"
+    slug: '{{slug}}'
     fields:
-      - { name: "title", label: "Title" }
-      - { name: "artist", label: "Artist" }
-      - { name: "key", label: "Key" }
+      - { name: 'title', label: 'Title' }
+      - { name: 'artist', label: 'Artist' }
+      - { name: 'key', label: 'Key' }
       - { name: "chordpro", label: "ChordPro?", widget: "boolean", default: true }
-      - { name: "body", label: "Body", widget: "markdown"}
+      - { name: 'youtube', label: 'YouTube', widget: 'text' }
+      - { name: 'body', label: 'Body', widget: 'markdown' }

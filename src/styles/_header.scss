@@ -1,0 +1,54 @@
+#site-header {
+  background-color: $colour-secondary;
+  position: fixed;
+  padding: 5px 0;
+  width: 100vw;
+  border-bottom: 1px solid $colour-primary;
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    .site-title {
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+
+      svg {
+        width: 50px;
+        height: 50px;
+        margin-right: 20px;
+      }
+
+      span {
+        color: $colour-primary;
+        font-size: 24px;
+        transition: background-color 0.7s ease;
+
+        &:hover {
+          color: darken($colour-primary, 2%);
+        }
+      }
+    }
+
+    .util-nav {
+      list-style: none;
+      font-size: 30px;
+      margin: 0;
+      padding: 0;
+
+      button {
+        background-color: transparent;
+        color: $colour-primary;
+        border: 0;
+        padding-top: 10px;
+
+        &:hover {
+          color: darken($colour-primary, 2%);
+        }
+      }
+    }
+  }
+}

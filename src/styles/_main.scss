@@ -1,0 +1,16 @@
+#main {
+  padding: 60px 0;
+
+  header {
+    // background-color: $colour-primary-muted;
+    margin-bottom: 30px;
+    border-bottom: 1px solid $colour-primary;
+
+    .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+  }
+}

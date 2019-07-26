@@ -1,5 +1,9 @@
-@import "~normalize-css/normalize.css";
-@import "vars";
-@import "base";
-@import "home";
-@import "song";
+@import '~normalize-css/normalize.css';
+@import 'vars';
+@import 'global';
+
+@import 'header';
+@import 'main';
+
+@import 'home';
+@import 'song';

@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import ChordSheetJS from 'chordsheetjs'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 const Song = ({ data }) => {
   const post = data.markdownRemark
@@ -11,6 +11,7 @@ const Song = ({ data }) => {
   formattedSong = formattedSong.replace(/---[\S\s]*---/g, '')
 
   let song = ''
+  let youtube = ''
 
   // check for ChordPro or ChordSheet style (default) formatting. frontmatter has a BOOL flag for ChordPro
   if (post.frontmatter.chordpro) {
@@ -19,22 +20,44 @@ const Song = ({ data }) => {
     song = new ChordSheetJS.ChordSheetParser().parse(formattedSong)
   }
 
+  // check for YouTube vid
+  if (post.frontmatter.youtube) {
+    youtube = (
+      <div className="youtube">
+        <iframe
+          title="YouTube"
+          width="600"
+          height="330"
+          src={post.frontmatter.youtube}
+          frameborder="0"
+          allow="autoplay; encrypted-media"
+          allowfullscreen
+        />
+      </div>
+    )
+  }
+
   // Convert song object into HTML
   const htmlChordSheet = new ChordSheetJS.HtmlDivFormatter().format(song)
 
   return (
     <Layout>
-      <div className="sheet">
-        <div className="song-header">
+
+      <header>
+        <div className="container">
           <h1>{post.frontmatter.title}</h1>
           <h2>{post.frontmatter.artist}</h2>
           <h3>key of {post.frontmatter.key}</h3>
         </div>
+      </header>
+
+      <div className="sheet">
         <div
           className="song"
           dangerouslySetInnerHTML={{ __html: htmlChordSheet }}
         />
       </div>
+      {youtube}
     </Layout>
   )
 }
@@ -49,6 +72,7 @@ export const query = graphql`
         artist
         key
         chordpro
+        youtube
       }
       internal {
         content
