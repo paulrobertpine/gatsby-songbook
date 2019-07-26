@@ -1,9 +1,9 @@
 backend:
   name: git-gateway
-  # repo: paulrobertpine/gatsby-dag
   branch: master
 
 media_folder: static/assets
+public_folder: /img
 
 collections:
   - name: 'song'
@@ -16,5 +16,5 @@ collections:
       - { name: 'artist', label: 'Artist' }
       - { name: 'key', label: 'Key' }
       - { name: "chordpro", label: "ChordPro?", widget: "boolean", default: true }
-      - { name: 'youtube', label: 'YouTube', widget: 'text' }
+      - { name: 'youtube', label: 'YouTube' }
       - { name: 'body', label: 'Body', widget: 'markdown' }
