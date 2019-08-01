@@ -4,7 +4,7 @@ import 'typeface-cabin'
 import 'typeface-aleo'
 import '../styles/style.scss'
 
-import Header from './Header.jsx'
+import Header from './Header'
 
 export default ({ children }) => (
   <div id="root">

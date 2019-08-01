@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import ChordSheetJS from 'chordsheetjs'
-import Layout from '../components/Layout.jsx'
+import Layout from '../components/Layout'
 
 const Song = ({ data }) => {
   const post = data.markdownRemark
