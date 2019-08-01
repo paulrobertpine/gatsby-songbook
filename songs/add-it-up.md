@@ -3,14 +3,15 @@ title: 'Add it Up '
 artist: Violent Femmes
 key: B
 chordpro: true
+youtube: https://www.youtube.com/watch?v=QHapDS2fcFE
 ---
-Day after day 
+(A cappella)
+Day after day
 I will walk and I will play
 But the day after today
 I will stop and I will start
 
-[|B|B|B|B|
-|A|A|B|B|]
+[|B / / / | / / / / | A / / / | B / / / |]
 (throughout)
 
 Why can't I get just one kiss
@@ -18,7 +19,7 @@ Why can't I get just one kiss
 Believe me, there'd be somethings that I wouldn't miss
 But I look at your pants and I need a kiss
 
-Why can't I get just one screw 
+Why can't I get just one screw
 Why can't I get just one screw
 Believe me, I know what to do
 But something won't let me make love to you
@@ -31,8 +32,8 @@ I guess it got something to do with luck
 But I waited my whole life for just one
 
 Day after day
-I get angry and I will say 
-That the day is in my sight 
+I get angry and I will say
+That the day is in my sight
 When I'll take a bow and say goodnight
 
 Oh, ma-mama, mama-mo-ma-mum
