@@ -21,8 +21,6 @@ module.exports = {
         path: `${__dirname}/songs/`,
       },
     },
-    `gatsby-plugin-offline`,
-    `gatsby-plugin-netlify-cms`,
-    'gatsby-plugin-netlify', // make sure to keep it last in the array
+    `gatsby-plugin-offline`
   ],
 }

@@ -1,7 +1,7 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 
-import Layout from '../components/Layout'
+import Layout from '../components/Layout.jsx'
 
 class Home extends React.Component {
   constructor() {
