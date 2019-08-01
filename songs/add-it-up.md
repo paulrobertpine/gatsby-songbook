@@ -11,8 +11,7 @@ I will walk and I will play
 But the day after today
 I will stop and I will start
 
-[|B / / / | / / / / | A / / / | B / / / |]
-(throughout)
+[|B / / / | / / / / | A / / / | B / / / |](throughout)
 
 Why can't I get just one kiss
 Why can't I get just one kiss
