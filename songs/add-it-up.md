@@ -3,7 +3,7 @@ title: 'Add it Up '
 artist: Violent Femmes
 key: B
 chordpro: true
-youtube: https://www.youtube.com/watch?v=QHapDS2fcFE
+youtube: https://www.youtube.com//embed/QHapDS2fcFE
 ---
 (A cappella)
 Day after day
