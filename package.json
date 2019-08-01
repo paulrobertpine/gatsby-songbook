@@ -1,10 +1,10 @@
 {
-  "name": "gatsby-dag",
-  "description": "DAG songbook",
+  "name": "gatsby-songbook",
+  "description": "Gatsby Songbook",
   "author": "Paul Clifford <paulrobertpine@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulrobertpine/gatsby-dag.git"
+    "url": "https://github.com/paulrobertpine/gatsby-songbook.git"
   },
   "license": "MIT",
   "dependencies": {
