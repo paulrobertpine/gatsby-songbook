@@ -1,12 +1,13 @@
 .song {
   max-width: 600px;
   margin: 0 auto;
-  // padding: 30px 10px 0 10px;
+  padding-bottom: 2rem;
   font-size: 20px;
 
   .chord-sheet {
+
     .paragraph {
-      margin-bottom: 30px;
+      margin-bottom: 20px;
 
       .row {
         padding-top: 1rem;
@@ -39,6 +40,8 @@
 }
 
 .youtube {
+  border-top: 1px solid $colour-primary;
+  padding-top: 2rem;
   display: flex;
   justify-content: center;
 }

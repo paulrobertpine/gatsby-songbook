@@ -5,7 +5,6 @@ key: G
 chordpro: true
 youtube: https://www.youtube.com/embed/FTQbiNvZqaY
 ---
-
 | [F]/ / / [Am]/ | / / / / | (x4)
 
 [G]I hear the drums [Bm]echoing to-[Em]night

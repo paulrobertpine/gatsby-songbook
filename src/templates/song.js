@@ -42,7 +42,6 @@ const Song = ({ data }) => {
 
   return (
     <Layout>
-
       <header>
         <div className="container">
           <h1>{post.frontmatter.title}</h1>
@@ -51,12 +50,11 @@ const Song = ({ data }) => {
         </div>
       </header>
 
-      <div className="sheet">
-        <div
-          className="song"
-          dangerouslySetInnerHTML={{ __html: htmlChordSheet }}
-        />
-      </div>
+      <div
+        className="song"
+        dangerouslySetInnerHTML={{ __html: htmlChordSheet }}
+      />
+
       {youtube}
     </Layout>
   )
