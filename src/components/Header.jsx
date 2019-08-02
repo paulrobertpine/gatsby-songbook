@@ -18,7 +18,6 @@ class Header extends React.Component {
         <div className="container">
           <Link to="/" className="site-title">
             <SVG src={logo} width="30" />
-            <span>Songbook</span>
           </Link>
 
           <ul className="util-nav">

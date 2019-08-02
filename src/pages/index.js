@@ -30,7 +30,8 @@ class Home extends React.Component {
       <Layout>
         <header>
           <div className="container">
-            <h1>{filteredSongs.length} Songs</h1>
+          <h1>Songbook</h1>
+            <h2>{filteredSongs.length} Songs</h2>
             <div className="filters">
               <label htmlFor="filter-search">Search:</label>
               <input
@@ -46,12 +47,10 @@ class Home extends React.Component {
         <div className="container">
           <div className="songbook">
             {filteredSongs.map(({ node }) => (
-              <div key={node.id} className="song-card">
-                <Link to={node.fields.slug}>
-                  <span className="song-title">{node.frontmatter.title}</span>
-                  <span className="artist">{node.frontmatter.artist}</span>
-                </Link>
-              </div>
+              <Link to={node.fields.slug} key={node.id} className="song-card">
+                <span className="song-title">{node.frontmatter.title}</span>
+                <span className="artist">{node.frontmatter.artist}</span>
+              </Link>
             ))}
           </div>
         </div>
