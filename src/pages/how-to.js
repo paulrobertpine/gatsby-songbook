@@ -10,8 +10,15 @@ class HowTo extends React.Component {
             <h1>How to</h1>
           </div>
         </header>
-        <div className="song">
-          <p>How to goes here</p>
+
+        <div className="container">
+          <h2>Creating and editing a song</h2>
+          <p>GitHub workflow</p>
+          <h3>About ChordPro</h3>
+          <h2>Conventions</h2>
+          <p>There are some!</p>
+          <h3>Inserting chords</h3>
+          <h3>Showing rhythm</h3>
         </div>
       </Layout>
     )
