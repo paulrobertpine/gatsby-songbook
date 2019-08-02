@@ -7,7 +7,7 @@ class HowTo extends React.Component {
       <Layout>
         <header>
           <div className="container">
-            <h1>How To</h1>
+            <h1>How to</h1>
           </div>
         </header>
         <div className="song">

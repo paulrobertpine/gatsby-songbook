@@ -48,3 +48,17 @@
     }
   }
 }
+
+.homepage-nav {
+  ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+
+    a {
+      font-weight: bold;
+      // text-decoration: none;
+    }
+  }
+}
