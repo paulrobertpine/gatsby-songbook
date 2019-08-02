@@ -3,7 +3,7 @@ title: 'Add it Up '
 artist: Violent Femmes
 key: B
 chordpro: true
-youtube: https://www.youtube.com//embed/QHapDS2fcFE
+youtube: QHapDS2fcFE
 ---
 (A cappella)
 Day after day
@@ -11,7 +11,7 @@ I will walk and I will play
 But the day after today
 I will stop and I will start
 
-|[B]/ / / / | / / / / | [A]/ / / / | / / / / |(throughout)
+|[B]/ / / / | / / / / | [A]/ / / / | [B]/ / / / | (throughout)
 
 Why can't I get just one kiss
 Why can't I get just one kiss

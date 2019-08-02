@@ -3,7 +3,7 @@ title: Your Rocky Spine
 artist: Great Lake Swimmers
 key: Gm
 chordpro: true
-youtube: https://www.youtube.com/embed/eQ6W_cq-zQ0
+youtube: eQ6W_cq-zQ0
 ---
 
 |[Gm]/ / / / |[F]/ / / / |[C]/ / / / |[Eb]/ / / / | x2

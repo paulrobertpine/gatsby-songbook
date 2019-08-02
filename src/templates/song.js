@@ -22,13 +22,16 @@ const Song = ({ data }) => {
 
   // check for YouTube vid
   if (post.frontmatter.youtube) {
+    // add embed URL
+    youtube = 'https://www.youtube.com/embed/' + post.frontmatter.youtube
+    console.log(youtube)
     youtube = (
       <div className="youtube">
         <iframe
           title="YouTube"
           width="600"
           height="330"
-          src={post.frontmatter.youtube}
+          src={youtube}
           frameborder="0"
           allow="autoplay; encrypted-media"
           allowfullscreen
