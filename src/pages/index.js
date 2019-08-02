@@ -53,6 +53,11 @@ class Home extends React.Component {
               </Link>
             ))}
           </div>
+
+          <div className="song">
+
+<Link to="/how-to">How to</Link>
+          </div>
         </div>
       </Layout>
     )
