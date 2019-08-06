@@ -2,7 +2,7 @@
 title: Runaway Train
 artist: Soul Asylum
 key: C
-youtube:NRtvqT_wMeY
+youtube: NRtvqT_wMeY
 ---
 
 | [C] / / / | [C]  / / /  | [C]  / / /  | [C]  / / /  |
