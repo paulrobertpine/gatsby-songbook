@@ -18,9 +18,9 @@
       h1 {
         font-size: 40px;
         color: $colour-primary;
-        text-shadow: 2px 2px 0 $colour-secondary, -1px -1px 0 $colour-secondary,
-          1px -1px 0 $colour-secondary, -1px 1px 0 $colour-secondary,
-          1px 1px 0 $colour-secondary;
+        -webkit-text-stroke: 1px $colour-secondary;
+        text-stroke: 1px $colour-secondary;
+        text-shadow: 2px 2px 0 $colour-secondary;
       }
     }
   }
