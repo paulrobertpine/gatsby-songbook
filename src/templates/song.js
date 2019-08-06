@@ -10,15 +10,16 @@ const Song = ({ data }) => {
   // remove the frontmatter from the song content
   formattedSong = formattedSong.replace(/---[\S\s]*---/g, '')
 
-  let song = ''
+  // has to o be ChordPro!
+  let song = new ChordSheetJS.ChordProParser().parse(formattedSong)
   let youtube = ''
 
   // check for ChordPro or ChordSheet style (default) formatting. frontmatter has a BOOL flag for ChordPro
-  if (post.frontmatter.chordpro) {
-    song = new ChordSheetJS.ChordProParser().parse(formattedSong)
-  } else {
-    song = new ChordSheetJS.ChordSheetParser().parse(formattedSong)
-  }
+  // if (post.frontmatter.chordpro) {
+  //   song = new ChordSheetJS.ChordProParser().parse(formattedSong)
+  // } else {
+  //   song = new ChordSheetJS.ChordSheetParser().parse(formattedSong)
+  // }
 
   // check for YouTube vid
   if (post.frontmatter.youtube) {
@@ -72,7 +73,6 @@ export const query = graphql`
         title
         artist
         key
-        chordpro
         youtube
       }
       internal {
