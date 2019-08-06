@@ -2,90 +2,45 @@
 title: Baby One More Time
 artist: Britney Spears
 key: Am
-chordpro: false
+youtube:
 ---
+[Am]Oh baby, baby, how [E]was I supposed to [C]know
+That [Dm]something wasn't [E]right here
+[Am]Oh baby, baby, I [E]shouldn't have let you [C]go
+And [Dm]now you're out of [E]sight, yeah
+[Am]Show me how you want it [E]to be
+Tell me [C]baby 'cause I need to [Dm]know now, [E]oh because
 
-Verse
-Am                 E                 C
-Oh baby, baby, how was I supposed to know
-     Dm               E
-That something wasn't right here
-Am               E                      C
-Oh baby, baby, I shouldn't have let you go
-     Dm               E
-And now you're out of sight, yeah
-Am              E
-Show me how you want it to be
-        C                     Dm        E
-Tell me baby 'cause I need to know now, oh because
+[Am]My loneliness is [E]killing me (and I)
+[C]I must confess I [Dm]still believe [E](still believe)
+[Am]When I'm not with you I [E]lose my mind
+[F]Give me [G]a [C]sign
+[Dm]Hit me baby [E]one more time
 
-Chorus
-Am               E
-My loneliness is killing me (and I)
-C                Dm            E
-I must confess I still believe (still believe)
-Am                           E
-When I'm not with you I lose my mind
-          C
-Give me a sign
-Dm          E
-Hit me baby one more time
+[Am]Oh baby, baby
+The [E]reason I breathe is [C]you
+[Dm]Boy you got me [E]blinded
+[Am]Oh pretty baby
+There's [E]nothing that I wouldn't [C]do
+It's [Dm]not the way I [E]planned it
+[Am]Show me how you want it [E]to be
+Tell me [C]baby 'cause I need to [Dm]know now, [E]oh because
 
-Verse]
-Am
-Oh baby, baby
-    E                   C
-The reason I breathe is you
-Dm             E
-Boy you got me blinded
+[Am]My loneliness is [E]killing me (and I)
+[C]I must confess I [Dm]still believe [E](still believe)
+[Am]When I'm not with you I [E]lose my mind
+[F]Give me [G]a [C]sign
+[Dm]Hit me baby [E]one more time
+[Am]Oh baby, baby how [E]was I supposed to [C]know [Dm]/ / [E]/ /
+[F]Oh pretty baby, I [G]shouldn't have let you [Dm]go [F]/ / [G]/ /
+I must [Am]confess, that my [E]loneliness is killing me [C]now
+Don't you [Dm]know I [E]still be-[F]lieve
+That you will be [G]here
+And give me a [F]sign
+[Dm]Hit me baby [E]one more time
 
-Am
-Oh pretty baby
-        E                       C
-There's nothing that I wouldn't do
-     Dm            E
-It's not the way I planned it
-Am              E
-Show me how you want it to be
-        C                     Dm        E
-Tell me baby 'cause I need to know now, oh because
-
-Chorus
-Am               E
-My loneliness is killing me (and I)
-C                Dm            E
-I must confess I still believe (still believe)
-Am                           E
-When I'm not with you I lose my mind
-          C
-Give me a sign
-Dm          E
-Hit me baby one more time
-
-Verse
-Am                E                 C         Dm E
-Oh baby, baby how was I supposed to know
-F                 G                      Dm   F  G
-Oh pretty baby, I shouldn't have let you go
-          Am                  E                    C
-I must confess, that my loneliness is killing me now
-           Dm    E         F
-Don't you know I still believe
-                G
-That you will be here
-              F
-And give me a sign
-Dm          E
-Hit me baby one more time
-
-Chorus
-Am               E
-My loneliness is killing me (and I)
-C                Dm            E
-I must confess I still believe (still believe)
-Am                           E
-When I'm not with you I lose my mind
-          C
-Give me a sign
-Dm          E
-Hit me baby one more time
+[Am]My loneliness is [E]killing me (and I)
+[C]I must confess I [Dm]still believe [E](still believe)
+[Am]When I'm not with you I [E]lose my mind
+[F]Give me [G]a [C]sign
+[Dm]Hit me baby [E]one more time
