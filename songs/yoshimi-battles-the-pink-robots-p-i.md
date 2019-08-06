@@ -2,7 +2,7 @@
 title: Yoshimi Battles The Pink Robots P. I
 artist: The Flaming Lips
 key: C
-chordpro: true
+
 ---
 Intro
 C    Em    Dm    F  G  x2

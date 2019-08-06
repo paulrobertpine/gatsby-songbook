@@ -2,7 +2,7 @@
 title: This Must Be the Place (Naive Melody)
 artist: Talking Heads
 key: D
-chordpro: true
+
 ---
 
 | [D]/ / [Em]/ / | [C]/ / [Em]/ / |

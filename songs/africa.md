@@ -2,7 +2,7 @@
 title: Africa
 artist: Toto
 key: G
-chordpro: true
+
 youtube: FTQbiNvZqaY
 ---
 | [F]/ / / [Am]/ | / / / / | (x4)

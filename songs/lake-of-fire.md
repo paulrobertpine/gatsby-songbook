@@ -2,14 +2,14 @@
 title: Lake of Fire
 artist: Nirvana
 key: Em
-chordpro: false
+
 ---
 
 Intro  Em   D G|Em  A G|Em  D G|A  D Em|Em  D Em|Em  D Em||
 Chorus
 Em                   D            G
  Where do bad folks go when they die
-      Em                          A          G  
+      Em                          A          G
 They don't go to heaven where the angels fly
 Em               D        G
 Go to a lake of fire and fry
@@ -28,7 +28,7 @@ Flew and lay down on the yellow moon
 Chorus
 Em                   D            G
  Where do bad folks go when they die
-      Em                          A          G  
+      Em                          A          G
 They don't go to heaven where the angels fly
 Em               D        G
 Go to a lake of fire and fry
@@ -47,7 +47,7 @@ While the angels and the devils try to make 'em their own
 Chorus
 Em                   D            G
  Where do bad folks go when they die
-      Em                          A          G  
+      Em                          A          G
 They don't go to heaven where the angels fly
 Em               D        G
 Go to a lake of fire and fry

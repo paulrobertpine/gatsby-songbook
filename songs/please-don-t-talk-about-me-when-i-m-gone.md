@@ -2,11 +2,12 @@
 title: Please Don't Talk About Me When I'm Gone
 artist: Dean Martin
 key: G
-chordpro: false
+
 ---
 G                 B7                E
 Please don't talk about me when I'm gone.
-           A                     D                G       D
+           A                     D                G
+       D
 Oh, honey, though our friendship ceases, from now on.
         G                B7            E
 And listen, if you can't say anything real nice.

@@ -2,7 +2,7 @@
 title: Father and Son
 artist: Cat Stevens
 key: G
-chordpro: true
+
 ---
 G C Csus4
 
@@ -49,7 +49,7 @@ Find a girl, settle down, if you want to, you can marry
         G        Em           Am   C  D
 Look at me, I am old, but I'm happy
 
-        G            Bm             C                Am        
+        G            Bm             C                Am
 All the times that I cried, keeping all the things I knew inside
      G              Em          Am   D
 It's hard, but it's harder to ignore it

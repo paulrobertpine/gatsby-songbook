@@ -2,7 +2,7 @@
 title: Albuquerque
 artist: Neil Young
 key: Em
-chordpro: true
+
 youtube: GwnFCri0zD0
 ---
 Well they [Em]say that Santa [D]Fe

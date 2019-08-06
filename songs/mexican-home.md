@@ -2,7 +2,7 @@
 title: Mexican Home
 artist: John Prine
 key: C
-chordpro: false
+
 ---
 Intro:
 C  F  C  F  C  G  C

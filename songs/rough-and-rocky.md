@@ -2,7 +2,7 @@
 title: 'Don’t This Road Look Rough and Rocky '
 artist: Flatt & Scruggs
 key: G
-chordpro: true
+
 ---
 [G]Darling, I have [C]come to[G]tell you
 Though it almost breaks my [D]heart

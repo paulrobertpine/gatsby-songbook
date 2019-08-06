@@ -2,7 +2,7 @@
 title: I Think We're Alone Now
 artist: Tiffany
 key: D
-chordpro: true
+
 ---
 [D-A-G-D]
 x2
@@ -16,13 +16,13 @@ x2
 (refrain)
 [F#m]Running just as fast as we [D]can
 [F#m]Holding on to one another's [D]hand
-[C]Tryin' to get away into the night and then you 
+[C]Tryin' to get away into the night and then you
 [A]put your arms around me and we tumble to the ground and then you say
 
-(chorus)        
-[D]I think we're alone [A]now 
+(chorus)
+[D]I think we're alone [A]now
 [G]doesn't seem to be [D]anyone around
-[D]I think we're alone [A]now 
+[D]I think we're alone [A]now
 The [G]beating of our hearts is the [D]only sound
 
 (interlude like intro)

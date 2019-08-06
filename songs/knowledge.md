@@ -2,7 +2,7 @@
 title: Knowledge
 artist: Operation Ivy
 key: C
-chordpro: false
+
 ---
 
 C
@@ -24,7 +24,7 @@ Bb                   F
 All i know is that i dont know nothin.
 
 
-We're gettin 
+We're gettin
 taught to decide
 just like as if
 i'm not gonna change my mind

@@ -2,7 +2,7 @@
 title: Sail Away
 artist: Neil Young
 key: G
-chordpro: true
+
 ---
 
 
@@ -10,29 +10,29 @@ Intro
 
  G Am D G
 
-\    
+\
 
 Verse 1
 
- G                     Am    
+ G                     Am
 
  I could live inside a teepee
 
- D                        G          
+ D                        G
 
  I could die in penthouse thirty-five
 
- G                        Am     
+ G                        Am
 
  You could lose me on the freeway
 
- D                         C     G   
+ D                         C     G
 
  But I would still make it back alive
 
 Chorus
 
- D                       G  
+ D                       G
 
  As long as we can sail away
 
@@ -40,15 +40,15 @@ Chorus
 
  As long as we can sail away
 
-\    G                 
+\    G
 
  There'll be wind in the canyon
 
- Am              
+ Am
 
  Moon on the rise
 
- C          D            G  
+ C          D            G
 
  As long as we can sail away
 
@@ -62,11 +62,11 @@ Verse 2
 
  All the rest of their lives
 
-\    
+\
 
 Chorus
 
- D                       G  
+ D                       G
 
  As long as we can sail away
 
@@ -74,15 +74,15 @@ Chorus
 
  As long as we can sail away
 
-\    G                 
+\    G
 
  There'll be wind in the canyon
 
- Am              
+ Am
 
  Moon on the rise
 
- C          D            G  
+ C          D            G
 
  As long as we can sail away
 
@@ -96,11 +96,11 @@ Verse 3
 
  'Round the bend and back again
 
-\    
+\
 
 Chorus
 
- D                       G  
+ D                       G
 
  As long as we can sail away
 
@@ -108,14 +108,14 @@ Chorus
 
  As long as we can sail away
 
-\    G                 
+\    G
 
  There'll be wind in the canyon
 
- Am              
+ Am
 
  Moon on the rise
 
- C          D            G  
+ C          D            G
 
  As long as we can sail away

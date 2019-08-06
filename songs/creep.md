@@ -2,7 +2,7 @@
 title: Creep
 artist: Radiohead
 key: G
-chordpro: true
+
 ---
 [Intro]
 [G][B][C][Cm]

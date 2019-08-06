@@ -2,7 +2,7 @@
 title: Superman's Song
 artist: Crash Test Dummies
 key: C
-chordpro: false
+
 ---
 [Intro]
 C  G   C  G  D  G  D   G
@@ -17,7 +17,7 @@ Like that, quick as a cat in the jungle
 
 C      G         C           G
  Clark Kent, now there was a real gent
-C         G             C        G    
+C         G             C        G
  He would not be caught sittin' around in no
 Em     D     Em         D           Am       D
 Junglescape, dumb as an ape doing nothing

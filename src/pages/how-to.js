@@ -13,12 +13,14 @@ class HowTo extends React.Component {
 
         <div className="container">
           <h2>Creating and editing a song</h2>
-          <p>GitHub workflow</p>
+          <p>This website uses a system called  <a href="https://www.chordpro.org/chordpro/ChordPro-Chords.html">ChordPro</a> for adding chords to lyrics; it's a standard way to ensure that chords will show up in the right place and are able to be transposed, et.</p>
           <h3>About ChordPro</h3>
+          <p>The ChordPro system works by adding a chord in sqaure brackets [] directly before the syllable where the chord is played.</p>
           <h2>Conventions</h2>
           <p>There are some!</p>
           <h3>Inserting chords</h3>
           <h3>Showing rhythm</h3>
+          <h2>GitHub workflow</h2>
         </div>
       </Layout>
     )

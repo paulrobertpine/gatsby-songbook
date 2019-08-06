@@ -2,7 +2,7 @@
 title: Hurt
 artist: Johnny Cash
 key: Am
-chordpro: true
+
 ---
 Intro
 Am    C  D  Am    C  D
@@ -13,7 +13,7 @@ Am   C       D     Am       C      D       Am
 I focus on the pain   the only thing that's real
     C      D       Am         C      D       Am
 The needle tears a hole   the old familiar sting
-       C      D      Am           C      D      G          
+       C      D      Am           C      D      G
 Try to kill it all away   but I remember everything
 Chorus 1
 Am              F     C               G

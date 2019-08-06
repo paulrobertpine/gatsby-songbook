@@ -2,7 +2,7 @@
 title: Psycho Killer
 artist: Talking Heads
 key: A
-chordpro: true
+
 ---
 A7                                     G
   I can't seem to face up to the facts
@@ -12,8 +12,8 @@ A7                                     G
   I can't sleep cause my bed's on fire
  A7                                     G
   Don't touch me I'm a real live wire
- 
- 
+
+
  F                G
    Psycho killer, qu'est-ce que c'est
  Am
@@ -52,19 +52,19 @@ A7                                     G
  F                 G                 C
    Run run run run run run run run a-way
  F                   G
- Oh oh oh oooooooh   Ay ay ay ay ay 
- 
+ Oh oh oh oooooooh   Ay ay ay ay ay
+
 
  Bm                        G
  Ce que j'ai fais, ce soir là      (What I did that night)
- Bm                        C 
+ Bm                        C
  Ce qu'elle a dit, ce soir-là      (What she said that night)
  A
  Réalisant mon espoir             (Realizing my hopes)
  G
  Je me lance vers la gloire       (I rush towards glory)
  A     G
- Okay    
+ Okay
  A                                G
  Yay yay yay yay yay yay yay yah
  A                               G
@@ -86,5 +86,5 @@ A7                                     G
    Run run run run run run run run a-way
  F                   G
  Oh oh oh oooooooh   Ay ay ay ay ay ay ay
- 
+
 

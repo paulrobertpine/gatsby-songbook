@@ -2,10 +2,10 @@
 title: The Campaigner
 artist: Neil Young
 key: F
-chordpro: true
+
 ---
 Intro
-F Bb F Dm Bb 
+F Bb F Dm Bb
 Verse
 F
 I am a lonely visitor.
@@ -67,7 +67,7 @@ Verse
 I am a lonely visitor.
  Bb
 I came too late to cause a stir,
- F                          Dm                Bb    
+ F                          Dm                Bb
 though I campaigned all my life towards that goal.
 Outro
 Bb A7 Dm Dm/C

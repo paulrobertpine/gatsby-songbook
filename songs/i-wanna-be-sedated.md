@@ -2,7 +2,7 @@
 title: I Wanna Be Sedated
 artist: Ramones
 key: E
-chordpro: true
+
 ---
 [Intro]
 

@@ -2,7 +2,7 @@
 title: It's Still Rock And Roll To Me
 artist: Billy Joel
 key: C
-chordpro: true
+
 ---
 [C]What's the matter with the [Em]clothes I'm wearing?
 "Can't you [Bb]tell that your tie's too wide?[F]"

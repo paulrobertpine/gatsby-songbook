@@ -2,7 +2,7 @@
 title: 867-5309 /Jenny
 artist: Tommy Tutone
 key: 'F#m'
-chordpro: true
+
 ---
 [|F#m.D.|A.B.|]
 

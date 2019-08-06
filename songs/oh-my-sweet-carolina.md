@@ -2,7 +2,7 @@
 title: Oh My Sweet Carolina
 artist: Ryan Adams
 key: C
-chordpro: false
+
 ---
     C                         F              C
 I went down to Houston and I stopped in San Antone

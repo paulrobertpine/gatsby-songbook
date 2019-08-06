@@ -2,7 +2,7 @@
 title: Don't Look Back In Anger
 artist: Oasis
 key: C
-chordpro: true
+
 ---
 \|C    |F    |C    |F    |
 

@@ -2,12 +2,12 @@
 title: It's My Life
 artist: Talk Talk
 key: Eb
-chordpro: false
+
 ---
 
 
 [Intro]
-Eb Bbm Db 
+Eb Bbm Db
 
 [Verse]
 Eb           Bbm       Db      Eb             Bbm  Db
@@ -19,17 +19,17 @@ One half won't do
 
 Am  F  G  C     F                     G   Am  F  G  C
        I've asked myself how much do you...
-    F     
+    F
 Commit yourself?
 
- G       Am  Dm  G      C      Am   Dm  G 
-It's my life   don't you forget          
+ G       Am  Dm  G      C      Am   Dm  G
+It's my life   don't you forget
  C       Am  Dm  G  C    Am   Dm  G  C
 It's my life     it never ends
 
 [Instrumental]
-|Fm 
-|Eb Bbm Db 
+|Fm
+|Eb Bbm Db
 
 Eb           Bbm       Db    Eb       Bbm  Db
 Funny how I blind myself I never knew
@@ -41,8 +41,8 @@ Am  F  G  C     F                     G   Am  F  G  C
      F
 Convince myself
 
- G       Am  Dm  G      C      Am   Dm  G 
-It's my life   don't you forget          
+ G       Am  Dm  G      C      Am   Dm  G
+It's my life   don't you forget
  C       Am  Dm  G  C    Am   Dm  G  C
 It's my life     it never ends
 
@@ -54,11 +54,11 @@ It's my life     it never ends
 
 Am  F  G  C     F                     G   Am  F  G  C
        I've asked myself how much do you...
-    F     
+    F
 Commit yourself?
 
 [Outro]
- G       Am  Dm  G     C      Am   Dm 
-It's my life   don't you forget          
-G       C        Am  Dm  G    C    Am   Dm  G 
+ G       Am  Dm  G     C      Am   Dm
+It's my life   don't you forget
+G       C        Am  Dm  G    C    Am   Dm  G
 Caught in the crowd    It never ends… (repeat last 2 lines and fade out)

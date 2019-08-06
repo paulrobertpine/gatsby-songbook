@@ -2,7 +2,7 @@
 title: 50 Ways
 artist: Paul Simon
 key: Em
-chordpro: true
+
 ---
 [Verse]
 

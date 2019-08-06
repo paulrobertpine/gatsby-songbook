@@ -2,7 +2,7 @@
 title: Jolene
 artist: Dolly Parton
 key: Am
-chordpro: true
+
 ---
 Am
 (4 bars)
@@ -64,7 +64,7 @@ My happiness depends on you
     G           Em           Am
 Whatever you decide to do, Jolene
 Chorus
- 
+
   Am      C       G       Am
 Jolene, Jolene, Jolene, Jolene
       G                                 Am

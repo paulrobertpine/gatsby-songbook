@@ -2,7 +2,7 @@
 title: Cecilia
 artist: Paul Simon
 key: C
-chordpro: true
+
 ---
 [G]Cecilia, you're [C]breaking my [G]heart
 You're [C]shaking my [G]confidence [D]daily

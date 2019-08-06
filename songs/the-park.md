@@ -2,7 +2,7 @@
 title: The Park
 artist: Feist
 key: G
-chordpro: true
+
 ---
 G C G D G C G D G
 

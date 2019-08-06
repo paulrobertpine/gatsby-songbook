@@ -2,7 +2,7 @@
 title: When People Go
 artist: Craig Cardiff
 key: D
-chordpro: true
+
 ---
 Intro: D A Em G
 

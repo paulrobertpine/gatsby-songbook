@@ -2,7 +2,7 @@
 title: Toxic
 artist: Brittney Spears
 key: Am
-chordpro: true
+
 ---
 [Am]
 

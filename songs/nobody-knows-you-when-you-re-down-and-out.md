@@ -2,7 +2,7 @@
 title: Nobody Knows You When You're Down And Out
 artist: Eric Clapton
 key: C
-chordpro: true
+
 ---
 Intro
 C E7 A A7 Dm A7 Dm F C A7 D7 G7
@@ -61,6 +61,6 @@ I Said It Straight, Without Any Doubt
 D7
 Nobody Knows You
 F
-Nobody Knows You 
+Nobody Knows You
 Dm           G7                       C
 Nobody Knows You When You're Down And Out

@@ -2,7 +2,7 @@
 title: Ruby
 artist: Dave Rawlins Machine
 key: A
-chordpro: true
+
 ---
 [Verse 1]
 

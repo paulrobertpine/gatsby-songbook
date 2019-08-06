@@ -2,7 +2,7 @@
 title: 'Add it Up '
 artist: Violent Femmes
 key: B
-chordpro: true
+
 youtube: QHapDS2fcFE
 ---
 (A cappella)

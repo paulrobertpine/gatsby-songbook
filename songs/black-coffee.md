@@ -2,7 +2,7 @@
 title: Black Coffee
 artist: Ella Fitzgerald
 key: C
-chordpro: true
+
 ---
 Intro: C Gm C Gm and so on....
 Verse 1:

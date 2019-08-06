@@ -2,7 +2,7 @@
 title: Get Back
 artist: The Beatles
 key: A
-chordpro: true
+
 ---
 [A][G][D]
 

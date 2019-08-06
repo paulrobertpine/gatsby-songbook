@@ -2,7 +2,7 @@
 title: Mamas Don't Let Your Babies Grow Up to be Cowboys
 artist: Willie Nelson
 key: D
-chordpro: true
+
 ---
 D                                            G
 

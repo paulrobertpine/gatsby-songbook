@@ -2,7 +2,7 @@
 title: Queen of Hearts
 artist: Juice Newton
 key: A
-chordpro: true
+
 ---
 Queen Of Hearts chords
 Juice Newton (Hank DeVito)

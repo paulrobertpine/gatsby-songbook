@@ -2,7 +2,7 @@
 title: Lola
 artist: Kinks
 key: C
-chordpro: false
+
 ---
 C     D     E
 Here's approximately how the picking goes:

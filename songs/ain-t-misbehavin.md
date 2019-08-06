@@ -2,7 +2,7 @@
 title: Ain't Misbehavin'
 artist: Ella Fitzgerald
 key: C
-chordpro: false
+
 ---
 C         C7
 No one to walk with
@@ -84,6 +84,6 @@ I'm savin' my love for you
 
 C          C7
 Ain't misbehavin'
-Dm            G    G7  C  
+Dm            G    G7  C
 I'm savin' my love for you
 

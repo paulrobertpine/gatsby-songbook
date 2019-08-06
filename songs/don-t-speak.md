@@ -2,7 +2,7 @@
 title: Don't Speak
 artist: No Doubt
 key: Cm
-chordpro: true
+
 ---
 Intro
  Cm
@@ -15,7 +15,7 @@ Bb          Gm     Fm     Bb
 Every day together always
 Verse II
 Cm           Gm
-I really feel 
+I really feel
          Fm         Bb
 That I'm losing my best friend
   Gm
@@ -133,7 +133,7 @@ I know you’re good
                Bbm – C  Fm
 I know you’re real good oh
 Bbm    Eb  C   Bbm
-Lalalala, lalalala, 
+Lalalala, lalalala,
 C      Fm     Bbm - C
 Don’t, don’t, Ooh ooh
 Outro:
@@ -142,7 +142,7 @@ Hush me, hush me darling
 Eb                C
 Hush me, hush me darling
 Bbm\
-Hush me, hush me, 
+Hush me, hush me,
          C      Fm   Bbm - C
 Don’t tell me ‘cause it hurts.
 Fm                   Bbm
@@ -150,6 +150,6 @@ Hush me, hush me darling
 Eb                C
 Hush me, hush me darling
 Bbm\
-Hush me, hush me, 
+Hush me, hush me,
        C                Fm    Bbm - C
 Don’t tell me ‘cause it hurts.

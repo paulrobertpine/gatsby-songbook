@@ -2,7 +2,7 @@
 title: Song For A Winter's Night
 artist: Gordon Lightfoot
 key: G
-chordpro: true
+
 ---
 G           D             Em          C
 The lamp is burnin' low upon my table top,

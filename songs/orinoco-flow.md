@@ -2,7 +2,7 @@
 title: Orinoco Flow
 artist: Enya
 key: C
-chordpro: false
+
 ---
 |G / / / |F / C /|
 

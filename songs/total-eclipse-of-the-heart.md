@@ -2,7 +2,7 @@
 title: Total Eclipse of the Heart
 artist: Bonnie Tyler
 key: E
-chordpro: true
+
 ---
 ([F#m]Turn around) every now and then I get a [E]little bit lonely
 And you're never coming 'round

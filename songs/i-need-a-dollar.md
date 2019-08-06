@@ -2,12 +2,12 @@
 title: I Need A Dollar
 artist: Aloe Blacc
 key: 'G#m'
-chordpro: false
+
 ---
 [Chorus]
 
 G#m       F#               C#m
- I need a dollar dollar, a dollar is what I need, hey hey 
+ I need a dollar dollar, a dollar is what I need, hey hey
 G#m            F#               C#m
  Well I need a dollar dollar, a dollar is what I need, hey hey
 G#m                F#               C#m
@@ -30,7 +30,7 @@ G#m          F#                C#m
 
 [Chorus]
 
-G#m       F#               C#m 
+G#m       F#               C#m
  I need a dollar dollar, a dollar is what I need, hey hey
 G#m           F#                C#m
  Well I need a dollar dollar, a dollar is what I need
@@ -56,7 +56,7 @@ G#m            F#                   C#m
 
 [Chorus]
 
-G#m       F#               C#m 
+G#m       F#               C#m
  I need a dollar dollar, a dollar is what I need, hey hey
 G#m           F#                C#m
  Well I need a dollar dollar, a dollar is what I need
@@ -107,7 +107,7 @@ G#m                F#               C#m
 
 [Chorus]
 
-G#m       F#               C#m 
+G#m       F#               C#m
  I need a dollar dollar, a dollar is what I need, hey hey
 G#m           F#                C#m
  Well I need a dollar dollar, a dollar is what I need

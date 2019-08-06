@@ -2,7 +2,7 @@
 title: Turnaround
 artist: Stan Rogers
 key: C
-chordpro: true
+
 ---
  [C]Bits and [Em]pieces, [Am]you offered AmG]
  [F]Of your life I [C]didn't think

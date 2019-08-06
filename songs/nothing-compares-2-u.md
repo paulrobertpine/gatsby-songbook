@@ -2,7 +2,7 @@
 title: Nothing Compares 2 U
 artist: Sinead O'Connor
 key: F
-chordpro: true
+
 ---
 [F]It's been seven hours and [C]fifteen days
 [Dm]since you took your love away[F][C]
@@ -13,7 +13,7 @@ chordpro: true
 [F]I can eat my dinner in a fancy [C]restaurant
 but [Dm]nothing, I said nothing can take [A]away these blues
 
-'cos 
+'cos
 [Eb]nothing com-[Bb]pares
 [Eb]nothing com-[Bb]pares 2 U [C]
 
@@ -27,7 +27,7 @@ tell me [Dm]baby where did I go [Bb]wrong?
 he said: [Dm]"girl U better try to have fun no matter [A]what U do"
 but he's a fool
 
-'cos 
+'cos
 [Eb]nothing com-[Bb]pares
 [Dm]nothing com-[C]pares 2 U
 
@@ -39,7 +39,7 @@ but he's a fool
 [F]I know that living with U baby was [C]sometimes hard
 [Dm]but I'm willing 2 give U another [A]try
 
-'cos 
+'cos
 [Eb]nothing com-[Bb]pares
-[Dm]nothing com-[C]pares 2 U 
+[Dm]nothing com-[C]pares 2 U
 (x3)
