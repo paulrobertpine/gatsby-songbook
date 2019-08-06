@@ -5,7 +5,7 @@ key: C
 youtube: NRtvqT_wMeY
 ---
 
-| [C] / / / | [C]  / / /  | [C]  / / /  | [C]  / / /  |
+| [C] / / / / | [C]  / / / / | [C]  / / / / | [C]  / / / / |
 
 [C] Call you up in the middle of the night
 [Em/B] Like a firefly without a light
@@ -45,9 +45,9 @@ And [F]everything seems [G]cut and dry
 [Am] Seems like I should be getting somewhere
 [G] Somehow I'm neither here nor there
 
-| [C]  / | [C]  / | [Em] / | [Em] / | [Am] / | [Am] / | [G]  / | [G] /  |
-| [F] /  | [G] /  | [C] /  | [Am] / |
-| [F] /  | [Em]/ | [G] /  | [G] /
+| [C]/  / | [C]/  / | [Em]/ / | [Em]/ / | [Am]/ / | [Am]/ / | [G]/  / | [G]/ /  |
+| [F]/ /  | [G]/ /  | [C]/ /  | [Am]/ / |
+| [F]/ /  | [Em]/ /| [G] / / | [G] / / |
 
 [C] Bought a ticket for a runaway train
 [Em/B] Like a madman laughing at the rain
@@ -64,5 +64,5 @@ And [F]everything seems [G]cut and dry
 [Am] Runaway train burning in my veins
 [G] I'd runaway but it always seems the same
 
-| [C]  / | [C]  / | [Em] / | [Em] / | [Am] / | [Am] / | [G]  / | [G] /  |
+| [C]/  / | [C]/  / | [Em]/ / | [Em]/ / | [Am]/ / | [Am]/ / | [G]/  / | [G]/ /  |
 (repeat and fade out)
