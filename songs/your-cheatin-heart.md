@@ -1,53 +1,41 @@
 ---
-title: Your Cheatin’ Heart
+title: Your Cheatin' Heart
 artist: Hank Williams
+key: G
+youtube: 26PLWPWXlSc
 ---
-[Intro:]
-D7 G
+Your cheatin' [G]heart
+Will make you [C]weep
+You'll cry and [D]cry
+And try to [G]sleep
+But sleep won't [G]come
+The whole night [C]through
+Your cheatin' [D]heart
+Will tell on [G]you
 
-[Verse 1:]
-              G                   C
-Your cheatin' heart will make you weep
-               D                G
-You'll cry and cry and try to sleep
-                G                     C
-But sleep won't come the whole night through
-               D                 G
-Your cheatin' heart will tell on you
+When tears come [C]down
+Like falling [G]rain
+You'll toss a-[A7]round
+And call my [D]name
+You'll walk the [G]floor
+The way I [C]do
+Your cheatin' [D]heart
+Will tell on [G]you
 
+Your cheatin' [G]heart
+Will pine some [C]day
+And crave the [D]love
+You threw a-[G]way
+The time will [G]come
+When you'll be [C]blue
+Your cheatin' [D]heart
+Will tell on [G]you
 
-[Chorus:]
-                C                 G
-When tears come down like fallin' rain
-              A7                D
-You'll toss around and call my name
-                   G            C
-You'll walk the floor the way I do
-               D7                G
-Your cheatin' heart will tell on you
-
-
-[Interlude:]
-G C D (x2)
-
-
-[Verse 2:]
-              G                    C
-Your cheatin' heart will pine some day
-              D                G
-And crave the love you threw away
-              G                   C 
-The time will come when you'll be blue
-              D                 G
-Your cheatin heart will tell on you
-
-
-[Chorus:]
-                C                 G
-When tears come down like fallin' rain
-              A7                D
-You'll toss around and call my name
-                   G            C
-You'll walk the floor the way I do
-               D7                G
-Your cheatin' heart will tell on you
+When tears come [C]down
+Like falling [G]rain
+You'll toss a-[A7]round
+And call my [D]name
+You'll walk the [G]floor
+The way I [C]do
+Your cheatin' [D]heart
+Will tell on [G]you
