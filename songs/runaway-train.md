@@ -63,5 +63,6 @@ And [F]everything seems [G]cut and dry
 [Em] Runaway train tearing up the track
 [Am] Runaway train burning in my veins
 [G] I'd runaway but it always seems the same
+
 | [C]  / | [C]  / | [Em] / | [Em] / | [Am] / | [Am] / | [G]  / | [G] /  |
 (repeat and fade out)
