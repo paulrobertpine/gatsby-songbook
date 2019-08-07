@@ -5,7 +5,7 @@ key: C
 youtube: NRtvqT_wMeY
 ---
 
-| [C] / / / / | [C]  / / / / | [C]  / / / / | [C]  / / / / |
+| [C]/ / / / | [C]/ / / / | [C]/ / / / | [C]/ / / / |
 
 [C] Call you up in the middle of the night
 [Em/B] Like a firefly without a light
@@ -16,9 +16,9 @@ youtube: NRtvqT_wMeY
 [Em/B] So many secrets I couldn't keep
 [Am] Promised myself I wouldn't weep
 [G] One more promise I couldn't keep
-                 
-It [F]seems no one can [G]help me now             
-I'm [C ]in too deep, there's [Am]no way out                
+
+It [F]seems no one can [G]help me now
+I'm [C ]in too deep, there's [Am]no way out
 [F]This time I have [Em]really led [G]myself astray
 
 [C] Runaway train never going back
@@ -35,9 +35,9 @@ I'm [C ]in too deep, there's [Am]no way out
 [Em/B] I know what no one else knows
 [Am] Here I am just drowning in the rain
 [G] With a ticket for a runaway train
-              
-And [F]everything seems [G]cut and dry          
-[C] Day and night, [Am]earth and sky             
+
+And [F]everything seems [G]cut and dry
+[C] Day and night, [Am]earth and sky
 [F] Somehow I [Em]just don't [G]believe it
 
 [C] Runaway train never going back
@@ -45,9 +45,9 @@ And [F]everything seems [G]cut and dry
 [Am] Seems like I should be getting somewhere
 [G] Somehow I'm neither here nor there
 
-| [C]/  / | [C]/  / | [Em]/ / | [Em]/ / | [Am]/ / | [Am]/ / | [G]/  / | [G]/ /  |
-| [F]/ /  | [G]/ /  | [C]/ /  | [Am]/ / |
-| [F]/ /  | [Em]/ /| [G] / / | [G] / / |
+| [C]/ / / / | [Em]/ / / / | [Am]/ / / / | [G]/ / / /  |
+| [F]/ / [G]/ / | [C]/ / [Am]/ / |
+| [F]/ / [Em]/ / | [G] / / / / |
 
 [C] Bought a ticket for a runaway train
 [Em/B] Like a madman laughing at the rain
@@ -64,5 +64,5 @@ And [F]everything seems [G]cut and dry
 [Am] Runaway train burning in my veins
 [G] I'd runaway but it always seems the same
 
-| [C]/  / | [C]/  / | [Em]/ / | [Em]/ / | [Am]/ / | [Am]/ / | [G]/  / | [G]/ /  |
+| [C]/ / / / | [Em]/ / / / | [Am]/ / / / | [G]/ / / / |
 (repeat and fade out)
