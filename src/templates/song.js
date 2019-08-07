@@ -14,13 +14,6 @@ const Song = ({ data }) => {
   let song = new ChordSheetJS.ChordProParser().parse(formattedSong)
   let youtube = ''
 
-  // check for ChordPro or ChordSheet style (default) formatting. frontmatter has a BOOL flag for ChordPro
-  // if (post.frontmatter.chordpro) {
-  //   song = new ChordSheetJS.ChordProParser().parse(formattedSong)
-  // } else {
-  //   song = new ChordSheetJS.ChordSheetParser().parse(formattedSong)
-  // }
-
   // check for YouTube vid
   if (post.frontmatter.youtube) {
     // add embed URL
