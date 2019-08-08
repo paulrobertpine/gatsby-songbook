@@ -20,8 +20,12 @@ Will slowly fade [C]away[Am][G]
 [E7/G#]Take that look from off your face
 [Am]You ain't ever [G]gonna burn my [| F / / / /|]heart out [| G / / / | / / / / |]
 
-And [C]so [G]Sally can [Am]wait, she [E]knows it's too [F]late as we're [G]walking on [C]by[Am][G]
-Her [C]soul [G]slides a-[Am]way,[E] but don't look [F]back in anger [G]I heard you say[C][G]
+And [C]so [G]Sally can [Am]wait,
+she [E]knows it's too [F]late as we're
+[G]walking on [C]by[Am][G]
+Her [C]soul [G]slides a-[Am]way,
+[E] but don't look [F]back in anger
+[G]I heard you say[C][G]
 
 [| Am/ / | E/ / | F/ / | G/ / | C/ / | Am/ G/|]
 
@@ -38,17 +42,28 @@ I'm gonna [F]start a revo-[Fm]lution from my [C]bed
 [E7/G#]Take that look from off your face
 [Am]You ain't ever [G]gonna burn my [| F / / / /|]heart out [| G / / / | / / / / |]
 
-And [C]so [G]Sally can [Am]wait, she [E]knows it's too [F]late as she's [G]walking on [C]by[Am][G]
-My [C]soul [G]slides a-[Am]way,[E] but don't look [F]back in anger [G]I heard you [C]say[Am][G]
+And [C]so [G]Sally can [Am]wait,
+she [E]knows it's too [F]late as we're
+[G]walking on [C]by[Am][G]
+Her [C]soul [G]slides a-[Am]way,
+[E] but don't look [F]back in anger
+[G]I heard you say[C][G]
 
 | [F]/ / / / | [Fm]/ / / / | [C]/ / / / | / / / / | (x3)
 | [G]/ / / / | [E7/G#]/ / / / | [Am]/ / [G]/ / | [F]/ / / / | [G]/ / / / | / / / / |
 
-[C]So [G]Sally can [Am]wait, she [E]knows it's too [F]late as we're [G]walking on [C]by[Am][G]
-Her [C]soul [G]slides a-[Am]way,[E] but don't look [F]back in anger [G]I heard you [C]say[Am][G]
+And [C]so [G]Sally can [Am]wait,
+she [E]knows it's too [F]late as we're
+[G]walking on [C]by[Am][G]
+Her [C]soul [G]slides a-[Am]way,
+[E] but don't look [F]back in anger
+[G]I heard you say[C][G]
 
-[C]So [G]Sally can [Am]wait, she [E]knows it's too [F]late as we're [G]walking on [C]by[Am][G]
-My [C]soul [G]slides a-[Am]way,[E] but don't look [F]back in anger
+[C]So [G]Sally can [Am]wait,
+she [E]knows it's too [F]late as we're
+[G]walking on [C]by[Am][G]
+My [C]soul [G]slides a-[Am]way,
+[E] but don't look [F]back in anger
 Don't look [Fm]back in anger [| Fm / / / / |]
 I heard you [C]say[G]
 

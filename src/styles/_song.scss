@@ -10,7 +10,7 @@
       margin-bottom: 2rem;
 
       .row {
-        padding-top: 0.5rem;
+        // padding-top: 0.5rem;
         display: flex;
         flex-wrap: wrap;
 
@@ -24,6 +24,7 @@
             font-weight: bold;
             min-width: 40px;
             min-height: 20px;
+            padding-top: 0.5rem;
 
             &:empty {
               min-width: 0;
