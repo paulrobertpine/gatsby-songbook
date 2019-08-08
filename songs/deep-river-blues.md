@@ -2,10 +2,12 @@
 title: Deep River Blues
 artist: Traditional
 key: E
-
+youtube: 6VAbrnjdtYw
 ---
-[|E...|A7...|E...|A7...|E...|...|B7...|....|]
-[|E...|A7...|E...|A7...|E...|B7...|E...|....|]
+| [E]/ / / / | [A7]/ / / / | [E]/ / / / | [A7]/ / / / |
+| [E]/ / / / | / / / / | [B]/ / / / | / / / / |
+| [E]/ / / / | [A7]/ / / / | [E]/ / / / | [A7]/ / / / |
+| [E]/ / / / | [B]/ / / / | [E]/ / / / | / / / / |
 
 (Intead of A7, you can also play E diminished)
 
@@ -17,7 +19,7 @@ key: E
 'Cause [E]I got them [B7]deep river [E]blues.
 
 My old gal's a good old pal,
-And she looks like a water fowl,
+She walks like a water fowl,
 When I get them deep river blues.
 Ain't no one to cry for me,
 And the fish all go out on a spree
@@ -30,7 +32,7 @@ I'm goin' back to Muscle Shoals,
 Times are better there I'm told,
 Cause I got them deep river blues.
 
-If my boatmsinks with me.
+If my boat sinks with me.
 I'll go down, don't you see,
 'Cause I got them deep river blues,
 Now I'm gonna say goodbye,

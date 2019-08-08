@@ -2,14 +2,17 @@
 title: Dance Me To The End Of Love
 artist: Leonard Cohen
 key: Em
-
+youtube: NGorjBVag0I
 ---
+La la la ...
+| [Am]/ / / / | [Em]/ / / / | [B]/ / / / | [Em]/ / / / | (x2)
+
 [Am]Dance me to your beauty
 With a [Em]burning violin
 [Am]Dance me through the panic
 Till I'm [Em]gathered safely in
 [Am]Lift me like an olive branch
-and[G]be my homeward dove
+and [Em]be my homeward dove
 [B7]Dance me to the end of [Em]love
 [B7]Dance me to the end of [Em]love
 
@@ -21,6 +24,8 @@ Show me slowly what I only
 Know the limits of
 Dance me to the end of love
 Dance me to the end of love
+
+| [G] / / / / | [Em] / / / / | (x2)
 
 Dance me to the wedding now
 Dance me on and on
@@ -39,6 +44,11 @@ Raise a tent of shelter now
 Though every thread is torn
 Dance me to the end of love
 Dance me to the end of love
+
+| [G]/ / / / | [Em]/ / / / | (x2)
+
+La la la...
+| [Am]/ / / / | [Em]/ / / / | [B]/ / / / | [Em]/ / / / | (x2)
 
 Dance me to your beauty
 With a burning violin

@@ -17,9 +17,11 @@ class HowTo extends React.Component {
           <h3>About ChordPro</h3>
           <p>The ChordPro system works by adding a chord in sqaure brackets [] directly before the syllable where the chord is played.</p>
           <h2>Conventions</h2>
-          <p>There are some!</p>
           <h3>Inserting chords</h3>
           <h3>Showing rhythm</h3>
+          <p>It can be helpful to show rhythm using barlines and beats like:</p>
+          <p>| / / / / | / / / / | / / / / | / / / / |</p>
+          <p>is 4 bars in 4/4 time</p>
           <h2>GitHub workflow</h2>
         </div>
       </Layout>
