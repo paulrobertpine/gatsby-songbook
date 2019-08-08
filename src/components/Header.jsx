@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import SVG from 'react-inlinesvg'
 import logo from '../images/musician.svg'
-// import { FiPlayCircle, FiPauseCircle } from 'react-icons/fi'
+import { FiPlayCircle, FiPauseCircle } from 'react-icons/fi'
 
 class Header extends React.Component {
   constructor() {
@@ -35,13 +35,13 @@ class Header extends React.Component {
 
           <ul className="util-nav">
             <li>
-              {/* <button onClick={this.pauseScrolling.bind(this)}>
+              <button onClick={this.pauseScrolling.bind(this)}>
                 <FiPauseCircle />
               </button>
 
               <button onClick={this.startScrolling.bind(this)}>
                 <FiPlayCircle />
-              </button> */}
+              </button>
             </li>
           </ul>
         </div>
