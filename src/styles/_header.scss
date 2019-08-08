@@ -45,6 +45,14 @@
         border: 0;
         padding-top: 10px;
 
+        &:focus {
+          outline: 0;
+
+          svg {
+            stroke: lighten($colour-primary, 5%);
+          }
+        }
+
         &:hover {
           color: darken($colour-primary, 2%);
         }
