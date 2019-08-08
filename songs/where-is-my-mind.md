@@ -2,73 +2,65 @@
 title: Where is my mind?
 artist: Pixies
 key: E
-
+youtube: 5iC0YXspJRM
 ---
-           E                        C#m               G#  A
- With your feet in the air and your head on the ground
-E    C#m            G#       A
- Try this trick and spin it, yeah
-E                  C#m
- Your head will collapse
-            G#
-But there's nothing in it
-           A
-And you'll ask yourself
+Ooh, stop
 
-E            C#m
- Where is my mind?
-G#           A
- Where is my mind?
-     E       C#m   G#  A    E  C#m  G#  A
- Where is my mind?
- E   G#         A             Am        C#m   B
- Way out in the water, see it swimming.
+| [E]/ / [C#m]/ / | [G#]/ / [A]/ / | (x4)
 
+With your [E]feet on the air and your
+[C#m]head on the ground [G#] [A]
+[E]Try this [C#m]trick and [G#]spin it, yeah[A]
+[E]Your head will col-[C#m]lapse
+But there's [G#]nothing in it
+And you'll [A]ask yourself
 
-E                        C#m    G#  A
-I was swimmin' in the Carribean
-E             C#m                  G#  A
-   Animals were hiding behind the rock
-E                    C#m
-   Except the little fish
-          G#
-But they told me, he swears
-           A
-Tryin' to talk to me, to me, to me
+[E]Where is my [C#m]mind?
+[G#]Where is my [A]mind?
+[E]Where is [C#m]my mind? [G#] [A]
+| [E]/ / [C#m]/ / | [G#]/ / [A]/ / |
+[E]Way [C#m]out in the [A]water
+See it [Am]swimmin'
+| [C#m]/ / / / | [B]/ / / / |
 
+[E]I was swimmin' [C#m]in the Caribbean [G#][A]
+[E]Animals were [C#m]hiding behind the [G#]rock[A]
+[E]Except the little [C#m]fish
+But they [G#]told me, he swears
+Tryin' to [A]talk to me koi koy
 
-E            C#m
- Where is my mind?
-G#           A
- Where is my mind?
-     E       C#m   G#  A    E  C#m  G#  A
- Where is my mind?
- E   G#         A             Am        C#m   B
- Way out in the water, see it swimming.
+[E]Where is my [C#m]mind?
+[G#]Where is my [A]mind?
+[E]Where is [C#m]my mind? [G#] [A]
+| [E]/ / [C#m]/ / | [G#]/ / [A]/ / |
+[E]Way [C#m]out in the [A]water
+See it [Am]swimmin'
+| [C#m]/ / / / | [B]/ / / / |
 
-           E                        C#m               G#  A
- With your feet in the air and your head on the ground
-E    C#m            G#       A
- Try this trick and spin it, yeah
-E                  C#m
- Your head will collapse
-            G#
-But there's nothing in it
-           A
-And you'll ask yourself
+| [B]/ / / / | (x3)
 
+With your [E]feet on the air and your
+[C#m]head on the ground [G#] [A]
+[E]Try this [C#m]trick and [G#]spin it, yeah[A]
+[E]Your head will col-[C#m]lapse
+But there's [G#]nothing in it
+And you'll [A]ask yourself
 
-E            C#m
- Where is my mind?
-G#           A
- Where is my mind?
-     E       C#m   G#  A    E  C#m  G#  A
- Where is my mind?
- E   G#         A             Am        C#m   B
- Way out in the water, see it swimming.
+[E]Where is my [C#m]mind?
+[G#]Where is my [A]mind?
+[E]Where is [C#m]my mind? [G#] [A]
+| [E]/ / [C#m]/ / | [G#]/ / [A]/ / |
+[E]Way [C#m]out in the [A]water
+See it [Am]swimmin'
+| [C#m]/ / / / | [B]/ / / / |
 
-
-E  C#m  G#  A
-E  C#m  G#  A
-
-
+| [E]/ / [C#m]/ / | [G#]/ / [A]/ / | (fade out to oohs)
+Ooh
+With your feet on the air and your head on the ground
+Ooh
+Try this trick and spin it, yeah
+Ooh
+Ooh
+Ooh
+Ooh
+Ooh
