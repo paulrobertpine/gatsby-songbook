@@ -4,25 +4,32 @@ import SVG from 'react-inlinesvg'
 import logo from '../images/musician.svg'
 import { FiPlayCircle, FiPauseCircle } from 'react-icons/fi'
 
+let scrolldelay = -1
+
 class Header extends React.Component {
   constructor() {
     super()
-    // this.pageScroll = this.pageScroll.bind(this)
-    this.startScrolling = this.startScrolling.bind(this)
-    this.pauseScrolling = this.pauseScrolling.bind(this)
+     this.pageScroll = this.pageScroll.bind(this)
+     this.startScrolling = this.startScrolling.bind(this)
+     this.pauseScrolling = this.pauseScrolling.bind(this)
   }
 
-  // pageScroll() {
-  //   window.scrollBy(0, 1) // horizontal and vertical scroll increments
-  //   scrolldelay = setTimeout('pageScroll()', 30) // scrolls every 100 milliseconds
-  // }
+  pageScroll() {
+     window.scrollBy(0, 1) // horizontal and vertical scroll increments
+     scrolldelay = setTimeout(this.pageScroll, 30) // scrolls every 100 milliseconds
+   }
 
   startScrolling(e) {
-    console.log('start scrolling')
+     if (scrolldelay != -1) return // prevents multiple scroll requests
+    
+     console.log('start scrolling')
+     this.pageScroll()
   }
 
   pauseScrolling(e) {
-    console.log('pause scrolling')
+     console.log('pause scrolling')
+     window.clearTimeout(scrolldelay)
+     scrolldelay = -1
   }
 
   render() {

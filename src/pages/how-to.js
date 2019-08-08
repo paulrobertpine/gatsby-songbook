@@ -17,10 +17,10 @@ class HowTo extends React.Component {
             This website uses a system called{' '}
             <a href="https://www.chordpro.org/chordpro/ChordPro-Chords.html">
               ChordPro
-            </a>
+            </a>{' '}
             for adding chords to lyrics; it's a standard way to ensure that
             chords will show up in the right place and are able to be
-            transposed, et.
+            transposed, etc.
           </p>
           <p>
             The ChordPro system works by adding a chord in sqaure brackets []
@@ -36,7 +36,7 @@ class HowTo extends React.Component {
             <a href="https://martijnversluis.github.io/ChordFiddle">
               ChordFiddle
             </a>{' '}
-            that will let you cut-and-paste in a standard lead sheet in and
+            that will let you cut-and-paste in a standard lead sheet and
             convert to ChordPro format. It also lets you transpose the songs.
           </p>
 
@@ -49,7 +49,7 @@ class HowTo extends React.Component {
           <code>| [C]/ / / / | [G]/ / / / | [F]/ / / / | [Am/ / / / |</code>
           <p>useful for jammy bits without lyrics.</p>
           <p>
-            You can also but the forward slashes right in the chord symbols when
+            You can also put the forward slashes right in the chord symbols when
             you need to show rhythms over lyrics, like:
           </p>
           <code>
