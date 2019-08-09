@@ -16,7 +16,7 @@ class Header extends React.Component {
 
   pageScroll() {
     window.scrollBy(0, 1) // horizontal and vertical scroll increments
-    scrolldelay = setTimeout(this.pageScroll, 30) // scrolls every 100 milliseconds
+    scrolldelay = setTimeout(this.pageScroll, 80)
   }
 
   startScrolling(e) {
