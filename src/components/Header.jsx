@@ -12,6 +12,8 @@ class Header extends React.Component {
     this.pageScroll = this.pageScroll.bind(this)
     this.startScrolling = this.startScrolling.bind(this)
     this.pauseScrolling = this.pauseScrolling.bind(this)
+    this.setScroll = this.setScroll.bind(this)
+    this.state = { scrolling: true }
   }
 
   pageScroll() {
@@ -20,13 +22,19 @@ class Header extends React.Component {
   }
 
   startScrolling(e) {
-    if (scrolldelay !== -1) return // prevents multiple scroll requests
     this.pageScroll()
   }
 
   pauseScrolling(e) {
     window.clearTimeout(scrolldelay)
     scrolldelay = -1
+  }
+  
+  setScroll(e) {
+    this.setState({ scrolling: !this.state.scrolling }) 
+    
+    if (this.state.scrolling) {  this.startScrolling(e) }
+    else { this.pauseScrolling(e) }
   }
 
   render() {
@@ -36,15 +44,10 @@ class Header extends React.Component {
           <Link to="/" className="site-title">
             <SVG src={logo} width="30" />
           </Link>
-
           <ul className="util-nav">
             <li>
-              <button onClick={this.pauseScrolling.bind(this)}>
-                <FiPauseCircle />
-              </button>
-
-              <button onClick={this.startScrolling.bind(this)}>
-                <FiPlayCircle />
+              <button onClick={this.setScroll.bind(this)}>
+                { this.state.scrolling ? <FiPlayCircle /> : <FiPauseCircle /> }
               </button>
             </li>
           </ul>
