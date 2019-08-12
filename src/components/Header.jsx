@@ -38,10 +38,11 @@ class Header extends React.Component {
   }
 
   render() {
+    
     return (
       <header id="site-header">
         <div className="container">
-          <Link to="/" className="site-title">
+          <Link to="/" className="site-title" onClick={this.pauseScrolling.bind(this)}>
             <SVG src={logo} width="30" />
           </Link>
           <ul className="util-nav">
