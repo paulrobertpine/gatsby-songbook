@@ -28,21 +28,21 @@ Though the [Em]offer was [Am]there. [Am/G]
 To show that I cared [C]
 
 [C]And when it [Em]looked like you [Am]heard the call [Am/G]
-[F]I didn't say a lot
-[C]Although I could have said
-[G]Much more had I [Em]dared [Am] [Am/G]
+[F]I didn't say a [C]lot
+Although I [G]could have said
+Much [Em]more had I [Am]dared [Am/G]
 
 CHORUS:
- [F]For yours [G]was the [C]open road.
-The [F]bitter song, the [G]heavy load
+ [F]For [G]yours was the [C]open road.
+[F]The bitter song, the [G]heavy load
 That I couldn't [C]share
-Though the [Em]offer was [Am]there. [Am/G] [F]
+Though the [Em]offer was [Am]there. [Am/G]
  [F]Every [G]time you [C]turned around
  
 [C] And [Em]if I had [Am]followed [Am/G] 
 A [F]little ways
 [C]Because were friends
-[G]You would have made me
+You [G]would have made me
 Welcome out [C]there
 
 [C]But we [Em]both know it's [Am]just as well [Am/G]
@@ -52,16 +52,16 @@ To [G]stay behind
 And it's [Em] always that [Am]way [Am/G]
 
 CHORUS 2:
- [F]For yours [G]was the [C]open road.
-The [F]bitter song, the [G]heavy load
+ [F]For [G]yours was the [C]open road.
+[F]The bitter song, the [G]heavy load
 That I couldn't [C]share
-Though the [Em]offer's still [Am]there. [Am/G] [F]
+Though the [Em]offer's still [Am]there. [Am/G]
  [F]Every [G]time you [C]turned around
  
- [F]For yours [G]was the [C]open road.
-The [F]bitter song, the [G]heavy load
+ [F]For [G]yours was the [C]open road.
+[F]The bitter song, the [G]heavy load
 That I couldn't [C]share
-Though the [Em]offer's still [Am]there. [Am/G] [F]
+Though the [Em]offer's still [Am]there. [Am/G]
  [F]Every [G]time you [C]turned around
 
  [F]Every [G]time you [C]turned around
