@@ -59,4 +59,4 @@ as I wait in the fields for you?
     C          D            Em      C
 Who knows what grows in the morning light
             G        D      G       C  G
-when we can feel the watery dew?
+when we can feel the watery dew? 
