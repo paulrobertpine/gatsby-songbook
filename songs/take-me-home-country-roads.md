@@ -1,107 +1,35 @@
 ---
-title: 'Take Me Home, Country Roads'
+title: Take Me Home, Country Roads
 artist: John Denver
 key: G
+youtube: 1vrEljMfXYo
+---                                        
 
----
-
-
-Capo 2
-
-Verse 1
-
-G               Em             D                     C          G
-
-Almost Heaven, West Virginia, Blue Ridge Mountains, Shenandoah River.
-
-G                 Em                    D                           C
-
-Life is old there, older than the trees, younger than the mountains, blowin
-
-\    G
-
-like a breeze.
+[G]Almost Heaven, [Em]West Virginia, [D]Blue Ridge Mountains, [C]Shenandoah [G]River.
+[G]Life is old there,[Em] older than the trees,[D] younger than the mountains, [C]blowin like [G]a breeze.
 
 Chorus
-
-\    G              D7         Em        C
-
-Country Roads, take me home, to the place I belong
-
-\    G             D               C              G
-
-West Virginia, mountain mama, take me home, country roads.
+[G]Country Roads, take [D7]me home, to the [Em]place I [C]belong
+[G]West Virginia, [D]mountain mama, take me [C]home, country [G]roads.
 
 Verse 2
-
-G                Em                D              C
-
- All my memories gather round her, miner's lady, stranger to blue
-
-G
-
-water.
-
-G                Em                  D                         C
-
-Dark and dusty, painted on the sky, misty taste of moonshine, teardrop in my
-
- G
-
-eye.
+[G] All my memories [Em]gather round her, [D]miner's lady, [C]stranger to blue [G]water.
+[G]Dark and dusty, [Em]painted on the sky,[D] misty taste of moonshine, [C]teardrop in my [G]eye.
 
 Chorus
+[G]Country Roads, take [D7]me home, to the [Em]place I [C]belong
+[G]West Virginia, [D]mountain mama, take me [C]home, country [G]roads.
 
-\    G              D7         Em        C
+Bridge                 
+[Em]I hear her [D7/F]voice in the [G]morning hours she calls me
+[C]the radio [G]reminds me of my [D]home far away.
+And [Em]driving down the [F]road I get a [C]feeling that I [G]should have been home
+[D]yesterday, [D7]yesterday.
 
-Country Roads, take me home, to the place I belong
-
-\    G             D               C              G
-
-West Virginia, mountain mama, take me home, country roads.
-
-Bridge
-
-Em          D7/F I hear her voice in the morning hours she calls me
-
-\    C       G              D
-
-the radio reminds me of my home far away.
-
-\    Em              F             C             G
-
-And driving down the road I get a feeling that I should have been home
-
-\    D          D7
-
-yesterday, yesterday.
-
-Chorus
-
-\    G              D7         Em        C
-
-Country Roads, take me home, to the place I belong
-
-\    G             D               C              G
-
-West Virginia, mountain mama, take me home, country roads.
-
-Chorus
-
-\    G              D7         Em        C
-
-Country Roads, take me home, to the place I belong
-
-\    G             D               C              G
-
-West Virginia, mountain mama, take me home, country roads.
+Chorus x2
+[G]Country Roads, take [D7]me home, to the [Em]place I [C]belong
+[G]West Virginia, [D]mountain mama, take me [C]home, country [G]roads.
 
 Outro
-
-\    D             G
-
-Take me home, country roads.
-
-\    D             G
-
-Take me home, country roads.
+Take me [D]home, country [G]roads.
+Take me [D]home, country [G]roads.
