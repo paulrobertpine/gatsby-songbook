@@ -18,7 +18,7 @@ Lady be [A]good, do what you[G] should
 You know it'll [D]be all [D]right
 
 I'm goin' [D]up, and I'm goin'[D] down
-I'm gonna [C]ly from [G]side to [D]side
+I'm gonna [C]fly from [G]side to [D]side
 See the [D]bells up in the[D] sky
 Somebody [C]cut the[G] string in[D] two
 
