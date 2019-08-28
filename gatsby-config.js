@@ -5,11 +5,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Jams!',
-        short_name: 'Jams',
+        name: 'Songbook',
+        short_name: 'songbook',
         start_url: '/',
         background_color: '#1c5a7e',
-        theme_color: '#c7c41d',
+        theme_color: '#c5cc00',
         display: 'minimal-ui',
         icon: 'src/images/musician.svg',
       },
