@@ -1,88 +1,45 @@
 ---
-title: Wonderin’ Where I’m Bound
+title: I Can't Help but Wonder Where I'm Bound
 artist: Tom Paxton
+key: C
+youtube: r2ANwbmLHgM
 ---
-[Intro]
-Dm G C Am
-Dm G C
+| [Dm]/ / [G]/ / | [C]/ / [Am]/ / | [Dm]/ / [G]/ / | [C]/ / / / |
 
-       C    
-It's a long and dusty road
-       F       Em    Dm
-It's a hot and heavy load
-        G7                        C
-And the folks I meet ain't always kind
-         C
-Some are bad and some are good
-          F        Em        Dm
-Some have done the best they could
-G7                                    C
-Some have tried to ease my trouble in mind
 
-      Dm             G                C                Am
-And I can't help but wonder where I'm bound, where I'm bound
-Dm             G                C
-Can't help but wonder where I'm bound 
+It's a [C]long and dusty road, it's a [F]hot and a [Em]heavy [Dm]load
+And the [G7]folks I meet ain't always [C]kind
+Some are [C]bad and some are good
+Some have [F]done the [Em]best they [Dm]could
+Some have [G7]tried to ease my troubled [C]mind
 
-          C
-I've been wandering through this land
-     F         Em     Dm
-Just doin' the best I can
-G7                                 C
-Trying to find what I was meant to do
-        
-And the people that I see
-        F       Em     Dm
-Look as worried as can be
-       G7                            C
-And it looks like they are wanderin' too
+And I [Dm]can't help but [G]wonder
+Where I'm [C]bound, where I'm [Am]bound
+[Dm]Can't help but [G]wonder where I'm [C]bound
 
-      Dm             G                C                Am
-And I can't help but wonder where I'm bound, where I'm bound
-Dm             G                C
-Can't help but wonder where I'm bound 
+I've been [C]wanderin' through this land just [F]doin' the [Em]best I [Dm]can
+[G]Tryin' to find what I was meant to [C]do
+And the [C]people that I see look as [F]worried [Em]as can [Dm]be
+And it [G]looks like they are wonderin' [C]too
 
-[Instrumental]
+And I [Dm]can't help but [G]wonder
+Where I'm [C]bound, where I'm [Am]bound
+[Dm]Can't help but [G]wonder where I'm [C]bound
 
-      C    
-But I had a little girl one time
-        F         Em     Dm
-She had lips like cherry wine
-        G7                                 C
-And she loved me, till my head went plum insane
-          
-But I was, too blind to see
-        F         Em       Dm
-She was driftin' away from me
-       G7                               C
-And my good girl went off on a midnight train
+Well, I [C]had a little girl one time, she had [F]lips like [Em]sherry [Dm]wine
+And she [G]loved me till my head went plumb in-[C]sane
+But [C]I was too blind to see she was [F]driftin' a-[Em]way from [Dm]me
+And my [G]good gal went off on the morning [C]train
 
-      Dm             G                C                Am
-And I can't help but wonder where I'm bound, where I'm bound
-Dm             G                C
-Can't help but wonder where I'm bound 
+And I [Dm]can't help but [G]wonder
+Where I'm [C]bound, where I'm [Am]bound
+[Dm]Can't help but [G]wonder where I'm [C]bound
 
-[Instrumental]
+If you [C]see me passing by and you [F]sit and you [Em]wonder [Dm]why
+And you [G]wish that you were rambling [C]too
+Nail your [C]shoes to the kitchen floor, lace 'em [F]up and [Em]bar the [Dm]door
+Thank your [G]stars for the roof that's over [C]you
 
-       C    
-If you see me passin' by
-        F           Em     Dm
-And you sit and you wonder why
-        G7                          C
-And you wish that you were rambling too
-          
-nail your shoes to the kitchen floor
-        F      Em      Dm
-Lace'em up and bar the door
-G7                                        C
-Thank your stars for the roof that's over you
-
-      Dm             G                C                Am
-And I can't help but wonder where I'm bound, where I'm bound
-Dm             G                C
-Can't help but wonder where I'm bound 
-
-  Dm             G                C                Am
-I can't help but wonder where I'm bound, where I'm bound
-Dm             G                C
-Can't help but wonder where I'm bound
+And I [Dm]can't help but [G]wonder
+Where I'm [C]bound, where I'm [Am]bound
+[Dm]Can't help but [G]wonder where I'm [C]bound
