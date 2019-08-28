@@ -4,86 +4,47 @@ artist: Ella Fitzgerald
 key: C
 
 ---
-C         C7
-No one to walk with
-Dm       G7
-All by myself
-C         C7
-No one to talk with
-        F            Fm
-But I'm happy on the shelf
-C          C7
-Ain't misbehavin'
-Dm            G    G7  C  Dm G G7
-I'm savin' my love for you
+[C]No one to [C7]walk with
+[Dm]All by my[G7]self
+[C]No one to [C7]talk with
+But I'm [F]happy on the [Fm]shelf
+[C]Ain't misbe[C7]havin'
+[Dm]I'm savin' my [G]love [G7]for [C]you[Dm][G][G7]
 
-C          C7
-I know for certain
-Dm        G7
-The one I love
-C                C7
-I'm through with flirtin'
-          F                Fm
-It's just you I'm thinkin' of
-C          C7
-Ain't misbehavin'
-Dm            G    G7  C  Dm G G7
-I'm savin' my love for you
+[C]I know for [C7]certain
+[Dm]The one I [G7]love
+[C]I'm through with [C7]flirtin'
+It's just [F]you I'm thinkin' [Fm]of
+[C]Ain't misbe[C7]havin'
+[Dm]I'm savin' my [G]love [G7]for [C]you[Dm][G][G7]
 
-Am
-Like Jack Horner
-F7
-Off in the corner
-D7
-Don't go nowhere
-A7
-What do I care?
-D7              Am    D7      G7
-Your kisses are worth waitin' for
-A7 D7   G7
-Believe me
+[Am]Like Jack Horner
+[F7]Off in the corner
+[D7]Don't go nowhere
+[A7]What do I care?
+[D7]Your kisses are [Am]worth [D7]waitin' [G7]for
+[A7]Bel[D7]ieve [G7]me
 
-C            C7
-I don't stay out late
-Dm            G7
-Don't care to go
-C         C7
-I'm home about eight
-     F             Fm
-Just me and my radio
-C          C7
-Ain't misbehavin'
-Dm            G    G7  C  Dm G G7
-I'm savin' my love for you
+[C]I don't stay [C7]out late
+[Dm]Don't care to [G7]go
+[C]I'm home a[C7]bout eight
+Just [F]me and my radi[Fm]o
+[C]Ain't misbe[C7]havin'
+[Dm]I'm savin' my [G]love [G7]for [C]you[Dm][G][G7]
 
-Am
-Like Jack Horner
-F7
-Off in the corner
-D7
-Don't go nowhere
-A7
-What do I care?
-D7              Am    D7      G7
-Your kisses are worth waitin' for
-A7 D7   G7
-Believe me
+[Am]Like Jack Horner
+[F7]Off in the corner
+[D7]Don't go nowhere
+[A7]What do I care?
+[D7]Your kisses are [Am]worth [D7]waitin' [G7]for
+[A7]Bel[D7]ieve [G7]me
 
-C            C7
-I don't stay out late
-Dm            G7
-Don't care to go
-C         C7
-I'm home about eight
-     F             Fm
-Just me and my radio
-C          C7
-Ain't misbehavin'
-Dm            G    G7  C  Dm G G7
-I'm savin' my love for you
+[C]I don't stay [C7]out late
+[Dm]Don't care to [G7]go
+[C]I'm home a[C7]bout eight
+Just [F]me and my radi[Fm]o
+[C]Ain't misbe[C7]havin'
+[Dm]I'm savin' my [G]love [G7]for [C]you[Dm][G][G7]
 
-C          C7
-Ain't misbehavin'
-Dm            G    G7  C
-I'm savin' my love for you
-
+[C]Ain't misbe[C7]havin'
+[Dm]I'm savin' my [G]love [G7]for [C]you
