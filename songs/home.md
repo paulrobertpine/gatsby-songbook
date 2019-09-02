@@ -34,13 +34,14 @@ Ahh [Bm]Home. Let me go ho[D]-oh-ome.
 
 [Trumpet Section] 
 (listen for the timing)
-[Em]Em [D]D [A]A
-[Em]Bm [D]  [G]A       Em       G
-La, la, la, la, take me home.
+[Em] [D] [A]
+[Em] [D] [A]
+[Em] [D]  [G]
+[Bm]La, la, [A]la, la, [Em]take me [G]home.
 [A]Mother, I'm coming home.
 
 (with whistling)
-Bm D D/F# D G (x2)
+[Bm][D][D/F#][D][G] (x2)
 
 [Him:]
 [Bm]I'll follow you into the park,
@@ -69,13 +70,14 @@ Ahh [Bm]Home. Let me come [D]home
 [D/F#]Home is wher[D]ever I'm with [G]you.
 Ahh [Bm]Home. Let me com[D]e ho-oh-ome.
 [D/F#]Home is wher[D]ever I'm with [G]you.
-[Em]Em [D]D [A]A
-[Em]Bm [D]  [G]A       Em       G
-La, la, la, la, take me home.
-[A]Daddy, I'm coming home.
+[Em] [D] [A]
+[Em] [D] [A]
+[Em] [D]  [G]
+[Bm]La, la, [A]la, la, [Em]take me [G]home.
+[A]Mother, I'm coming home.
 
 (Talking)
-Bm D D/F# D G (x4)
+[Bm][D][D/F#][D][G] (x4)
 
 Him: Jade
 Her: Alexander
@@ -97,7 +99,7 @@ Ahh [Bm]Home. Let me com[D]e ho-oh-ome.
 
 [Him:]
 [Bm]Home. Let me come [D]home.
-NC.                       G
+NC.                       [G]
 Home is wherever I'm with you.
 
 [Her:]
