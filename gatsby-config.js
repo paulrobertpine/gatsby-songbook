@@ -6,11 +6,11 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: 'Songbook',
-        short_name: 'songbook',
+        short_name: 'Songbook',
         start_url: '/',
         background_color: '#1c5a7e',
         theme_color: '#c5cc00',
-        display: 'minimal-ui',
+        display: 'standalone',
         icon: 'src/images/musician.svg',
       },
     },
