@@ -1,77 +1,36 @@
 ---
 title: Nantes
 artist: Beirut
+key: C
+youtube: jc3ZAs17uAg
 ---
+| [Am]/ / / / | [G]/ / / / | [C]/ / / / | / / / / |
 
-
-[Intro]  
-Am G C
-Am G C
-
-
-[Verse]
-                  Am         G         C
-Well, it's been a long time, long time now
-           Am       G C
+Well it's been a long time, long time now
 Since I've seen you smile
-         Am      G      C
 And I'll gamble away my fright
-         Am      G      C
 And I'll gamble away my time
-         Am      G       C
 And in a year, a year or so
-          Am     G      C
 This will slip into the sea
-                Am         G         C
-But it's been a long time, long time now
-           Am       G C
+Well it's been a long time, long time now
 Since I've seen you smile
 
+Nobody raise your voices
+Just another night in Nantes
+Nobody raise your voices
+Just another night in Nantes
 
-[Instrumental]
-Am G C
-Am G C
-Am G C
-Am G C
+Oh non je t'en prie, nous ne sommes pas chez nous
+Oh je t'assure que ce n'est pas grave
+Non laisse moi
+Mais qu'est-ce que tu as aujourd'hui?
+J'ai que les hommes me dégoûtent, vous ne pensez qu'à ça
 
-
-[Chorus]
-Am        G          C
-   Nobody raise your voices, o-o-o-oh
-Am              G        C
-   Just another night in Nantes
-Am        G          C
-   Nobody raise your voices, o-o-o-oh
-Am              G        C
-   Just another night in Nantes
-
-
-[Instrumental]
-Am G C
-Am G C
-
-
-[Verse]
-                  Am         G         C
-Well, it's been a long time, long time now
-           Am       G C
+Well it's been a long time, long time now
 Since I've seen you smile
-         Am      G      C
 And I'll gamble away my fright
-         Am      G      C
 And I'll gamble away my time
-         Am      G       C
 And in a year, a year or so
-          Am     G      C
 This will slip into the sea
-                Am         G         C
-But it's been a long time, long time now
-           Am       G C
+Well it's been a long time, long time now
 Since I've seen you smile
-
-
-[Outro]
-Am G C
-Am G C
-Am G C
-
