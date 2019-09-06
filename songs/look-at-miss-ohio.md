@@ -1,44 +1,47 @@
 ---
 title: Look At Miss Ohio
 artist: Gillian Welch
+key: C
+youtube: B8aH4cRdplE
 ---
+| [F]/ / [C]/ / | [G]/ / [Am]/ [G]/ | [F]/ / [C]/ / | [G]/ / / / |
 
+[F]Oh me, oh [C]my-oh
+[G]Look at Miss [Am]Ohio[G]
+She's a-[F]running around with her [C]rag-top [G]down
+She says, I [F]want to do right but [C]not right [G]now
 
-[Verse]
-F        C      G              Am  G
-Oh me oh my oh, look at Miss O-hio
-        F                       C       G
-She's a-running around with her rag-top down
-           F                  C         G
-She says I wanna do right but not right now
+Gonna [F]drive to At-[C]lanta
+And [G]live out this [Am]fantasy[G]
+[F]Running around with the [C]rag-top [G]down
+Yeah, I [F]want to do right, but [C]not right [G]now
 
+| [Am]/ / / / | [Am6]/ / / / | [Am]/ / / / | [D]/ / / / |
 
-Gonna drive to Atlanta and live out this fantasy
-Running around with the rag-top down
-Yeah I wanna do right but not right now
+Had your [F]arm around her [C]shoulder
+A [G]regimental [Am]soldier[G]
+And [F]mama starts pushing that [C]wedding [G]gown
+Yeah, you [F]want to do right, but [C]not right [G]now
 
-[Instrumental break]
-Am D7 (x2)
+[F]Oh me, oh [C]my-oh
+Wudya [G]Look at Miss [Am]Ohio[G]
+She's a-[F]running around with her [C]rag-top [G]down
+She says, I [F]want to do right but [C]not right [G]now
 
-Had your arm around her shoulder, a regimental soldier
-An' mamma starts pushing that wedding gown
-Yeah you wanna do right but not right now
+| [Am]/ / / / | [Am6]/ / / / | [Am]/ / / / | [D]/ / / / |
 
-Oh me oh my oh, would ya look at Miss Ohio
-She's a-runnin' around with the rag-top down
-She says I wanna do right but not right now
+| [F]/ / [C]/ / | [G]/ / [Am]/ [G]/ | [F]/ / [C]/ / | [G]/ / / / |
 
-[Instrumental break]
-Am D7 (x2)
-F C G Am G
-F C G
+And I [F]know all [C]about it
+So [G]you don't have to [Am]shout it[G]
+[F]I'm gonna straighten it [C]out some-[G]how
+Yeah, I [F]want to do right, but [C]not right [G]now
 
-I know all about it, so you don't have to shout it
-I'm gonna straighten it out somehow
-Yeah I wanna do right but not right now
+[F]Oh me, oh [C]my-oh
+[G]Look at Miss [Am]Ohio[G]
+She's a-[F]running around with her [C]rag-top [G]down
+She says, I [F]want to do right but [C]not right [G]now
 
-Oh me oh my oh, look at Miss Ohio
-She a-runnin' around with her rag-top down
-She says I wanna do right but not right now
-Oh I wanna do right but not right now
+Oh, I [F]want to do right, but [C]not right [G]now
 
+| [F]/ / [C]/ / | [G]/ / / / |(jam out)
