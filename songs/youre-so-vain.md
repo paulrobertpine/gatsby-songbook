@@ -1,8 +1,8 @@
 ---
-title: Your Rocky Spine
-artist: Great Lake Swimmers
-key: Gm
-youtube: eQ6W_cq-zQ0
+title: You're So Vain
+artist: Carly Simon
+key: Am
+youtube: mQZmCJUSC6g
 ---
 [Am]
 
