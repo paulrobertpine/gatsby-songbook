@@ -4,8 +4,8 @@ artist: "Harold Arlen & Ted Koehler"
 ---
 
 |C Am7 |Dm7 G7 | or 
-|C A7  |Dm7 G7 | or
-|C C#o |Dm7 G7 |
+|C A7  |Dm7 G7 | 
+
 
 Don't know why
 There's no sun up in the sky
@@ -20,7 +20,7 @@ Just can't get my poor self together
 I'm weary all the time, the time
 So weary all the time
 
-F            G7 (or F#o)            C      Am7
+F            G7                     C      Am7
 When he went away, the blues walked in and met me
 F           G7                C          Am7
 If he stays away, old rocking chair will get me
