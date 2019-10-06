@@ -5,7 +5,7 @@ key: Em
 ---
 [Em][D][G|Em][A][G|Em][D][G|A][D][Em|Em][D][Em|Em][D][Em||]
                           
- [Em] ]Where do bad folks[D] go when they [G]die
+ [Em]Where do bad folks[D] go when they [G]die
 They d[Em]on't go to heaven where the [A]angels fly[G]
 [Em]Go to a lake of f[D]ire and f[G]ry
 S[A]ee them again 'till the f[D]ourth of J[Em]uly
@@ -17,7 +17,7 @@ Em    D Em|Em   D Em||
 She [Bm]went to her grave just a l[G]ittle too soon
 Fl[A]ew and lay down on the yellow m[Bm]oon
 
- [Em] ]Where do bad folks[D] go when they [G]die
+ [Em]Where do bad folks[D] go when they [G]die
 They d[Em]on't go to heaven where the [A]angels fly[G]
 [Em]Go to a lake of f[D]ire and f[G]ry
 S[A]ee them again 'till the f[D]ourth of J[Em]uly
