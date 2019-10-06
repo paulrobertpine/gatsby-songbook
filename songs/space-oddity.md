@@ -3,75 +3,48 @@ title: Space Oddity
 artist: David Bowie
 key: C
 
----
-Intro
+--- 
+[Fmaj7]  [Em]  [Fmaj7] [Em]
+[Fmaj7]  [Em]  [Fmaj7] [Em]
 
-Fmaj7  Em  Fmaj7  Em
-Fmaj7  Em  Fmaj7  Em
-Pre-Verse
-C                         Em
-  Ground control to Major Tom
-C                         Em
-  Ground control to Major Tom
-Am          Am/G              D/F  Take your protein pills and put your helmet on
-C                         Em
-  Ground control to Major Tom
-C                              Em
-  Commencing countdown engines on
-Am        Am/G           D/F  Check ignition and may God's love be with you
-Verse 1
-C                                E
-This is ground control to Major Tom
-                         F
-You've really made the grade
-        Fm              C                    F
-And the papers want to know whose shirt you wear
-         Fm                 C              F
-Now it's time to leave the capsule if you dare
-  C                              E
-This is Major Tom to ground control
-                          F
-I'm stepping through the door
-         Fm            C             F
-And I'm floating in a most peculiar way
-         Fm              C           F
-And the stars look very different today
-Chorus
-    Fmaj7     Em
-For here am I sitting in a tin can
-Fmaj7         Em
-Far above the world
-Bb              Am               G             F
-Planet Earth is blue and there's nothing I can do
-Instrumental
-C F G A A
-C F G A A
-Fmaj7 Em  A  C  D  E
-Verse 2
-C                                      E
-Though I'm past one hundred thousand miles
-                   F
-I'm feeling very still
-       Fm                 C                  F
-And I think my spaceship knows which way to go
-         Fm              C             F
-Tell my wife I love her very much she knows
-Bridge
-G                 E7              Am                      C/G
-Ground control to Major Tom, your circuit's dead, there's something wrong
-        D/FCan you hear me Major Tom?
-        C
-Can you hear me Major Tom?
-        G
-Can you hear me Major Tom? Can you...
-Chorus
-Fmaj7     Em
-Here am I floating 'round my tin can
-Fmaj7         Em
-Far above the Moon
-Bb              Am               G             F
-Planet Earth is blue and there's nothing I can do
-Outro
-C F G A A
-C F G A A
-Fmaj7 Em  A  C  D  E
+[C]  Ground control to Major [Em]Tom
+[C]  Ground control to Major [Em]Tom
+[Am]  Take your [Am/G]protein pills and [D/F#]put your helmet on
+[C]  Ground control to Major [Em]Tom
+[C]  Commencing countdown engines [Em]on
+[Am]  Check ig[Am/G]nition and may [D/F#]God's love be with you
+
+[C]This is ground control to Major T[E]om
+You've really made the gr[F]ade
+And the [Fm]papers want to k[C]now whose shirt you w[F]ear
+Now it's [Fm]time to leave the c[C]apsule if you d[F]are
+Th[C]is is Major Tom to ground contr[E]ol
+I'm stepping through the d[F]oor
+And I'm f[Fm]loating in a m[C]ost peculiar w[F]ay
+And the s[Fm]tars look very d[C]ifferent tod[F]ay
+
+For [Fmaj7]here am I [Em]sitting in a tin can
+[Fmaj7]Far above the [Em]world
+[Bb]Planet Earth is [Am]blue and there's [G]nothing I can [F]do
+
+[C] [F] [G] [A] [A]
+[C] [F] [G] [A] [A]
+[Fmaj7][Em][A][C][D][E]
+
+[C]Though I'm past one hundred thousand mi[E]les
+I'm feeling very st[F]ill
+And I t[Fm]hink my spaceship k[C]nows which way to g[F]o
+Tell my w[Fm]ife I love her v[C]ery much she k[F]nows
+
+[G]Ground control to [E7]Major Tom, your [Am]circuit's dead, there's [C/G]something wrong
+Can you [D/F#]hear me Major Tom?
+Can you [C]hear me Major Tom?
+Can you [G]hear me Major Tom? Can you...
+
+[Fmaj7]Here am I [Em]floating 'round my tin can
+[Fmaj7]Far above the [Em]Moon
+[Bb]Planet Earth is [Am]blue and there's [G]nothing I can [F]do
+
+[C] [F] [G] [A] [A]
+[C] [F] [G] [A] [A]
+[Fmaj7][Em][A][C][D][E]
