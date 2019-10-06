@@ -4,10 +4,10 @@ artist: Radiohead
 key: Am
 ---
 
-|Am    D/F#  |Em     G     |
-|Am    F     |Em     G     |
-|Am    D     |G G/F# C C/B |
-|Am    Am    |Bm     D     |
+[Am]    [D/F#]  [Em]     [G]     
+[Am]    [F]     [Em]     [G]     
+[Am]    [D]     [G] [G/F#] [C] [C/B] 
+[Am]    [Am]    [Bm]     [D]     
 
 [Am]   Kar[D/F#]ma Po[Em]lice, a[G]rrest this [Am]man
 He [F]talks in [Em]maths, he [G]buzzes like a [Am]fridge
