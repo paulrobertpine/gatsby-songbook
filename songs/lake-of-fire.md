@@ -1,31 +1,40 @@
 ---
 title: Lake of Fire
 artist: Nirvana
-key: G
+key: Em
 ---
-[G][F][Bb][G][C][Bb][G][F][Bb][C][F][Bb][G]
+[Em][D][G|Em][A][G|Em][D][G|A][D][Em|Em][D][Em|Em][D][Em||]
+                          
+ [Em] ]Where do bad folks[D] go when they [G]die
+They d[Em]on't go to heaven where the [A]angels fly[G]
+[Em]Go to a lake of f[D]ire and f[G]ry
+S[A]ee them again 'till the f[D]ourth of J[Em]uly
 
-[G]Where do bad folks [F]go when they [Bb]die?
-[G]They dont go to heaven where the a[C]ngels f[Bb]ly
-[G]They go to a lake out of [F]fire and [Bb]fry
-[C]Wont see them again till the f[F]ourth of[Bb] Ju[G]ly
+Em    D Em|Em   D Em||
 
-[Dm]I knew a lady who [Bb*]came from Duluth
-[Dm]She got bitten by a dog with[A]a rabid tooth
-[Dm]She went to her grave just a [Bb*]little too soon
-[C*]And flew away howling on the yell[Dm*]ow moon
+[Bm]I knew a lady who c[G]ame from Duluth
+[Bm]Bitten by a dog with a r[F#]abid tooth
+She [Bm]went to her grave just a l[G]ittle too soon
+Fl[A]ew and lay down on the yellow m[Bm]oon
 
-[G]Where do bad folks [F]go when they [Bb]die?
-[G]They dont go to heaven where the [C]angels [Bb]fly
-[G]They go to a lake out of [F]fire and[Bb]fry
-[C]Wont see them again till the f[F]ourth of[Bb] Ju[G]ly
+ [Em] ]Where do bad folks[D] go when they [G]die
+They d[Em]on't go to heaven where the [A]angels fly[G]
+[Em]Go to a lake of f[D]ire and f[G]ry
+S[A]ee them again 'till the f[D]ourth of J[Em]uly
 
-[Dm]Now the people cry and the [Bb*]people moan
-[Dm]They look for a dry place to c[A]all their home
-[Dm]And try to find some place to [Bb*]rest their bones
-[C*]While the angels and the devils t[Dm*]ry to make them their own
+Em    D Em|Em   D Em||
 
-[G]Where do bad folks [F]go when they [Bb]die?
-[G]They dont go to heaven where the a[C]ngels f[Bb]ly
-[G]They go to a lake out of [F]fire and [Bb]fry
-[C]Wont see them again till the f[F]ourth of[Bb] Ju[G]ly
+[Bm]People cry and p[G]eople moan
+L[Bm]ook for a dry place to c[F#]all their home
+[Bm]Try to find some place to r[G]est their bones
+While the [A]angels and the devils try to [Bm]make 'em their own
+
+ [Em]Where do bad folks[D] go when they [G]die
+They d[Em]on't go to heaven where the [A]angels fly[G]
+[Em]Go to a lake of f[D]ire and f[G]ry
+S[A]ee them again 'till the f[D]ourth of J[Em]uly
+
+Em    D Em|Em   D Em| Em    D Em|Em   D Em||
+
+Outro Solo  Em    D Em||x8
+
