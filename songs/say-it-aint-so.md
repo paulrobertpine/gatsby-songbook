@@ -3,107 +3,54 @@ title: Say It Aint So
 artist: Weezer
 ---
 
-[Intro] Am E F C
+[Am][E][F][C]
+[Am]Oh Y[E]eah[F].[C]
+[Am]All [E]Rig[F]ht.[C]
 
-Am E F C
-Oh Yeah.
-Am E F C
-All Right.
+[Am]Somebody's [E]Heiney is[F] crowding my [C]icebox.
+[Am]Somebody's [E]cold one is [F]giving me [C]chills.
+[Am]Guess I'll just[E] close my [F]eyes.[C]
 
-[Verse 1]
+[Am]Oh y[E]eah[F].[C]
+[Am]All [E]rig[F]ht.[C]
+[Am]Feel[E]s g[F]ood[C].
+[Am]Insi[E]de.[F][C]
 
-Am         E        F            C
-Somebody's Heiney is crowding my icebox.
-Am         E           F         C
-Somebody's cold one is giving me chills.
-Am             E         F       C
-Guess I'll just close my eyes.
+[Am]Flip on the[E] Tele... [F]Wrestle with [C]Jimmy.
+[Am]Somethin' is [E]bubblin' [F]behind my [C]back.
+[Am]The bottle is [E]ready to [F]go.[C]
 
-[Interlude]
+[Am][Am][E][E]
 
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]You[Am]r dru[E]g [E]is a[F] heartbre[C]aker.
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]My [Am]love [E]is[E] a li[F]fe-taker.[C]
 
-Am E F C
-Oh yeah.
-Am E F C
-All right.
-Am E F C
-Feels good.
-Am E F C
-Inside.
-
-[Verse 2]
-
-Am         E        F            C
-Flip on the Tele... Wrestle with Jimmy.
-Am           E        F         C
-Somethin' is bubblin' behind my back.
-Am            E        F        C
-The bottle is ready to go.
-
-
-[Chorus]
-
-Am Am E E
-
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E   F        C
-Your drug is a heartbreaker.
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E    F        C
-My love is a life-taker.
-
-[Verse 3]
-
-Am         E        F         C
-I can't confront you, I never could do...
-Am               E
-That which might hurt you.
-F          C
-Try and be cool, when I say:
-Am Am E        F F        (mute)    C                 
-   (mute)Am   E
+[Am]I can't con[E]front you[F], I never [C]could do...
+[Am]That which might [E]hurt you.
+[F]Try and be [C]cool, when I say:
+[Am]   [Am]N.C[E].  Am   E[F][F][N.C.][C]
 This way is-a-waterslide-away-from-me-to-chase-her-fuller-everyday! Hey!
-      F    C
-So be cool.
+So be [F]cool.[C]
 
-[Chorus]
+[Am][Am][E][E]
 
-Am Am  E  E
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]You[Am]r dru[E]g [E]is a [F]heartbrea[C]ker.[Am][Am][E][E]
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]My [Am]love [E]is[E] a li[F]fe-taker.[C]
 
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E    F        C     Am Am  E  E  
-Your drug is a heartbreaker.
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E    F        C
-My love is a life-taker.
+[G]De[G]ar dad[G/F#]dy, I[G/F#] write you[C] i[C]n spite of[Eb] fe[Eb]ars of silence.
+[G]Yo[G]u cleaned up[G/F#], fou[G/F#]nd Jesus, Th[C]in[C]gs are g[Eb]ood[Eb]also I hear.
+[G]Th[G]is bott[G/F#]le of[G/F#] Stevens[C] a[C]wakens [Eb]anc[Eb]ient feelings...
+[G]Li[G]ke father, S[G/F#]tep-F[G/F#]ather...
+[C]Th[C]is song is [Eb]dro[Eb]wning in the[Am] blood[E]! Yeah [F]Yeah-Yeah[C]Yeah-Yeah!
+[Am][E][F][C]
 
-[Bridge]
+[Am][Am][E][E]
 
-G G     G/F# G/F#      C C         Eb Eb
-Dear daddy, I write you in spite of fears of silence.
-G G           G/F# G/F#        C C       Eb Eb
-You cleaned up, found Jesus, Things are good also I hear.
-G G      G/F# G/F#    C C      Eb Eb
-This bottle of Stevens awakens ancient feelings...
-G G           G/F# G/F#
-Like father, Step-Father...
-C C          Eb Eb          Am    E      F        C            
-This song is drowning in the blood! Yeah Yeah-Yeah Yeah-Yeah!
-Am    E    F   C
-[Chorus]
-
-Am Am  E  E
-
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E    F        C
-Your drug is a heartbreaker.
-F            C
-Say it ain't so a-woah-a-woah.
-Am Am   E E    F        C
-My love is a life-taker.
-
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]You[Am]r dru[E]g [E]is a [F]heartbrea[C]ker.
+[F]Say it ain't [C]so a-woah-a-woah.
+[Am]My [Am]love [E]is[E] a li[F]fe-taker.[C]
