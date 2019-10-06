@@ -2,100 +2,29 @@
 title: Mamas Don't Let Your Babies Grow Up to be Cowboys
 artist: Willie Nelson
 key: D
-
 ---
-D                                            G
+[D]Cowboys ain't easy to love and they're harder to [G]hold
+[A]They'd rather give you a song than diamonds or [D]gold
+[D]Lonestar belt buckles and old faded Levi's and [G]each night begins a new day
+If you do[A]n't understand him and he don't die young
+He'll probably just ride a[D]way
 
-Cowboys ain't easy to love and they're harder to hold
+[D]Mammas don't let your babies grow up to be [G]cowboys
+Don't [A]let 'em pick guitars and drive them old trucks
+Let 'em be doctors and lawyers and [D]such
+[D]Mammas don't let your babies grow up to be [G]cowboys
+They'll [A]never stay home and they're always alone
+Even with someone they [D]love
 
-A                                              D
+[E]Cowboys like smokey ol' pool rooms and clear mountain [A]mornings
+[B]Little warm puppies, and children, and girls of the n[E]ight
+[E]Them that don't know him won't like him and them that do [A]sometimes won't know how to take him
+He ain't [B]wrong, he's just different but his pride won't let him
+Do the things to make you think he's [E]right
 
-They'd rather give you a song than diamonds or gold
-
-\    G
-
-Lonestar belt buckles and old faded Levi's and each night begins a new day
-
-   A
-
-If you don't understand him and he don't die young
-
-\    D
-
-He'll probably just ride away
-
-Chorus
-
-D                                         G
-
-Mamas don't let your babies grow up to be cowboys
-
-\    A
-
-Don't let them pick guitars and drive them old trucks
-
-\    D
-
-Let 'em be doctors and lawyers and such
-
-\    G
-
-Mamas don't let your babies grow up to be cowboys
-
-\    A
-
-They'll never stay home and they're always alone
-
-\    D
-
-Even with someone they love
-
-Verse 2
-
- (A tone higher)
-
-E                                                     A
-
-Cowboys like smokey ol' pool rooms and clear mountain mornings
-
-B                                                   E
-
-Little warm puppies, and children, and girls of the night
-
-E                                                                                    A
-
-Them that don't know him won't like him and them that do sometimes won't know how to take him
-
-   B
-
-He ain't wrong, he's just different but his pride won't let him
-
-\    E
-
-Do the things to make you think he's right
-
-Chorus
-
-E                                         A
-
-Mamas don't let your babies grow up to be cowboys
-
-\    B
-
-Don't let them pick guitars and drive them old trucks
-
-\    E
-
-Make them be doctors and lawyers and such
-
-\    A
-
-Mamas don't let your babies grow up to be cowboys
-
-\    B
-
-They'll never stay home and they're always alone
-
-\    E
-
-Even with someone they love
+[E]Mammas don't let your babies grow up to be [A]cowboys
+Don't [B]let 'em pick guitars and drive them old trucks
+Let 'em be doctors and lawyers and [E]such
+[E]Mammas don't let your babies grow up to be [A]cowboys
+They'll [B]never stay home and they're always alone
+Even with someone they [E]love
