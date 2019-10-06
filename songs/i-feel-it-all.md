@@ -3,96 +3,44 @@ title: "I Feel It All"
 artist: "Feist"
 ---
 
-[Verse 1]
-D                   G           G     Bm
- I feel it all, I feel it all
-D                   G           G     Bm
- I feel it all, I feel it all
-D                           G            G    Bm
-   The wings are wide, the wings are wide
-D                        G                G   Bm
-   Wild card inside,    wild card inside
+[D] I feel it all, I fe[G]el it all[G][Bm]
+[D] I feel it all, I fe[G]el it all[G][Bm]
+[D]   The wings are wide, the w[G]ings are wide[G][Bm]
+[D]   Wild card inside,    w[G]ild card inside[G][Bm]
 
-[Hook]
-F#              G                   Em                  A              
-Oh I’ll be the one who'll break my heart  I'll be the one to hold the gun
+[F#]Oh I’ll be the o[G]ne who'll break my h[Em]eart  I'll be the on[A]e to hold the gun
 
-[Verse 2]
-D                      G         G   Bm
-   I know more than I knew before
-D                       G        G   Bm
-   I know more than I knew before
-D                      G        G     Bm
-   I didn't rest, I didn't stop
-D                   G          G     Bm
-   Did we fight or did we talk
+[D]   I know more than I k[G]new before[G][Bm]
+[D]   I know more than I kn[G]ew before[G][Bm]
+[D]   I didn't rest, I did[G]n't stop[G][Bm]
+[D]   Did we fight or d[G]id we talk[G][Bm]
 
-[Hook]
-F#              G                   Em                  A    
-Oh I’ll be the one who'll break my heart  I'll be the one to hold the gun
+[F#]Oh I’ll be the o[G]ne who'll break my h[Em]eart  I'll be the on[A]e to hold the gun
 
-[Verse 3]
-D                     G      G       Bm
-I love you more
-D                 G       G       Bm
-I love you more
-D                     G        G        Bm
-I don't know what I knew before
-D                         G          G     Bm
-But now I know I want to win the war
+[D]I love you more[G][G][Bm]
+[D]I love you more[G][G][Bm]
+[D]I don't know what I kn[G]ew before[G][Bm]
+[D]But now I know I want to w[G]in the war[G][Bm]
 
-[Bridge]
-G                            Em
-No one likes to take a test, Sometimes you know more is less
-G                                    A
-Put your weight against the door, Kick drum on the basement floor
-G                             A
-Stranded in a fog of words, Loved him like a winter bird
-G                             Em
-On my head the water pours, Gulf stream through the open door
+[G]No one likes to take a test, [Em]Sometimes you know more is less
+[G]Put your weight against the door, Kic[A]k drum on the basement floor
+[G]Stranded in a fog of words, Lo[A]ved him like a winter bird
+[G]On my head the water pours, Gu[Em]lf stream through the open door
 
+[F#m]Fly away Fl[G]y away to what you wa[A]nt to make  [(stop]Oh-oh-[playing)]oh-oh-oh-oh-oh-oh-oh-oh OH!
+[D]I feel it all    I f[G]eel it all[G][Bm]
+[D]I feel it all    I f[G]eel it all[G][Bm]
+[D]The wings are wide   The wi[G]ngs are wide[G][Bm]
+[D]Wild card in sight, wild c[G]ard in sight[G][Bm]
 
+[F#m]Oh I’ll be the on[G]e who'll break my heart
+[Em]I'll be the on[A]e who'll break my [F#m]heart
+I'll be the [G]one who'll break my [A]heart
+[A]I'll end it, though you s[F#m]tarted it
 
-
-
-[Verse 4]
-
-F#m        G                    A           (stop playing)
-Fly away Fly away to what you want to make  Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh OH!
-D                   G         G   Bm
-I feel it all    I feel it all
-D                   G         G   Bm
-I feel it all    I feel it all
-D                          G           G  Bm
-The wings are wide   The wings are wide
-D                         G             G   Bm
-Wild card in sight, wild card in sight
-
-
-[Verse 5]
-
-F#m              G                 
-Oh I’ll be the one who'll break my heart
-Em            A                 F#m
-I'll be the one who'll break my heart
-            G                   A
-I'll be the one who'll break my heart
-A                       
-I'll end it, though you started it
-
-
-[Outro]
-
-D             G       G    Bm
-  The truth lies
-D              G      G    Bm
-   The truth lied
-D             G       G    Bm
-  And Lies Divide
-D              G       G   Bm
-     Lies Divide   Oh-oh-oh-oh-oh-oh-oh-oh-oh-oh OH
+[D]  The truth li[G]es[G][Bm]
+[D]   The truth li[G]ed[G][Bm]
+[D]  And Lies Div[G]ide[G][Bm]
+[D]     Lies Divid[G]e[G][Bm]
 
 End on D
-
-
-
