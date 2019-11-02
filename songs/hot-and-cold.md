@@ -1,5 +1,5 @@
 ---
-song: Hot and Cold
+title: Hot and Cold
 artist: Katy Perry
 Key: G
 youtube: kTHNpusq654
