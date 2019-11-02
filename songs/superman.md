@@ -1,5 +1,5 @@
 ---
-song: Superman
+title: Superman
 artist: REM
 key: E
 youtube: IxQS6lfn0yU
