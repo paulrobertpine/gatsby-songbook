@@ -1,5 +1,5 @@
 ---
-song: Closing Time
+title: Closing Time
 artist: Semisonic
 key: G
 youtube: xGytDsqkQY8
