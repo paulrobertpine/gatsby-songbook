@@ -24,7 +24,8 @@ O[F]phelia, [G7]tell me, what went wron[C]g?[C7][D7][E7]
 [A7]Why do the best things always di[D7]sappear, like
 Op[F]helia?  [G7]Please darken my d[C]oor.[A7][D7][G7]
 
-[C]C  [E7]E7  [A7]A7  [D7]D7  [F]F  [G7]G7  [C]C  [A7]D7  [D7]E7[G7]
+[C] [E7] [A7]  [D7]  [F]  [G7] [C] [A7]  [D7] [G7]
+[C] [E7] [A7]  [D7]  [F]  [G7] [C] [D7]  [E7] 
 
 [F]Was it something that some[C]body said?
 [G7]Mama, I know we broke the [C]rules.
