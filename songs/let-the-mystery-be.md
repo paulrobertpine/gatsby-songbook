@@ -1,5 +1,5 @@
 ---
-title: Let the Myster Be  
+title: Let the Mystery Be
 artist: Iris Dement
 key: D
 youtube:nlaoR5m4L80 
