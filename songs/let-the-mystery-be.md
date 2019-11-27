@@ -2,7 +2,7 @@
 title: Let the Mystery Be
 artist: Iris Dement
 key: D
-youtube:nlaoR5m4L80 
+youtube: nlaoR5m4L80
 ---
 
 [D]Everybody is [G]wonderin' what and [A]where they all came [D]from
