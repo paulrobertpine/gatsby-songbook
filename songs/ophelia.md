@@ -1,73 +1,38 @@
 ---
 title: Ophelia
 artist: The Band
+key: C
+youtube: rpO4lji8lR0
+
 ---
-[Intro]
+[G][C7]
 
-G C7
+[C]Boards on the window, [E7]mail by the door,
+[A7]What would anybody leave so q[D7]uickly for?
+Op[F]helia,[G7] where have you gon[C]e?[A7][D7][G7]
 
-[Verse]
+[C]The old neighborhood,[E7]just ain't the same
+[A7]Nobody knows just[D7]what became of..
+O[F]phelia, [G7]tell me, what went wron[C]g?[C7][D7][E7]
 
-C E7
-Boards on the window, mail by the door,
-A7 D7
-What would anybody leave so quickly for?
-F G7 C A7 D7 G7
-Ophelia, where have you gone?
-C E7
-The old neighborhood, just ain't the same
+[F]Was it something that some[C]body said?
+[G7]Mama, I know we broke the [C]rules.
+[F]Was somebody up ag[C]ainst the law?
+[G7]Honey, you know I'd die for you.[G7#5]
 
-A7 D7
-Nobody knows just what became of..
-F G7 C C7 D7 E7
-Ophelia, tell me, what went wrong?
+[C]Ashes of laughter, [E7]the ghost is clear,
+[A7]Why do the best things always di[D7]sappear, like
+Op[F]helia?  [G7]Please darken my d[C]oor.[A7][D7][G7]
 
-[Chorus]
+[C]C  [E7]E7  [A7]A7  [D7]D7  [F]F  [G7]G7  [C]C  [A7]D7  [D7]E7[G7]
 
-F C
-Was it something that somebody said?
-G7 C
-Mama, I know we broke the rules.
-F C
-Was somebody up against the law?
-G7 G7#5
-Honey, you know I'd die for you.
+[F]Was it something that some[C]body said?
+[G7]Mama, I know we broke the [C]rules.
+[F]Was somebody up ag[C]ainst the law?
+[G7]Honey, you know I'd die for you.[G7#5]
 
-[Verse]
+[C]They got your number[E7], scared & running,
+[A7]But I'm still waiting for th[D7]e second coming of
+Op[F]helia,[G7] come back [C]home. [A7][D7][G7]
 
-C E7
-Ashes of laughter, the ghost is clear,
-A7 D7
-Why do the best things always disappear, like
-F G7 C A7 D7 G7
-Ophelia? Please darken my door.
-
-[Solo]
-
-C E7 A7 D7 F G7 C A7 D7 G7
-
-C E7 A7 D7 F G7 C D7 E7
-
-[Chorus]
-
-F C
-Was it something that somebody said?
-G7 C
-Mama, I know we broke the rules.
-F C
-Was somebody up against the law?
-G7 G7#5
-Honey, you know I'd die for you.
-
-[Verse]
-
-C E7
-They got your number, scared & running,
-A7 D7
-But I'm still waiting for the second coming of
-F G7 C A7 D7 G7
-Ophelia, come back home.
-
-[Outro]
-
-C E7 A7 D7 F G7 C7 C7 C7 C7
+C  E7  A7  D7  F  G7  C7  C7  C7  C7
