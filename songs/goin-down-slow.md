@@ -1,5 +1,5 @@
 ---
-song: Goin' Down Slow
+title: Goin' Down Slow
 artist: Tom Waits
 key: G
 ---
