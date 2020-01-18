@@ -40,7 +40,7 @@ Who gets [D]burned in a three way [Em]script
 A [C]movie queen to [G/B]play the scene
 Of [Am7]bringing all the [D]good things out in[Em]me
 [C]But for now love, let's be [G/B]real
-* I [C]never thought I could [G/B]act this way *
+I [C]never thought I could [G/B]act this way 
 And I've [Am7]got to say that I [D]just don't get it
 [C]I don't know where [G/B]we went wrong
 But the [Am7]feelin's gone
