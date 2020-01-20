@@ -3,6 +3,7 @@ title: Another Night
 artist: Real McCoy
 key: Am
 youtube:Pav2f4b-1ZE
+
 ---
 
 {INTRO} Am Dm G C (x4)
