@@ -2,13 +2,13 @@
 title: I Say a Little Prayer
 artist: Aretha Franklin
 key: F#m
-youtube:JyLpE93lzLY
+youtube: JyLpE93lzLY
 ---
 
-[Intro] 
+intro
 [F#m](say a[D] lit[D]tle [E]pr[A]ayer[D] for[C#7]you)
 
-[Verse]
+verse
 [F#m]    The moment I wa[Bm]ke up
 Before I put [E]on my [A]makeup
 I s[D]ay a little (prayer for [C#7]you)
@@ -16,7 +16,7 @@ I s[D]ay a little (prayer for [C#7]you)
 And wondering what d[E]ress to w[A]ear, now,
 I s[D]ay a little prayer for [C#7]you
 
-[Chorus]
+chorus
 For[D]ever and [E]ever, you'll [C#m]stay in my h[F#m]eart
 and I will l[E]ove you
 For[D]ever, for[E]ever, we [C#m]never will p[F#m]art
@@ -27,7 +27,7 @@ To[D]gether, to[E]gether, that's [C#m]how it must [F#m]be
 To live without you
 Would [D]on[D]ly [D]be [D/E]heart[D/E]break [D]for [C#7]me.[riff:][C#][C#][B][A][G#][F#][F][D]
 
-[Verse]
+verse
 [F#m]    I run for the b[Bm]us, dear,
 While riding I t[E]hink of [A]us, dear,
 I [D]say a little prayer for [C#7]you.
@@ -35,7 +35,7 @@ I [D]say a little prayer for [C#7]you.
 And all through my [E]coffee b[A]reak-time, (break-time!)
 I [D]say a little prayer for [C#7]you.
 
-[Chorus]
+chorus
 For[D]ever and [E]ever, you'll [C#m]stay in my h[F#m]eart
 and I will l[E]ove you
 For[D]ever, for[E]ever, we [C#m]never will p[F#m]art
@@ -52,7 +52,7 @@ To[D]gether, to[E]gether, that's [C#m]how it must [F#m]be
 To live with[E]out you
 Would [D]on[D]ly [D]be [D/E]heart[D/E]break [D]for [C#7]me.    (Ooooh-oo-oo-oooh)
 
-[Bridge]
+bridge
 [F#m]My darling, beli[Bm]eve me,
 For me the[E]re is no onnnnne
 But [A]you.  Please love, be true. I'm in love with you.
