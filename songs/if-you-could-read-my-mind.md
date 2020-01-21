@@ -3,9 +3,9 @@ title: If You Could Read My Mind
 artist: Gordon Lightfoot
 key: G
 youtube: v5tr_L31StI
+
 ---
 
-[Verse 1]
 [G]If you could read my mind love
 [F]What a tale my thoughts could tell
 [G]Just like an old time movie
@@ -16,10 +16,8 @@ You [C]know that ghost is [G]me
 And [C]I will never [G/B]be set free
 As [Am7]long as I'm a [D]ghost that you can't[G]see
 
-[Instrumental]
 [G]
 
-[Verse 2]
 [G]If I could read your mind love
 [F]What a tale your thoughts could tell
 [G]Just like a paperback novel
@@ -30,10 +28,8 @@ But [C]heroes often [G]fail
 And [C]you won't read that [G/B]book again
 Bec[Am7]ause the ending's [D]just too hard to[G]take
 
-[Instrumental]
 [G] [F][G][F]
 
-[Verse 3]
 [G]I'd walk aw[G7]ay like a mo[C]vie star
 Who gets [D]burned in a three way [Em]script
 [C]Enter number [G]two
@@ -46,10 +42,8 @@ And I've [Am7]got to say that I [D]just don't get it
 But the [Am7]feelin's gone
 And I [D]just can't get it [G]back
 
-[Instrumental]
 [G]
 
-[Verse 4]
 [G]If you could read my mind love
 [F]What a tale my thoughts could tell
 [G]Just like an old time movie
@@ -66,5 +60,4 @@ And I've [Am7]got to say that I [D]just don't get it
 [Am7]But the feelin's gone
 And I [D]just can't get it [G]back
 
-[Outro]
 F  G
