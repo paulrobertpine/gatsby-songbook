@@ -2,21 +2,22 @@
 title: Another Night
 artist: Real McCoy
 key: Am
-youtube:Pav2f4b-1ZE
+youtube: Pav2f4b-1ZE
 
 ---
 
-{INTRO} Am Dm G C (x4)
+INTRO
+Am Dm G C (x4)
 
-{CHORUS}
+CHORUS
 Another [Am]night, another [Dm]dream, but [G]always [C]you,
 Its like a [Am]vision of [Dm]love that [G]seems to be [C]true,
 Another [Am]night another [Dm]dream, but a[G]lways [C]you,
 In the [Am]night I [Dm]dream of [G]love so [C]true.
 
-{REPEAT INTRO}
+REPEAT INTRO
 
-{VERSE 1}
+VERSE 1
 [Am]Just another [Dm]night, another [G]vision of [C]love,
 You feel [Am]joy, you feel [Dm]pain, cuz nothing [G]will be the [C]same.
 [Am]Just another [Dm]night, is [G]all that it [C]takes,
@@ -26,17 +27,17 @@ In the [Am]night in your [Dm]dream, of [G]love so [C]true.
 [Am]I talk [Dm]talk, I [G]talk to [C]you,
 In the [Am]night in your [Dm]dream, of [G]love so [C]true.
 
-{PRE-CHORUS}
+PRE-CHORUS
 In the [Am]night, in my [Dm]dreams,
 Im in [G]love with [C]you,
 Cuz you [Am]talk to [Dm]me like [G]lovers [C]do.
 I feel [Am]joy I feel [Dm]pain, cuz its [G]still the [C]same.
 When the [Am]night is [Dm]gone, I'll [G]be a[C]lone.
 
-{REPEAT CHORUS}
-{REPEAT INTRO}
+REPEAT CHORUS
+REPEAT INTRO
 
-{VERSE 2}
+VERSE 2
 [Am]Just another [Dm]night, another [G]dream, another [C]vision,
 Of [Am]love, with [Dm]me,
 Im [G]here to set you [C]free.
@@ -48,14 +49,14 @@ All we [Am]do all the [Dm]things that only [G]lovers [C]do.
 [Am]Vision of [Dm]love, that [G]seems to be [C]true,
 All we [Am]do all the [Dm]things that only [G]lovers [C]do.
 
-{REPEAT PRE-CHORUS}
-{REPEAT CHORUS}
+REPEAT PRE-CHORUS
+REPEAT CHORUS
 
-{BRIDGE}
+BRIDGE
 [Am]I talk talk, I [G]talk to you,
 In the [Am]night, in your dream, of [G]love so true.
 [Am]I talk talk, I [G]talk to you,
 In the [Am]night, in your dream, of [G]love so true.
 
-{REPEAT PRE-CHORUS}
-{REPEAT CHORUS}
+REPEAT PRE-CHORUS
+REPEAT CHORUS
