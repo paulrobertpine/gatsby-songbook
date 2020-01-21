@@ -1,7 +1,7 @@
 ---
 title: Sweet Caroline
 artist: Neil Diamond
-key:
+key: A
 youtube: 1vhFnTjia_I
 ---
 
