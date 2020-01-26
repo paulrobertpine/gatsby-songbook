@@ -16,11 +16,11 @@ Verse
 
 Pre-Chorus
 [A]Hands         touching [A6]hands
-[E]Rea[D]ching out t[E]ouching me  touching you
+[E]Reaching out t[D]ouching me  touching [E]you
 
 Chorus
-[A]Sweet Caro[D]line  Good ti[E]mes never seemed so good
-[A]I'd be inc[D]lined to[E]believe there never would
+[A]Sweet Caro[D]line  Good times never seemed so [E]good
+[A]I'd be inc[D]lined to believe there never [E]would
 [D]But [C#m]now I[Bm]’m
 
 Verse 2
@@ -34,7 +34,7 @@ Pre-Chorus
 [E]Reachin out touching me touching yo[E]u
 
 Chorus
-[A]Sweet Car[D]olin[(D]e  [C#]   [F#)]     Good t[E]imes never seemed so good
+[A]Sweet Car[D]olin[(D]e  [C#]   [F#)]     Good times never seemed so [E]good
 [A]I'd be inc[D]lined[(D]   [C#]   [F#)]    to believe there never [E]would
 [D]Oh n[C#m]o no[Bm]
 
