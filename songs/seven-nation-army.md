@@ -15,7 +15,7 @@ Because I [B]can't for[Em]get[G][C][B]
 Behind a [B]ciga[Em]rette[G][C][B]
 And a [G]message coming from my [A]eyes says leave it alone
 
-[Em] [G] [C] [B] x4
+[Em] [G] [C] [B] x8
 [Am] [B][E]
 
 [Verse 2]
@@ -29,7 +29,7 @@ And that a[Em]in't what you [G]wa[C]nt[B]to hear
 But that's what[Em] I'll do[G][C][B]
 And a [G]feeling coming from my [A]bones says find a home
 
-[Em] [G] [C] [B] x4
+[Em] [G] [C] [B] x8
 [Am] [B][E]
 
 I'm going [Em]to Wichita[G][C][B]
