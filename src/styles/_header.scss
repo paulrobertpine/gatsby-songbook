@@ -34,10 +34,19 @@
     }
 
     .util-nav {
+      display: flex;
+      align-items: center;
       list-style: none;
       font-size: 30px;
       margin: 0;
       padding: 0;
+
+      .scroll-speed-label {
+        color: $colour-primary;
+        font-size: 20px;
+        padding: 10px;
+        line-height: 2;
+      }
 
       button {
         background-color: transparent;
