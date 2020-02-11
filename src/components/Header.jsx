@@ -62,7 +62,7 @@ class Header extends React.Component {
   }
 
   setScrollSpeed = e => {
-    let speed = 200 - e * 2
+    let speed = 250 - e * 2
     console.log(speed)
 
     this.setState({
