@@ -2,10 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import SVG from 'react-inlinesvg'
 import logo from '../images/musician.svg'
-import {
-  FiPlayCircle,
-  FiPauseCircle,
-} from 'react-icons/fi'
+import { FiPlayCircle, FiPauseCircle } from 'react-icons/fi'
 import Slider from 'rc-slider'
 
 let scrolldelay = -1
@@ -65,11 +62,11 @@ class Header extends React.Component {
   }
 
   setScrollSpeed = e => {
-    let speed = 200 - (e * 2)
+    let speed = 200 - e * 2
     console.log(speed)
 
     this.setState({
-      scrollSpeed: speed
+      scrollSpeed: speed,
     })
   }
 
@@ -84,22 +81,17 @@ class Header extends React.Component {
           >
             <SVG src={logo} width="30" />
           </Link>
-
-          <ul className="util-nav">
-
-            <li className="speed-slider">
-              <Slider
-                step={10}
-                defaultValue={50}
-                onAfterChange={this.setScrollSpeed}
-              />
-            </li>
-            <li>
-              <button onClick={this.setScroll.bind(this)}>
-                {this.state.scrolling ? <FiPlayCircle /> : <FiPauseCircle />}
-              </button>
-            </li>
-          </ul>
+          <div className="scroll-nav">
+            <Slider
+              className="speed-slider"
+              step={10}
+              defaultValue={50}
+              onAfterChange={this.setScrollSpeed}
+            />
+            <button onClick={this.setScroll.bind(this)}>
+              {this.state.scrolling ? <FiPlayCircle /> : <FiPauseCircle />}
+            </button>
+          </div>
         </div>
       </header>
     )

@@ -21,36 +21,15 @@
         height: 50px;
         margin-right: 1rem;
       }
-
-      span {
-        color: $colour-primary;
-        font-size: 24px;
-        transition: background-color 0.7s ease;
-
-        &:hover {
-          color: darken($colour-primary, 2%);
-        }
-      }
     }
 
-    .util-nav {
+    .scroll-nav {
+      width: 250px;
       display: flex;
       align-items: center;
-      list-style: none;
-      font-size: 30px;
-      margin: 0;
-      padding: 0;
-
-      .scroll-speed-label {
-        color: $colour-primary;
-        font-size: 20px;
-        padding: 10px;
-        line-height: 2;
-      }
 
       .speed-slider {
-        width: 15rem;
-        padding: 0 2rem;
+        margin-right: 1rem;
 
         .rc-slider-handle {
           border: 0;
@@ -63,6 +42,7 @@
         color: $colour-primary;
         border: 0;
         padding-top: 10px;
+        font-size: 30px;
 
         &:focus {
           outline: 0;
@@ -77,5 +57,22 @@
         }
       }
     }
+
+    // .util-nav {
+    //   display: flex;
+    //   align-items: center;
+    //   list-style: none;
+    //   font-size: 30px;
+    //   margin: 0;
+    //   padding: 0;
+
+    //   .scroll-speed-label {
+    //     color: $colour-primary;
+
+    //     padding: 10px;
+    //     line-height: 2;
+    //   }
+
+    // }
   }
 }
