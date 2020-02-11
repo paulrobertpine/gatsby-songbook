@@ -18,7 +18,7 @@ class Header extends React.Component {
     this.setScroll = this.setScroll.bind(this)
     this.state = {
       scrolling: true,
-      scrollSpeed: 50,
+      scrollSpeed: 150,
     }
   }
 
