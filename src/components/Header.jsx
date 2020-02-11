@@ -5,9 +5,8 @@ import logo from '../images/musician.svg'
 import {
   FiPlayCircle,
   FiPauseCircle,
-  FiArrowRightCircle,
-  FiArrowLeftCircle,
 } from 'react-icons/fi'
+import Slider from 'rc-slider'
 
 let scrolldelay = -1
 
@@ -15,14 +14,31 @@ class Header extends React.Component {
   constructor() {
     super()
     this.pageScroll = this.pageScroll.bind(this)
-    this.startScrolling = this.startScrolling.bind(this)
-    this.pauseScrolling = this.pauseScrolling.bind(this)
+    // this.handleKeyDown = this.handleKeyDown.bind(this)
+    // this.startScrolling = this.startScrolling.bind(this)
+    // this.pauseScrolling = this.pauseScrolling.bind(this)
+    // this.log = this.log.bind(this)
     this.setScroll = this.setScroll.bind(this)
     this.state = {
       scrolling: true,
       scrollSpeed: 50,
     }
   }
+
+  componentDidMount() {
+    document.addEventListener('keydown', this.handleKeyDown, false)
+  }
+
+  componentWillUnmount() {
+    document.removeEventListener('keydown', this.handleKeyDown, false)
+  }
+
+  // handleKeyDown(e) {
+  //   if (e.keyCode === 13 /*enter*/) {
+  //     // this.okAction();
+  //     console.log('hey')
+  //   }
+  // }
 
   pageScroll() {
     window.scrollBy(0, 1) // horizontal and vertical scroll increments
@@ -48,17 +64,12 @@ class Header extends React.Component {
     }
   }
 
-  increaseSpeed = e => {
-    if (this.state.scrollSpeed > 0) {
-      this.setState({
-        scrollSpeed: this.state.scrollSpeed - 10,
-      })
-    }
-  }
+  setScrollSpeed = e => {
+    let speed = 200 - (e * 2)
+    console.log(speed)
 
-  decreaseSpeed = e => {
     this.setState({
-      scrollSpeed: this.state.scrollSpeed + 10,
+      scrollSpeed: speed
     })
   }
 
@@ -73,21 +84,15 @@ class Header extends React.Component {
           >
             <SVG src={logo} width="30" />
           </Link>
+
           <ul className="util-nav">
-            <li>
-              <button onClick={this.decreaseSpeed}>
-                <FiArrowLeftCircle />
-              </button>
-            </li>
-            <li>
-              <span className="scroll-speed-label">
-                {this.state.scrollSpeed}
-              </span>
-            </li>
-            <li>
-              <button onClick={this.increaseSpeed}>
-                <FiArrowRightCircle />
-              </button>
+
+            <li className="speed-slider">
+              <Slider
+                step={10}
+                defaultValue={50}
+                onAfterChange={this.setScrollSpeed}
+              />
             </li>
             <li>
               <button onClick={this.setScroll.bind(this)}>

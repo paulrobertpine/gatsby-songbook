@@ -48,6 +48,16 @@
         line-height: 2;
       }
 
+      .speed-slider {
+        width: 15rem;
+        padding: 0 2rem;
+
+        .rc-slider-handle {
+          border: 0;
+          background-color: $colour-primary;
+        }
+      }
+
       button {
         background-color: transparent;
         color: $colour-primary;
