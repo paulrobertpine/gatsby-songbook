@@ -84,7 +84,6 @@ class Header extends React.Component {
           <div className="scroll-nav">
             <Slider
               className="speed-slider"
-              step={10}
               defaultValue={50}
               onAfterChange={this.setScrollSpeed}
             />
