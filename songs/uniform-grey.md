@@ -9,9 +9,9 @@ youtube: gS8G4f_di3A
 this[G]uniform grey
 there [C]are no [Am]bearings
 [G]to the day
-
 I came down from the air
 and I'll leave by boat
+
 I'm down with your rainy town
 out on the spit
 with the biggest port around
