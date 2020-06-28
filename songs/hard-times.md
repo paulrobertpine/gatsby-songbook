@@ -1,79 +1,51 @@
 ---
 title: Hard Times
 artist: Gillian Welch & David Rawlings
+key: C
+youtube: k35haKwqY14
 ---
 
 intro 
-|C   |Csus2|C   |Csus4| 
+instead of C you can play
+|[C]/ / [Csus2]/ / |[C] / / [Csus4]/ / |
 
-            Am        G             F        C
-There was a camp town man, used to plow and sing
-Am                G            F          C
-And he loved that mule and the mule loved him
-         Am      G          F          C
-When the day got long as it does about now
-Am           G              F     C
-I'd hear him singing to his muley cow
+There was a [Am]camp town [G]man, used to p[F]low and s[C]ing
+[Am]And he loved that [G]mule and the [F]mule loved [C]him
+When the [Am]day got [G]long as it [F]does about [C]now
+[Am]I'd hear him [G]singing to his [F]muley [C]cow
 
-C    Csus2    C    Csus 
-Calling, "Come on my sweet old girl,
-C    Csus2    C    Csus 
+[C]Calling, "Come on my sweet old girl,
 I'd bet the whole damn world, that
-C           Dm      C/E                   G    Gsus    G
-we're gonna make it yet to the end of the road"
+we're gonna [Dm]make it [C/E]yet to the end of the [G]road"[Gsus][G]
 
 
-        Am        G            F       C  
-Singing hard times ain't gonna rule my mind
-Am        G            F       C          
-Hard times ain't gonna rule my mind, Bessie
-Am         G           F    G          C    Cmaj7
-Hard times ain't gonna rule my mind no more
+Singing [Am]hard times[G] ain't gonna [F]rule my [C]mind
+[Am]Hard times[G] ain't gonna [F]rule my [C]mind, Bessie
+[Am]Hard times [G]ain't gonna [F]rule [G]my mind no [C]more[Cmaj7]
 
-            Am       G      F        C  
-Said it's a mean old world, heavy in need
-Am          G              F          C   
-That big machine is just a picking up speed
-          Am         G                F          C  
-They were supping on tears, they were supping on wine
-Am            G             F         C  
-We all get to heaven in our own sweet time
+Said it's a [Am]mean old [G]world, [F]heavy in [C]need
+[Am]That big mac[G]hine is just a [F]picking up [C]speed
+They were [Am]supping on [G]tears, they were [F]supping on [C]wine
+[Am]We all get to [G]heaven in our [F]own sweet [C]time
 
-C    Csus2    C    Csus 
-So come all you Asheville boys
-C    Csus2    C    Csus 
+[C]So come all you Asheville boys
 'n turn up your old-time noise
-    C                 Dm    C/E                       G  Gsus  G
-'n kick 'til the dust comes up from the cracks in the floor
+'n kick 'til the dust [Dm]comes [C/E]up from the cracks in the [G]flo[Gsus]or[G]
 
-        Am        G            F       C           
-Singing hard times ain't gonna rule my mind, brother
-Am        G            F       C
-Hard times ain't gonna rule my mind
-Am        G            F       G      C
-Hard times ain't gonna rule my mind no more
+Singing [Am]hard times[G] ain't gonna [F]rule my [C]mind, brother
+[Am]Hard times[G] ain't gonna [F]rule my [C]mind
+[Am]Hard times[G] ain't gonna [F]rule my [G]mind no[C]more
 
-        Am       G               F       C
-But the camptown man, he doesn't plow no more
-Am         G                   F         C   
-I seen him walking down to the superette store
-         Am        G            F           C  
-Guess he lost that knack and he forgot that song
-Am          G               F        C  
-Woke up one morning and the mule was gone
+But the [Am]camptown [G]man, he doesn't [F]plow no [C]more
+[Am]I seen him [G]walking down to the [F]superette [C]store
+Guess he [Am]lost that [G]knack and he [F]forgot that [C]song
+[Am]Woke up one [G]morning and the [F]mule was [C]gone
 
 
-C  Csus2  C  Csus 
-So come all you ragtime kings,
-C  Csus2  C  Csus 
+[C]So come all you ragtime kings,
 'n come on you dogs and sing
-C              Dm        C/E                G  Gsus  G
-'n pick up the dusty old horn and give it a blow
+'n pick up the [Dm]dusty old [C/E]horn and give it a [G]blo[Gsus]w[G]
 
-        Am        G            F       C
-Playing hard times ain't gonna rule my mind, honey
-Am        G            F       C         
-Hard times ain't gonna rule my mind, sugar
-Am        G            F       G       C
-Hard times ain't gonna rule my mind no more
-
+Playing [Am]hard times[G] ain't gonna [F]rule my [C]mind, honey
+[Am]Hard times[G] ain't gonna [F]rule my [C]mind, sugar
+[Am]Hard times[G] ain't gonna [F]rule my [G]mind no [C]more[Cmaj7]
