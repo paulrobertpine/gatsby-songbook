@@ -1,4 +1,3 @@
-const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
@@ -13,32 +12,33 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 }
 
-exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
-  return new Promise((resolve, reject) => {
-    graphql(`
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              fields {
-                slug
-              }
+exports.createPages = async ({ actions: { createPage }, graphql }) => {
+  const results = await graphql(`
+    {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
             }
           }
         }
       }
-    `).then(result => {
-      result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-        createPage({
-          path: node.fields.slug,
-          component: path.resolve(`./src/templates/song.js`),
-          context: {
-            slug: node.fields.slug,
-          },
-        })
-      })
-      resolve()
+    }
+  `)
+
+  if (results.errors) {
+    results.errors.forEach(e => console.error(e.toString()))
+    return Promise.reject(results.errors)
+  }
+
+  results.data.allMarkdownRemark.edges.forEach(edge => {
+    createPage({
+      path: edge.node.fields.slug,
+      component: require.resolve(`./src/templates/song.jsx`),
+      context: {
+        slug: edge.node.fields.slug,
+      },
     })
   })
 }

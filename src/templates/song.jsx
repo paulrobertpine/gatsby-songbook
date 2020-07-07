@@ -3,7 +3,9 @@ import { graphql } from 'gatsby'
 import ChordSheetJS from 'chordsheetjs'
 import Layout from '../components/Layout'
 
-const Song = ({ data }) => {
+function Song({data}) {
+
+// const Song = ({ data }) => {
   const post = data.markdownRemark
   let formattedSong = post.internal.content
 
@@ -26,9 +28,9 @@ const Song = ({ data }) => {
           width="600"
           height="330"
           src={youtube}
-          frameborder="0"
+          frameBorder="0"
           allow="autoplay; encrypted-media"
-          allowfullscreen
+          allowFullScreen
         />
       </div>
     )
