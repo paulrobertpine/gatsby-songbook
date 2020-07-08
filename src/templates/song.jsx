@@ -1,40 +1,25 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { graphql } from 'gatsby'
 import ChordSheetJS from 'chordsheetjs'
+import Chord from 'chordjs'
 import Layout from '../components/Layout'
+import { FiMinusCircle, FiPlusCircle } from 'react-icons/fi'
 
-function Song({data}) {
-
-// const Song = ({ data }) => {
+export default function Song({ data }) {
   const post = data.markdownRemark
-  let formattedSong = post.internal.content
+  const [key, setKey] = useState(post.frontmatter.key)
 
-  // remove the frontmatter from the song content
-  formattedSong = formattedSong.replace(/---[\S\s]*---/g, '')
+  console.log('key: ', key)
 
-  // has to o be ChordPro!
-  let song = new ChordSheetJS.ChordProParser().parse(formattedSong)
-  let youtube = ''
+  let currentKey = Chord.parse(key)
 
-  // check for YouTube vid
-  if (post.frontmatter.youtube) {
-    // add embed URL
-    youtube = 'https://www.youtube.com/embed/' + post.frontmatter.youtube
-    console.log(youtube)
-    youtube = (
-      <div className="youtube">
-        <iframe
-          title="YouTube"
-          width="600"
-          height="330"
-          src={youtube}
-          frameBorder="0"
-          allow="autoplay; encrypted-media"
-          allowFullScreen
-        />
-      </div>
-    )
-  }
+  // console.log('post: ', post)
+  // console.log('ck: ', currentKey)
+
+  // const formattedSong = post.internal.content.replace(/---[\S\s]*---/g, '')
+
+  // parse the ChordPro
+  const song = new ChordSheetJS.ChordProParser().parse(post.internal.content)
 
   // Convert song object into HTML
   const htmlChordSheet = new ChordSheetJS.HtmlDivFormatter().format(song)
@@ -45,7 +30,16 @@ function Song({data}) {
         <div className="container">
           <h1>{post.frontmatter.title}</h1>
           <h2>{post.frontmatter.artist}</h2>
-          <h3>key of {post.frontmatter.key}</h3>
+          <h3>key of {currentKey.toString()}</h3>
+
+          <section className="key-picker">
+            <button onClick={() => setKey(currentKey.transposeDown())}>
+              <FiMinusCircle className="inline-svg" />
+            </button>
+            <button onClick={() => setKey(currentKey.transposeUp())}>
+              <FiPlusCircle className="inline-svg" />
+            </button>
+          </section>
         </div>
       </header>
 
@@ -54,12 +48,37 @@ function Song({data}) {
         dangerouslySetInnerHTML={{ __html: htmlChordSheet }}
       />
 
-      {youtube}
+      <YouTube video={post.frontmatter.youtube} />
     </Layout>
   )
 }
 
-export default Song
+// function KeyPicker({ key }) {
+//   return (
+
+//   )
+// }
+
+function YouTube({ video }) {
+  if (video) {
+    const embedURL = 'https://www.youtube.com/embed/' + video
+    return (
+      <div className="youtube">
+        <iframe
+          title="YouTube"
+          width="600"
+          height="330"
+          src={embedURL}
+          frameBorder="0"
+          allow="autoplay; encrypted-media"
+          allowFullScreen
+        />
+      </div>
+    )
+  } else {
+    return ''
+  }
+}
 
 export const query = graphql`
   query SongQuery($slug: String!) {

@@ -23,6 +23,14 @@
         text-stroke: 1px $colour-secondary;
         text-shadow: 2px 2px 0 $colour-secondary;
       }
+
+      .key-picker {
+        button {
+          background-color: transparent;
+          border: 0;
+          font-size: 1.4rem;
+        }
+      }
     }
   }
 }
