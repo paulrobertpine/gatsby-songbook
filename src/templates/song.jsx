@@ -7,19 +7,45 @@ import { FiMinusCircle, FiPlusCircle } from 'react-icons/fi'
 
 export default function Song({ data }) {
   const post = data.markdownRemark
-  const [key, setKey] = useState(post.frontmatter.key)
 
-  console.log('key: ', key)
+  let keyExists = post.frontmatter.key
 
-  let currentKey = Chord.parse(key)
+  if (!keyExists) {
+    keyExists = 'A'
+  }
 
-  // console.log('post: ', post)
-  // console.log('ck: ', currentKey)
+  const [key, setKey] = useState(Chord.parse(keyExists))
+  const [song] = useState(
+    new ChordSheetJS.ChordProParser().parse(post.internal.content)
+  )
 
-  // const formattedSong = post.internal.content.replace(/---[\S\s]*---/g, '')
+  function goDown() {
+    setKey(key.transposeDown())
 
-  // parse the ChordPro
-  const song = new ChordSheetJS.ChordProParser().parse(post.internal.content)
+    song.lines.forEach(line => {
+      line.items.forEach(item => {
+        let chord = Chord.parse(item.chords)
+        if (chord) {
+          chord = chord.transposeDown()
+          item.chords = chord
+        }
+      })
+    })
+  }
+
+  function goUp() {
+    setKey(key.transposeUp())
+
+    song.lines.forEach(line => {
+      line.items.forEach(item => {
+        let chord = Chord.parse(item.chords)
+        if (chord) {
+          chord = chord.transposeUp()
+          item.chords = chord
+        }
+      })
+    })
+  }
 
   // Convert song object into HTML
   const htmlChordSheet = new ChordSheetJS.HtmlDivFormatter().format(song)
@@ -30,13 +56,12 @@ export default function Song({ data }) {
         <div className="container">
           <h1>{post.frontmatter.title}</h1>
           <h2>{post.frontmatter.artist}</h2>
-          <h3>key of {currentKey.toString()}</h3>
-
+          <h3>key of {key.toString()}</h3>
           <section className="key-picker">
-            <button onClick={() => setKey(currentKey.transposeDown())}>
+            <button onClick={() => goDown()}>
               <FiMinusCircle className="inline-svg" />
             </button>
-            <button onClick={() => setKey(currentKey.transposeUp())}>
+            <button onClick={() => goUp()}>
               <FiPlusCircle className="inline-svg" />
             </button>
           </section>
@@ -52,12 +77,6 @@ export default function Song({ data }) {
     </Layout>
   )
 }
-
-// function KeyPicker({ key }) {
-//   return (
-
-//   )
-// }
 
 function YouTube({ video }) {
   if (video) {
