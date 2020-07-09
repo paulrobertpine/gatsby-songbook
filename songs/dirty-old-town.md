@@ -3,12 +3,11 @@ title: Dirty Old Town
 artist: The Pogues
 key: D
 youtube: gMMgIqW9vso
-
 ---
 
-| D   | D   | D   | D   |
-| G   | G   | D   | D   |
-| Em  | Em  | Bm  | Bm  |
+|[D]/ / / / | / / / / | / / / / | / / / / |
+|[G]/ / / / | / / / / |[D]/ / / / | / / / / |
+|[Em]/ / / / | / / / / |[Bm]/ / / / | / / / / |
 
 I met my l[G]ove by the gas works wall
 Dreamed a d[C]ream by the old ca[G]nal
@@ -20,14 +19,12 @@ Cats are p[C]rowling on their [G]beat
 Springs a g[G]irl from the streets at night
 Dirty old [D]town, dirty old [Em]town
 
-
 (Instrumental)
 
-| C   | C   | C   | C   |
-| F   | F   | C   | C   |
-| C   | C   | C   | C   |
-| G   | G   | Am  | Am  |
-
+|[C]/ / / / | / / / / | / / / / | / / / / |
+|[F]/ / / / | / / / / |[C]/ / / / | / / / / |
+|[C]/ / / / | / / / / | / / / / | / / / / |
+|[G]/ / / / | / / / / |[Am]/ / / / | / / / / |
 
 I heard a s[G]iren from the docks
 Saw a t[C]rain set the night on [G]fire

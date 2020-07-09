@@ -4,7 +4,8 @@ artist: Taylor Swift
 key: D
 youtube: e-ORhEE9VVg
 ---
-[D / / / /]
+
+| [D]/ / / / |
 
 [D]Nice to meet you, where you been?
 I could show you incredible [Bm]things
