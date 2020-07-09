@@ -28,7 +28,11 @@
         button {
           background-color: transparent;
           border: 0;
-          font-size: 1.4rem;
+          font-size: 28px;
+          margin-right: 1rem;
+          svg {
+            padding-top: 8px;
+          }
         }
       }
     }

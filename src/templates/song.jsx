@@ -3,13 +3,13 @@ import { graphql } from 'gatsby'
 import ChordSheetJS from 'chordsheetjs'
 import Chord from 'chordjs'
 import Layout from '../components/Layout'
-import { FiMinusCircle, FiPlusCircle } from 'react-icons/fi'
+import { FiMinusCircle, FiPlusCircle, FiRefreshCw } from 'react-icons/fi'
 
 export default function Song({ data }) {
   const post = data.markdownRemark
 
+  //  some songs don't have keys yet
   let keyExists = post.frontmatter.key
-
   if (!keyExists) {
     keyExists = 'A'
   }
@@ -18,6 +18,20 @@ export default function Song({ data }) {
   const [song] = useState(
     new ChordSheetJS.ChordProParser().parse(post.internal.content)
   )
+
+  function flipAccidentals() {
+    setKey(key.switchModifier())
+
+    song.lines.forEach(line => {
+      line.items.forEach(item => {
+        let chord = Chord.parse(item.chords)
+        if (chord) {
+          chord = chord.switchModifier()
+          item.chords = chord
+        }
+      })
+    })
+  }
 
   function goDown() {
     setKey(key.transposeDown())
@@ -59,10 +73,13 @@ export default function Song({ data }) {
           <h3>key of {key.toString()}</h3>
           <section className="key-picker">
             <button onClick={() => goDown()}>
-              <FiMinusCircle className="inline-svg" />
+              <FiMinusCircle />
             </button>
             <button onClick={() => goUp()}>
-              <FiPlusCircle className="inline-svg" />
+              <FiPlusCircle />
+            </button>
+            <button onClick={() => flipAccidentals()}>
+              <FiRefreshCw />
             </button>
           </section>
         </div>
