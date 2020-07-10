@@ -1,100 +1,67 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'gatsby'
 import SVG from 'react-inlinesvg'
 import logo from '../images/musician.svg'
 import { FiPlayCircle, FiPauseCircle } from 'react-icons/fi'
 import Slider from 'rc-slider'
 
-let scrolldelay = -1
+const defaultScrollSpeed = 30
 
-class Header extends React.Component {
-  constructor() {
-    super()
-    this.pageScroll = this.pageScroll.bind(this)
-    // this.handleKeyDown = this.handleKeyDown.bind(this)
-    // this.startScrolling = this.startScrolling.bind(this)
-    // this.pauseScrolling = this.pauseScrolling.bind(this)
-    // this.log = this.log.bind(this)
-    this.setScroll = this.setScroll.bind(this)
-    this.state = {
-      scrolling: true,
-      scrollSpeed: 150,
-    }
+export default function Header() {
+  const [scrolling, setScrolling] = useState(false)
+  const [scrollLines, setScrollLines] = useState()
+  const [timeoutID, setTimeoutID] = useState()
+
+  if (!scrollLines) {
+    setScrollSpeed(defaultScrollSpeed)
   }
 
-  componentDidMount() {
-    document.addEventListener('keydown', this.handleKeyDown, false)
+  function startScrolling() {
+    setScrolling(true)
+    window.scrollBy(0, scrollLines, 'smooth')
+    // 100 is delay in ms between scrolls
+    setTimeoutID(setTimeout(startScrolling, 100))
   }
 
-  componentWillUnmount() {
-    document.removeEventListener('keydown', this.handleKeyDown, false)
+  function pauseScrolling() {
+    setScrolling(false)
+    window.clearTimeout(timeoutID)
   }
 
-  // handleKeyDown(e) {
-  //   if (e.keyCode === 13 /*enter*/) {
-  //     // this.okAction();
-  //     console.log('hey')
-  //   }
-  // }
+  function toggleScrolling() {
+    setScrolling(!scrolling)
 
-  pageScroll() {
-    window.scrollBy(0, 1) // horizontal and vertical scroll increments
-    scrolldelay = setTimeout(this.pageScroll, this.state.scrollSpeed)
-  }
-
-  startScrolling(e) {
-    this.pageScroll()
-  }
-
-  pauseScrolling(e) {
-    window.clearTimeout(scrolldelay)
-    scrolldelay = -1
-  }
-
-  setScroll(e) {
-    this.setState({ scrolling: !this.state.scrolling })
-
-    if (this.state.scrolling) {
-      this.startScrolling(e)
+    if (!scrolling) {
+      startScrolling()
     } else {
-      this.pauseScrolling(e)
+      pauseScrolling()
     }
   }
 
-  setScrollSpeed = e => {
-    let speed = 300 - e * 3
-    console.log(speed)
-
-    this.setState({
-      scrollSpeed: speed,
-    })
+  function setScrollSpeed(e) {
+    console.log()
+    pauseScrolling()
+    const calcScrollLines = (e / 10 + 0.1).toPrecision(2)
+    setScrollLines(calcScrollLines)
   }
 
-  render() {
-    return (
-      <header id="site-header">
-        <div className="container">
-          <Link
-            to="/"
-            className="site-title"
-            onClick={this.pauseScrolling.bind(this)}
-          >
-            <SVG src={logo} width="30" />
-          </Link>
-          <div className="scroll-nav">
-            <Slider
-              className="speed-slider"
-              defaultValue={50}
-              onAfterChange={this.setScrollSpeed}
-            />
-            <button onClick={this.setScroll.bind(this)}>
-              {this.state.scrolling ? <FiPlayCircle /> : <FiPauseCircle />}
-            </button>
-          </div>
+  return (
+    <header id="site-header">
+      <div className="container">
+        <Link to="/" className="site-title" onClick={() => pauseScrolling()}>
+          <SVG src={logo} width="30" />
+        </Link>
+        <div className="scroll-nav">
+          <Slider
+            className="speed-slider"
+            defaultValue={defaultScrollSpeed}
+            onAfterChange={e => setScrollSpeed(e)}
+          />
+          <button onClick={() => toggleScrolling()}>
+            {scrolling ? <FiPauseCircle /> : <FiPlayCircle />}
+          </button>
         </div>
-      </header>
-    )
-  }
+      </div>
+    </header>
+  )
 }
-
-export default Header
