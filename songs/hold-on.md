@@ -1,102 +1,70 @@
 ---
-title: "Hold On"
-artist: "Tom Waits"
+title: 'Hold On'
+artist: 'Tom Waits'
+key: D
+youtube: 0P5jV4lHHR0
 ---
 
-Intro, D, 4 bars
+|[D]/ / / / | / / / / | / / / / | / / / / |
 
-D .                 G ...
-They hung a sign up in our town
-        A7 .                  D ...
-"if you live it up, you won't live it down"
-    D .            G ...
-So, she left Monte Rio, son
-A7 .               D ...   ....
-Just like a bullet leaves a gun
-         G   .             A7 ...
-With her charcoal eyes and Monroe hips
-             D .            G ... ....
-She went and took that California trip
-      Em .                   A7 ...
-Well, the moon was gold, her Hair like wind
-         Em .                 A7 .
-She said don't look back just Come on Jim
-.. ..
+[D.]They hung a sign up [G...]in our town
+"if you [A.]live it up, you won't [D...]live it down"
+So, [D.]she left Monte [G...]Rio, son
+Just [A7.]like a bullet [D.......]leaves a gun
+With her [G.]charcoal eyes and [A...]Monroe hips
+She went and [D.]took that Cali-[G.....]fornia trip
+Well, the [Em.]moon was gold, her [A7...]Hair like wind
+She said [Em.]don't look back just [A7.....]Come on Jim
 Oh you've got to
 
-[Chorus]
+[D]Hold on, [A7]Hold on
+[D]You got to [G]hold on
+[D]Take my hand, I'm [A7]standing right here
+You gotta [D.......]hold on
 
-D.        A7.       
-Hold on, Hold on
-D.          G.
-You got to hold on
-D.                A7.  
-Take my hand, I'm standing right here
-D... ....          
-You gotta hold on
-
-[Verse]
-      D .           G ...
 Well, he gave her a dimestore watch
-A7 .            D...
 And a ring made from a spoon
-D .                     G ...
 Everyone’s looking for someone to blame
-A7  .                      D ... ....          
 When you share my bed, you share my name
-G .                 A7 ...
 Well, go ahead and call the cops
-D .                          G ... ....
 You don't meet nice girls in coffee shops
-Em .             A7 ...
 She said baby, I still love you
-Em .              A7 .
 Sometimes there's nothin left to do
-.. ..
 Oh but you've got to
 
+[D]Hold on, [A7]Hold on
+[D]You got to [G]hold on
+[D]Take my hand, I'm [A7]standing right here
+You gotta [D.......]hold on
 
-[Chorus]
-D        A7       
-Hold on, hold on
-D          G
-Baby got to hold on
-D             A7      
-Take my hand, I'm standing right here, you got to
-D ... ....        
-You gotta hold on.
+Well, God bless your crooked little heart
+St. Louis got the best of me
+I miss your broken China voice
+How I wish you were still here with me
+Oh, you build it up, you wreck it down
+Then you burn your mansion to the ground
+Oh, there's nothing left to keep you here
+But when you're falling behind in this big blue world
+Oh but you've got to
 
-[Verse]
-D.          G...
+[D]Hold on, [A7]Hold on
+[D]You got to [G]hold on
+[D]Take my hand, I'm [A7]standing right here
+You gotta [D.......]hold on
+
 Down by the Riverside motel,
-A7.               D...
 It's 10 below and falling
-D.      G ...               
 By the 99 cent store
-    A7.                 D... ....
 she closed her eyes and started swaying
-    G.              A7 ...
 But it's so hard to dance that way
-D.                            G... ..    
 When it's cold and there's no music
-          Em .               A7...
 Well your old hometown is so far away
-     Em.                        A7..
 But, inside your head there's a record playing,
-..
 a song called
 
-[Chorus]
-D        A7
-Hold on, hold on
-D           G
-Baby got to hold on
-D                 A7
-Take my hand, I'm standing right (t)here
-D
-You gotta hold on.
-x4
+[D]Hold on, [A7]Hold on
+[D]You got to [G]hold on
+[D]Take my hand, I'm [A7]standing right here
+You gotta [D.......]hold on (x4)
 
-You gotta hold on x8 (fade)
-
-
+[D]You gotta hold on...
