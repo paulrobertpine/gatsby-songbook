@@ -13,9 +13,6 @@ youtube: mb7fm6YCAI4
 We c[F]annot have all things to [C]please us, no [G]matter how we [Am]try
 Until we've [F]all gone to [C]Jesus, we can o[G]nly wonder w[Am]hy[F][G][Am]
 
-[F]     [C]    [G]    [Am]
-[F]     [C]    [G]    [Am]  [F]  [G]  [Am]
-
 [Am]I had a daughter [F]called her Annabelle
 [E7]She's the apple of my [Am]eye
 [Am]Tried to give her something [F]like I never had
