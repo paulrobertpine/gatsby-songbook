@@ -12,9 +12,8 @@ youtube:
 [Am] The crickets sere[D]nade
 [Bm] Echoes softly through the n[C]ight
 [Am] The stars are on the l[D]ake
-[Bm] And the moon is shining br[C]ight
+[Bm] And the moon is shining br[C]ight [D]Don't worry
 
-[D]Don't worry
 [G] I'll leave the light on in the[D]hall
 [C] Just go to [D]sleep now close your [G]eyes
 
@@ -26,9 +25,8 @@ youtube:
 [Am] The birds are in their [D]nest
 [Bm] And the cows are in the b[C]arn
 [Am] The covers on your b[D]ed
-[Bm] Will keep you safe and wa[C]rm
+[Bm] Will keep you safe and wa[C]rm [D]Don't worry
 
-[D]Don't worry
 [G] I'll be beside you should you[D]fall
 [C] Just go to [D]sleep now close your [G]eyes
 
@@ -45,9 +43,8 @@ youtube:
 [Am] The crickets sere[D]nade
 [Bm] Echoes softly through the n[C]ight
 [Am] The stars are on the l[D]ake
-[Bm] And the moon is shining br[C]ight
+[Bm] And the moon is shining br[C]ight [D]Don't worry
 
-[D]Don't worry
 [G] I'll leave the light on in the[D]hall
 [C] Just go to [D]sleep now close your e[G]yes
 [C] Just go to [D]sleep now close your e[G]yes
