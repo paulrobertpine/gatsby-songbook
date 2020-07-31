@@ -2,7 +2,7 @@
 artist: Neil Young
 title: Pocahontas
 key: A
-youtube:UBz2vR0oEa0
+youtube: UBz2vR0oEa0
 ---
 
 [A] [Asus2][A][Asus][A]
