@@ -1,143 +1,41 @@
 ---
 title: You Wont See Me
 artist: The Beatles
+key: D
 ---
 
-[Intro]
-D A
+[D][a]
 
+When I [A]call you [B7]up, your l[D]ine's enga[A]ged.
+I have [A]had en[B7]ough, so a[D]ct your a[A]ge!
+We have l[A7]ost the t[D]ime that [Dm]was so hard to f[A]ind,
+And I will [A]lose my [B7]mind if y[D]ou w[A]on't see me. (You won't see me)
+[D]You wo[A]n't see me. (You won't see me)
 
-[Verse]
-       A        B7        D         A
-When I call you up, your line's engaged.
-       A     B7        D        A
-I have had enough, so act your age!
-         A7       D        Dm              A
-We have lost the time that was so hard to find,
-           A       B7       D   A        
-And I will lose my mind if you won't see me. (You won't see me)
-D     A
-You won't see me. (You won't see me)
+I don't k[A]now why y[B7]ou should w[D]ant to h[A]ide
+But I c[A]an't get th[B7]rough, my h[D]ands are t[A]ied.
+I won't w[A7]ant to st[D]ay, I d[Dm]on't have much to s[A]ay,
+but I can t[A]urn a[B7]way, and y[D]ou w[A]on't see me. (You won't see me)
+Y[D]ou wo[A]n't see me. (You won't see me)
 
+[D6]Time after t[Dm6]ime you refuse to even lis[A]ten.
+[B7]I wouldn't mind if I [E7sus4]knew what I was mis[E7]sing.
+(No I wouldn't no I wouldn't)
 
-         A        B7         D       A
-I don't know why you should want to hide
-       A          B7         D         A
-But I can't get through, my hands are tied.
-         A7       D      Dm                 A
-I won't want to stay, I don't have much to say,
-           A    B7        D   A
-but I can turn away, and you won't see me. (You won't see me)
- D    A
-You won't see me. (You won't see me)
+Though the d[A]ays are f[B7]ew they're fi[D]lled with te[A]ars,
+and since [A]I lost y[B7]ou it fe[D]els like y[A]ears.
+Yes, it s[A7]eems so l[D]ong, g[Dm]irl since you've been g[A]one,
+and I just c[A]an't go [B7]on if y[D]ou wo[A]n't see me. (You won't see me)
+Y[D]ou wo[A]n't see me. (You won't see me)
 
+[D6]Time after t[Dm6]ime you refuse to even lis[A]ten.
+[B7]I wouldn't mind if I [E7sus4]knew what I was mis[E7]sing.
+(No I wouldn't no I wouldn't)
 
-[Bridge]
-D6          Dm6                       A
-Time after time you refuse to even listen.
-B7                   E7sus4             E7 
-I wouldn't mind if I knew what I was missing.
-                    (No I wouldn't no I wouldn't)
+Though the d[A]ays are f[B7]ew they're fi[D]lled with te[A]ars,
+and since [A]I lost y[B7]ou it fe[D]els like y[A]ears.
+Yes, it s[A7]eems so lo[D]ng, gi[Dm]rl since you've been go[A]ne,
+and I just c[A]an't go [B7]on if y[D]ou wo[A]n't see me. (You won't see me)
+Y[D]ou wo[A]n't see me. (You won't see me)
 
-
-[Verse]
-            A        B7           D           A 
-Though the days are few they're filled with tears,
-          A       B7      D         A
-and since I lost you it feels like years.
-         A7       D     Dm                     A
-Yes, it seems so long, girl since you've been gone,
-            A       B7     D    A
-and I just can't go on if you won't see me. (You won't see me)
- D    A
-You won't see me. (You won't see me)
-
-
-[Bridge]
-D6          Dm6                       A
-Time after time you refuse to even listen.
-B7                   E7sus4             E7 
-I wouldn't mind if I knew what I was missing.
-                    (No I wouldn't no I wouldn't)
-
-[Verse]
-            A        B7           D           A 
-Though the days are few they're filled with tears,
-          A       B7      D         A
-and since I lost you it feels like years.
-         A7        D     Dm                     A
-Yes, it seems so long, girl since you've been gone,
-            A       B7     D    A
-and I just can't go on if you won't see me. (You won't see me)
- D    A
-You won't see me. (You won't see me)
-
-
-[Outro]
-A   B7             D   A   
-Ooh ooh la la la  ooh ooh la la la  (repeat and fade)
-
-
-================================
-
-You Won't See Me
-By John Lennon and Paul McCartney
-from the Beatles album _Rubber Soul_
-
-
-[Verse]
-       A        E        D         A
-When I call you up, your line's engaged.
-       A     E        D        A
-I have had enough, so act your age!
-        A7       D         Dm             A
-We have lost the time that was so hard to find,
-           A       E       E         A        A   Asus2 Am  A
-And I will lose my mind if you won't see me. (You won't see me)
-E         A        A   Asus2 Am  A
-You won't see me. (You won't see me)
-
-I don't know why you should want to hide
-But I can't get through, my hands are tied.
-I won't want to stay, I don't have much to say,
-but I get turned away, and you won't see me. (You won't see me)
-You won't see me. (You won't see me)
-
-
-[Bridge]
-E          E7         E           A
-Time after time you refuse to even listen.
-B7         B         E               E7 
-I wouldn't mind if I knew what I was missin'.
-                    (No I wouldn't no I wouldn't)
-
-
-[Verse]
-Though the days are few they're filled with tears,
-and since I lost you it feels like years.
-Yes, it seems so long, girl since you've been gone,
-and I just can't go on if you won't see me. (You won't see me)
-You won't see me. (You won't see me)
-
-
-[Bridge]
-E          E7         E           A
-Time after time you refuse to even listen.
-B7         B         E               E7 
-I wouldn't mind if I knew what I was missin'.
-                    (No I wouldn't no I wouldn't)
-
-[Verse]
-Though the days are few they're filled with tears,
-and since I lost you it feels like years.
-Yes, it seems so long, girl since you've been gone,
-and I just can't go on if you won't see me. (You won't see me)
-You won't see me. (You won't see me)
-
-
-[Outro]
-A   E    
-Ooh ooh la la la
-D   A
-Ooh ooh la la la
-
+[A]Ooh [B7]ooh la la la o[D]oh o[A]oh la la la (repeat and fade)

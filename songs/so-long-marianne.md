@@ -1,189 +1,53 @@
 ---
 title: So Long Marianne
 artist: Leonard Cohen
+key: A
 ---
-[Verse 1]
 
- A Bm
+Come [A]over to the window, my little d[Bm]arling
+[D]I'd like to try to read your pa[A]lm
+[G]I used to think I was some kind of gy[D]psy boy
+[F#m] before I let you take me [E]home[Esus4][e][E7]
 
-Come over to the window, my little darling
+Now [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]
 
-D A
+Well you k[A]now that I love to [Bm]live with you
+[D] but you make me forget so very m[A]uch
+[G] I forget to pray for the a[D]ngels
+and then the [F#m]angels forget to pray for [Esus4]us[E][e7]
 
-I'd like to try to read your palm
+Now [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]
 
+We m[A]et when we were [Bm]almost young
+[D] deep in the green Lilac p[A]ark
+[G] You held on to me like I was a c[D]rucifix
+[F#m] as we went kneeling through the d[E]ark[Esus4][e][E7]
 
-G D
+Oh [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]
 
-I used to think I was some sort of gypsy boy
+Your l[A]etters they all say that you're be[Bm]side me now
+[D] then why do I feel al[A]one
+[G] I'm standing on a ledge and your [D]fine spider web
+is f[F#m]astening my ankle to a st[E]one[Esus4][e][E7]
 
-F#m E Esus4 E E7
+Now [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]
 
-before I let you take me home
+For n[A]ow I need your [Bm]hidden love
+[D] I'm cold as a new razor b[A]lade
+[G] You left when I told you I was c[D]urious
+[F#m] I never said that I was b[E]rave[Esus4][e][E7]
 
-[Chorus]
+Oh [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]
 
- A F#m
+Oh, y[A]ou are really such a p[Bm]retty one
+[D] I see you've gone and changed your [A]name again
+[G] And just when I climbed this w[D]hole mountainside
+to w[F#m]ash my eye\_\_lids in the ra[E]in[Esus4][e][E7]
 
-Now so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-to laugh and cry and cry and laugh about it all again
-
-[Verse 2]
-
- A Bm
-
-
-Well you know that I love to live with you
-
-D A
-
-but you make me forget so very much
-
-G D
-
- forget to pray for the angels
-
- F#m E sus4 E E7
-
-nd then the angels forget to pray for us
-
-[Chorus]
-
- A F#m
-
-ow so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-o laugh and cry and cry and laugh about it all again
-
-[Verse 3]
-
- A Bm
-
-We met when we were almost young
-
-D A
-
-deep in the green lilac park
-
-G D
-
-You held on to me like I was a crucifix
-
-F#m E Esus4 E E7
-
-s we went kneeling through the dark
-
-[Chorus]
-
- A F#m
-
-ow so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-o laugh and cry and cry and laugh about it all again
-
-[Verse 4]
-
- A Bm
-
-Your letters they all say that you're beside me now
-
-D A
-
-then why do I feel so alone
-
-G D
-
-'m standing on a ledge and your fine spider web
-
- F#m E Esus4 E E7
-
-s fastening my ankle to a stone
-
-[Chorus]
-
- A F#m
-
-ow so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-o laugh and cry and cry and laugh about it all again
-
-[Verse 5]
-
- A Bm
-
-For now I need your hidden love
-
-D A
-
-I'm cold as a new razor blade
-
-G D
-
-You left when I told you I was curious
-
-F#m E Esus4 E E7
-
- never said that I was brave
-
-[Chorus]
-
- A F#m
-
-ow so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-o laugh and cry and cry and laugh about it all again
-
-[Verse 6]
-
- A Bm
-
-Oh, you are really such a pretty one
-
-D A
-
-I see you've gone and changed your name again
-
-G D
-
-nd just when I climbed this whole mountainside
-
- F#m E Esus4 E E7
-
-o wash my eyelids in the rain
-
-[Chorus]
-
- A F#m
-
-ow so long, Marianne, It's time that we began
-
- E Esus4 E E7 E Esus4 E E7 A Asus4
-
-to laugh and cry and cry and laugh about it all again
-
-A Bm
-
-Oh, your eyes, well, I forget your eyes
-
-D A
-
-your body's at home in every sea
-
-G D
-
-How come you gave away your news to everyone
-
-F#m E Esus4 E E7
-
-that you said was a secret to me
+Oh [A]so long, Marianne,[F#m]It's time that we began
+to l[E]augh[Esus4] and [E]cry[E7] and [E]cr[Esus4]y and l[E]augh ab[E7]out it [A]all again[Asus4]

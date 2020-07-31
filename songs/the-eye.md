@@ -1,96 +1,39 @@
 ---
-title: "The Eye"
-artist: "Brandi Carlile"
+title: 'The Eye'
+artist: 'Brandi Carlile'
+key: C
 ---
 
-[Verse]
+[F][c]It really breaks my heart[F], [C]to see a dear old friend[F][c]Go [G]down in the [Am]worn out [F]place [C]again
+[F][c]Do you know the sound[F], [C]of a closing door?[F][c]Have you [G]heard that [Am]sound some[F]where be[C]fore?[F][c]Do you wonder i[G]f she kno[Am]ws you[F] anymor[C]e?[G]
 
-F C                        F C                        F             
-  It really breaks my heart, to see a dear old friend
-C  G           Am       F     C         
-Go down in the worn out place again
-F C                    F C                  F
-  Do you know the sound, of a closing door?
-C        G          Am        F       C     F     
-Have you heard that sound somewhere before?
-C              G        Am    F      C       G
-Do you wonder if she knows you anymore?
+[F]I wrapped your love around me like a [C]chain
+B[F]ut I never was afraid that it would [G]die
+[C]You can dance in a [F]hurrica[Am]ne
+[Am]But only if you're standing in the [C]eye[F][c]
 
+[F][c]Where did you learn to wal[F]k, [C]where did you learn to ru[F]n?
+[C]Awa[G]y from [Am]every[F]thing you [C]love
+[F][c]And did you think the bott[F]le, [C]would ever ease your pain[F]?
+[C]Did yo[G]u think that lo[Am]ve's a fo[F]olish ga[C]me?[F]
+Did you [C]find some[G]one el[Am]se to t[F]ake the b[C]lame?[G]
 
-[Chorus]
+[F]I wrapped your love around me like a [C]chain
+B[F]ut I never was afraid that it would [G]die
+[C]You can dance in a [F]hurrica[Am]ne
+[Am]But only if you're standing in the [C]eye
 
-F                                    C
-I wrapped your love around me like a chain
- F                                   G
-But I never was afraid that it would die
-C                  F      Am
-You can dance in a hurricane
-Am                                 C    F  C  
-But only if you're standing in the eye
+[C]You can dance in a [F]hurrica[Am]ne
+[Am]But only if you're standing in the [C]eye
 
+[F][c]I am a sturdy sou[F]l, [C]and there ain't no shame[F][c]In [G]lying d[Am]own in the [F]bed you [C]made[F]
+Can you [C]fight the u[G]rge to [Am]run for [F]another d[C]ay?[G]
+You might make it [Am]furthe[G]r if you learn to [C]stay
 
-[Verse]
+[F]I wrapped your love around me like a [C]chain
+B[F]ut I never was afraid that it would [G]die
+[C]You can dance in a [F]hurrica[Am]ne
+[Am]But only if you're standing in the [G]eye[C]
 
-F C                         F  C                        F
-  Where did you learn to walk, where did you learn to run?
-C  G      Am   F         C         
-Away from everything you love
-F C                         F   C                        F    
-  And did you think the bottle, would ever ease your pain?
-C     G              Am       F       C   F      
-Did you think that love's a foolish game?
-        C        G     Am     F        C     G
-Did you find someone else to take the blame?
-
-
-[Chorus]
-
-F                                    C
-I wrapped your love around me like a chain
- F                                   G
-But I never was afraid that it would die
-C                  F      Am
-You can dance in a hurricane
-Am                                 C
-But only if you're standing in the eye
-
-
-[Post-Chorus]
-
-C                  F      Am
-You can dance in a hurricane
-Am                                 C
-But only if you're standing in the eye
-
-[Break]
-
-[Verse]
-
-F C                F  C                        F
-  I am a sturdy soul, and there ain't no shame
-C  G      Am         F       C    F
-In lying down in the bed you made
-        C          G      Am      F        C     G
-Can you fight the urge to run for another day?
-                  Am    G                 C
-You might make it further if you learn to stay
-
-[Chorus]
-
-F                                    C
-I wrapped your love around me like a chain
- F                                   G
-But I never was afraid that it would die
-C                  F      Am
-You can dance in a hurricane
-Am                                 G    C
-But only if you're standing in the eye
-
-[Outro]
-                   F      Am
-You can dance in a hurricane
-Am                                 C
-But only if you're standing in the eye
-
-
-
+You can dance in a [F]hurrica[Am]ne
+[Am]But only if you're standing in the [C]eye
