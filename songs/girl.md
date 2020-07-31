@@ -1,96 +1,43 @@
 ---
 title: Girl
 artist: The Beatles
+key: Em
 ---
 
-[Verse]
+is ther[Em]e anybody [B7]going to listen to[Em] my [Em7]story
+[Am]all about the g[C6]irl who came to [G]stay?[B7]
+she's t[Em]he kind o[B7]f girl you want so much it m[Em]akes you so[Em7]rry
+[Am]still you don't re[C6]gret a single d[Em]ay
 
-       Em        B7                Em  Em7
-is there anybody going to listen to my story
-Am             C6              G      B7
-all about the girl who came to stay?
-       Em       B7                          Em         Em7
-she's the kind of girl you want so much it makes you sorry
-Am                C6             Em
-still you don't regret a single day
+ah [G]girl [Bm]     [Am][D7]
+ah [G]girl [Bm]     [Am][D7]
 
+when i [Em]think of all the t[B7]imes i've tried so h[Em]ard to l[Em7]eave her
+[Am]she will come to[C6] me and start to [G]cry[B7]
+and she [Em]promises the ea[B7]rth to me and i [Em]bel-[Em7]ieve her
+[Am]after all this t[C6]ime i don't know [Em]why
 
-[Chorus]
+[G]ah gi[Bm]rl    [Am]  [D7]
+ah [G]girl [Bm]     [Am][D7]
 
-   G    Bm    Am  D7
-ah girl      
-   G    Bm    Am D7
-ah girl      
+[Am]she's the kind of girl who puts you [E]down
+when friends are there, you feel a f[Am]ool[E]
+[Am]when you say she's looking good
+she a[E]cts as if it's understood, she's c[Am]ool, ooh, o[C]oh, ooh, ooh
 
+[G]ah gi[Bm]rl    [Am]  [D7]
+ah [G]girl [Bm]     [Am][D7]
 
-[Verse]
+was she [Em]told when she was [B7]young that pain would [Em]lead to p[Em7]leasure?
+[Am]did she understand it when they s[G]aid[B7]
+that a [Em]man must break his [B7]back to earn his [Em]day of [Em7]leisure,
+[Am]will she still believe it when he's d[Em]ead?
 
-       Em                B7                  Em      Em7
-when i think of all the times i've tried so hard to leave her
-Am              C6               G     B7 
-she will come to me and start to cry
-        Em             B7              Em  Em7
-and she promises the earth to me and i bel-ieve her
-Am              C6               Em
-after all this time i don't know why
+[G]ah gi[Bm]rl    [Am]  [D7]
+ah [G]girl [Bm]     [Am][D7]
 
+[ Em B7 | Em7  | Am  | G B7 ]
+[ Em B7 | Em7  | Am  | Em   ]
 
-[Chorus]
-
-G    Bm    Am  D7
-ah girl      
-   G    Bm    Am D7
-ah girl      
-
-
-[Bridge]
-
-Am                                  E
-she's the kind of girl who puts you down
-                                    Am   E
-when friends are there, you feel a fool
-Am                              
-when you say she's looking good
-     E                                 Am         C
-she acts as if it's understood, she's cool, ooh, ooh, ooh, ooh
-
-
-[Chorus]
-
-G    Bm    Am  D7
-ah girl      
-   G    Bm    Am D7
-ah girl      
-
-
-[Verse]
-
-        Em                B7                    Em       Em7
-was she told when she was young that pain would lead to pleasure?
-Am                               G    B7
-did she understand it when they said
-       Em                 B7               Em     Em7
-that a man must break his back to earn his day of leisure,
-Am                                   Em
-will she still believe it when he's dead?
-
-
-[Chorus]
-
-G    Bm    Am  D7
-ah girl      
-   G    Bm    Am D7
-ah girl      
-
-
-[Instrumental]
-
-| Em B7 | Em7  | Am  | G B7 | 
-| Em B7 | Em7  | Am  | Em   ||
-
-
-[Outro]
-
-G    Bm    Am  D7       
-ah girl                (repeat to fade)
-
+[G]ah gi[Bm]rl
+[Am]    [D7](repeat to fade)
