@@ -3,16 +3,12 @@ title: Make Me A Pallet On Your Floor
 artist: Traditional
 key: G
 ---
-G intro (Gillian Welch plays it in Eb)
+[G]
 
-C                             G
-Make me down a pallet on your floor
-C                             D7
-Make me down a pallet on your floor
-G       B7     C
-Make me down a pallet soft and low
-G                    D7             G
-When I'm broke and I got nowhere to go
+[C]Make me down a pallet on your [G]floor
+[C]Make me down a pallet on your [D7]floor
+[G]Make me [B7]down a [C]pallet soft and low
+[G]When I'm broke and I [D7]got nowhere to [G]go
 
 Been hanging 'round with a good-time friends of mine
 Hanging around with a good-time friends of mine

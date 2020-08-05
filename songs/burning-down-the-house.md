@@ -32,7 +32,6 @@ Gonna burst into flame
 
 [A7]Burning down the [F]house
 
-
 [G]  My house [G]    [F]S'out of the ordinary
 [G]  That's [G]mig[G]ht   [F]Don't want to hurt nobody
 [G]Some things sure [G]can s[F]weep me off my [G]feet

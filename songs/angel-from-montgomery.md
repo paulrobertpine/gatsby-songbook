@@ -3,7 +3,6 @@ title: Angel From Montgomery
 artist: John Prine
 key: G
 youtube: 9CDLCr0fxOQ
-
 ---
 
 [G]I am an old [C]woman [G]named after my [C]mother.
