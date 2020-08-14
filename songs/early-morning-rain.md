@@ -5,7 +5,7 @@ key: D
 youtube: 1pqttl9aWm0
 ---
 
-[D] [G][A][G][D][G]
+[D] [G] [A] [G] [D] [G]
 
 [D]In the early morning [A]rain
 [G]With a dollar in my [D]hand

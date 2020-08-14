@@ -1,6 +1,6 @@
 ---
-Artist: Gordon Lightfoot
-Title: Sundown
+title: Sundown
+artist: Gordon Lightfoot
 key: E
 youtube: JKYRjNAakVc
 ---

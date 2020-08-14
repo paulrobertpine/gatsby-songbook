@@ -4,47 +4,29 @@ artist: Johnny Cash
 key: Am
 
 ---
-Intro
-Am    C  D  Am    C  D
-Verse 1
-Am   C       D     Am       C      D       Am
-   I hurt myself today   to see if I still feel
-  C    D        Am        C      D          Am
-I focus on the pain   the only thing that's real
-    C      D       Am         C      D       Am
-The needle tears a hole   the old familiar sting
-       C      D      Am           C      D      G
-Try to kill it all away   but I remember everything
-Chorus 1
-Am              F     C               G
-What have I become?     My sweetest friend
-Am          F             C        G
-Everyone I know  goes away in the end
-    Am                 F    G               G
-And you could have it all   My empire of dirt
-Am              F      G                Am
-I will let you down    I will make you hurt
-Transition
-(Am)   C  D  Am    C  D
-Verse 2
-Am   C         D        Am        C      D       Am
-   I wear this crown of thorns   upon my liar's chair
-C       D        Am       C     D    Am
-Full of broken thoughts   I cannot repair
-  C          D        Am         C       D       Am
-Beneath the stains of time   the feelings disappear
-C         D      Am    C     D           G
-You are someone else   I am still right here
-Chorus 2
-Am              F     C               G
-What have I become?     My sweetest friend
-Am          F             C        G
-Everyone I know  goes away in the end
-    Am                 F    G            G
-And you could have it all   My empire of dirt
-Am              F     G               G
-I will let you down   I will make you hurt
-   Am               F     G              G
-If I could start again  a million miles away
-Am              F    G
-I would keep myself  I would find a way
+
+| [Am]/ / / / | [C]/ / [D]/ / |
+
+[Am] I [C]hurt mys[D]elf to[Am]day   to [C]see if [D]I still [Am]feel
+I [C]focus[D] on the p[Am]ain   the [C]only th[D]ing that's [Am]real
+The [C]needle [D]tears a [Am]hole   the [C]old fam[D]iliar st[Am]ing
+Try to [C]kill it[D] all aw[Am]ay   but I re[C]member [D]everyth[G]ing
+
+[Am]What have I beco[F]me?   [C]  My sweetest fr[G]iend
+[Am]Everyone I k[F]now  goes away[C] in the e[G]nd
+And [Am]you could have it a[F]ll   [G]My empire of dir[G]t
+[Am]I will let you d[F]own    [G]I will make you h[Am]urt
+
+| [Am]/ / / / | [C]/ / [D]/ / |
+
+[Am]   I [C]wear this [D]crown of [Am]thorns   u[C]pon my [D]liar's c[Am]hair
+[C]Full of [D]broken th[Am]oughts   [C]I cann[D]ot re[Am]pair
+Be[C]neath the s[D]tains of [Am]time   the [C]feelings[D] disappe[Am]ar
+[C]You are so[D]meone e[Am]lse   [C]I am s[D]till right h[G]ere
+
+[Am]What have I beco[F]me?   [C]  My sweetest fr[G]iend
+[Am]Everyone I k[F]now  goes away[C] in the e[G]nd
+And [Am]you could have it a[F]ll   [G]My empire of [G]dirt
+[Am]I will let you d[F]own   [G]I will make you [G]hurt
+If [Am]I could start aga[F]in  a [G]million miles a[G]way
+[Am]I would keep mys[F]elf  [G]I would find a way

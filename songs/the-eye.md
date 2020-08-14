@@ -4,7 +4,7 @@ artist: 'Brandi Carlile'
 key: C
 ---
 
-[F][c]It really breaks my heart[F], [C]to see a dear old friend[F][c]Go [G]down in the [Am]worn out [F]place [C]again
+[F][C]It really breaks my heart[F], [C]to see a dear old friend[F][c]Go [G]down in the [Am]worn out [F]place [C]again
 [F][c]Do you know the sound[F], [C]of a closing door?[F][c]Have you [G]heard that [Am]sound some[F]where be[C]fore?[F][c]Do you wonder i[G]f she kno[Am]ws you[F] anymor[C]e?[G]
 
 [F]I wrapped your love around me like a [C]chain

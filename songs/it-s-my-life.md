@@ -5,11 +5,9 @@ key: Eb
 
 ---
 
+| [Eb]/ / / / | / / / / | [Bbm]/ / / / | [Db]/ / / / |
+  
 
-[Intro]
-Eb Bbm Db
-
-[Verse]
 Eb           Bbm       Db      Eb             Bbm  Db
     Funny how I find myself in love with you
 Eb                Bbm     Db       Eb         Bbm  Db
@@ -27,7 +25,7 @@ It's my life   don't you forget
  C       Am  Dm  G  C    Am   Dm  G  C
 It's my life     it never ends
 
-[Instrumental]
+
 |Fm
 |Eb Bbm Db
 
@@ -46,8 +44,7 @@ It's my life   don't you forget
  C       Am  Dm  G  C    Am   Dm  G  C
 It's my life     it never ends
 
-[Instrumental 2] x2
-|Bbm Fm  Ab
+| [Bb]/ / / / | / / / / | [Fm]/ / / / | [Ab]/ / / / | x2
 
 [Instrumental 3]
 |E
@@ -57,7 +54,7 @@ Am  F  G  C     F                     G   Am  F  G  C
     F
 Commit yourself?
 
-[Outro]
+
  G       Am  Dm  G     C      Am   Dm
 It's my life   don't you forget
 G       C        Am  Dm  G    C    Am   Dm  G

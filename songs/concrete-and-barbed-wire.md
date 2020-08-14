@@ -1,9 +1,9 @@
 ---
 title: Concrete And Barbed Wire
 artist: Lucinda Williams
-key: C
+key: G
 ---
-This wall divides us,[C] on two different[G]sides
+This [G]wall divides us,[C] on two different[G]sides
 [C]But this wall is not [G]real
 [C]How can it be [G]real
 It's only made of [D]concrete and barbed [G]wire

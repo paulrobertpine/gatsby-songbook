@@ -36,14 +36,14 @@ I [D]lost my[G]self, I [D]lost my[E]self[E]
 [Bm] Phew, for a [D]minute [G]there
 I [D]lost my[G]self, I [D]lost my[E]self[E]
 
-| Bm D | G D |
-| G  D | E E |
+| [Bm] [D] | [G] [D] |
+| [G]  [D] | [E] |
 
 [Bm]   For a [D]minute [G]there
 I [D]lost my[G]self, I [D]lost my[E]self[E]
 [Bm] Phew, for a [D]minute [G]there
 I [D]lost my[G]self, I [D]lost my[E]self[E]
 
-| Bm D | G D |
-| G  D | E E |
+| [Bm] [D] | [G] [D] |
+| [G]  [D] | [E] |
 (x3)
