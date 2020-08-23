@@ -1,7 +1,7 @@
 ---
-artist: The Kinks
 title: Waterloo Sunset
-key: 
+artist: The Kinks
+key: D
 youtube: N_MqfF0WBsU
 ---
 
