@@ -25,7 +25,7 @@ youtube: i9firPKaB54
  and if we[G]'re [D]lo[/]st[/], [Em]   [/]  t[/]hen [C]we are lost [D]together
  yea if we[G]'re [D]lo[/]st[/], [Em]   [/]  t[/]hen [C]we are lost [D]together
 
-[C]  [C]  [D]  [Em] [C] [D] [G]  [C] [D] [Em] [D]
+[C]  [D]  [G] [C] [D] [Em]  [D] [Cadd9] [G/B] [D/A] [G]
 
  [G]In the [D]silence of this [Em]whispered [D]night I [G]listen [D]only to your [Em]breath
  [G]and in that [D]second of a [Em]shooting [D]star [G]somehow it [D]all makes [Em]sense
@@ -34,3 +34,5 @@ youtube: i9firPKaB54
  [Em]all that I [D]need[/][/][/]
  and if we[G]'re [D]lo[/]st[/], [Em]     then [C]we are lost [D]together
  yea if we[G]'re [D]lo[/]st[/], [Em]     then [C]we are lost [D]together
+ 
+ [G] [D/F#] [Em] [D]   [G] [D/F#] [Em]   [G] [D/F#] [Em] [D]  [G] [D/F#] [Em] 
