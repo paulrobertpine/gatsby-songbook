@@ -25,7 +25,7 @@ youtube: i9firPKaB54
  and if we[G]'re [D]lo[/]st[/], [Em]   [/]  t[/]hen [C]we are lost [D]together
  yea if we[G]'re [D]lo[/]st[/], [Em]   [/]  t[/]hen [C]we are lost [D]together
 
- [C]  [C]  [D]  [Em] [G] [D] [Em] [C] [D]
+[C]  [C]  [D]  [Em] [C] [D] [G]  [C] [D] [Em] [D]
 
  [G]In the [D]silence of this [Em]whispered [D]night I [G]listen [D]only to your [Em]breath
  [G]and in that [D]second of a [Em]shooting [D]star [G]somehow it [D]all makes [Em]sense
