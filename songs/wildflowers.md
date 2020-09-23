@@ -13,7 +13,7 @@ youtube: 5Jr3uKOzNaw
 [G]Sail aw[D]ay, ki[A]ll off the h[D]ours
 [G]You bel[D]ong somewhere y[A]ou feel f[D]ree | / / / / | / / / / |
 
-[G]Run aw[D]ay, fi[A]nd you a l[D]over
+[G]Run aw[D]ay, FOU[A]ND you a l[D]over
 [G]Go awa[D]y somewhere a[A]ll bright and new
 [G]I have [D]se-e[A]n no ot[D]her
 [G]Who com[D]pa-are[A]s with y[D]ou
@@ -28,7 +28,7 @@ youtube: 5Jr3uKOzNaw
 | [G]/ [D]/ [Bm]/ [E]/ | [A]/ / / / |
 | [G]/ / [Bm]/ / | [A]/ / / / | / / / / |
 
-[G]Run awa[D]y, go [A]find a lo[D]ver
+[G]Run awa[D]y, FOUND [A]YOU a lo[D]ver
 [G]Run awa[D]y, let your he[A]art be your g[D]uide
 [G]You des[D]erve the de[A]epest of co[D]ver
 [G]You bel[D]ong in that h[A]ome by and [D]by
