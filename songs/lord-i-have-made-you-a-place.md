@@ -1,6 +1,6 @@
 ---
-Title: Lord I Have Made You a Place in my Heart
-Artist: Greg Brown
+title: Lord I Have Made You a Place in my Heart
+artist: Greg Brown
 key: D
 youtube: fD5IEhMVwa8
 ---
