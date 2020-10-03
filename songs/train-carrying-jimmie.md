@@ -1,6 +1,6 @@
 ---
-Title: The Train Carrying Jimmie Rodgers Home
-Artist: Greg Brown
+title: The Train Carrying Jimmie Rodgers Home
+artist: Greg Brown
 key: G
 youtube: iGNgI6YcHFc
 ---
