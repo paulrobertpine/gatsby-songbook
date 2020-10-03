@@ -1,6 +1,6 @@
 ---
-Title: I Quit My Job
-Aritst: Old Man Luedecke
+title: I Quit My Job
+artist: Old Man Luedecke
 key: D
 youtube: R79whVcsrxI
 ---
