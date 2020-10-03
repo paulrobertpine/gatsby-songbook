@@ -1,6 +1,6 @@
 ---
-Title: Luckiest Man
-Artist: Wood Brothers
+title: Luckiest Man
+artist: Wood Brothers
 key: Dm
 youtube: LDy3rG6hQSQ
 ---
