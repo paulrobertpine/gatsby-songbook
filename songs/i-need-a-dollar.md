@@ -2,6 +2,7 @@
 title: I Need A Dollar
 artist: Aloe Blacc
 key: 'G#m'
+youtube: nFZP8zQ5kzk
 ---
 
 [G#m] I need a [F#]dollar dollar, a [C#m]dollar is what I need, hey hey
