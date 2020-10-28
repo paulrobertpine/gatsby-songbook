@@ -4,8 +4,8 @@ artist: Gillian Welch
 key: G
 youtube: e4tAg9fhb9Y
 ---
-
-Capo 1
+Intro 
+[F] [C] [G] (x2)
 
 I[G] had a real good mot[F]her and fat[C]her
 and they surely stood the t[G]est
@@ -26,4 +26,3 @@ I had a real good mot[F]her and fath[C]er
 and they surely stood the t[G]est
 and now they're in bright gl[C]ory
 and sleepi[G]ng on [C]the saviour[D]'s bre[G]ast
-

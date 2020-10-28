@@ -16,7 +16,7 @@ So c[A]lose  beh[D]ind
 
 [G]Watchout the [C]worlds behind ya[G]
 Theres always some [C]one around ya
-who will [Am]call... it's nothin at a[C]ll[D]
+who will [Am]call... it's nothin at a[F]ll[D]
 
 [G]Sunday [C]Morning[G]
 And I'm [C]falling[G]
@@ -29,16 +29,14 @@ not [A]so long ag[D]o
 
 [G]Watchout the [C]worlds behind ya[G]
 Theres always some [C]one around ya
-who will [Am]call... it's nothin at a[C]ll[D]
+who will [Am]call... it's nothin at a[F]ll[D]
 
 [Solo]
 
 [G]Watchout the [C]worlds behind ya[G]
 Theres always some [C]one around ya
-who will [Am]call... it's nothin at a[C]ll[D]
+who will [Am]call... it's nothin at a[F]ll[D]
 
 [G]Sunday [C]morning[G]
 Sunday [C]morning[G]
 Sunday [C]morning...[G]
-
-*repeat  "Sunday morning" to fade
