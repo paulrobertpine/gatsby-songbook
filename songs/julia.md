@@ -21,4 +21,5 @@ youtube: TZip_br_v3w
 [D]Juli[Bm7]a, s[Am]leeping s[Am7]and, s[B7]ilent cloud t[Gm7(9)]ouch me[Gm7]
 [D]So I sing a [Bm7]song of love,[F#m7] Juli[A7]a
 [D]  [Bm7]    [Am]Mmm[Am7] ...[B7]   [Gm7(9)] Calls [Gm7]me
-[D]So I sing a [Bm7]song of love for [A]Juli[D]a, J[A]ul[D]ia,[F#m7] Julia[A7][Dmaj7]
+[D]So I sing a [Bm7]song of love for [A]Juli[D]a, J[A]ul[D]ia,[F#m7] Julia[A7]
+[Dmaj7]
