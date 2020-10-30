@@ -2,7 +2,7 @@
 title: Masterpiece
 artist: Big Thief
 key: E
-youtube: 
+youtube: oacUgWXrqwc
 ---
 [E][C#m]
 
