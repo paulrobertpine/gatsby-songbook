@@ -2,7 +2,7 @@
 title: Postdoc Blues
 artist: John K Samson
 key: Em
-youtube: Qvrm4FY
+youtube: Qvrm4FY-fag
 ---
 
 Capo 3
