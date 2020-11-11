@@ -9,20 +9,24 @@ Intro
 
 I[G] had a real good mot[F]her and fat[C]her
 and they surely stood the t[G]est
-and now they're in bright gl[C]ory
-and are sle[G]eping on [C]the savio[D]ur's bre[G]ast
+and now are in bright gl[C]ory
+and [D]sleeping [C]on [Bm]the savio-[Am]ur's bre[G]ast
 
 They set a good exa[F]mple for m[C]e
 and they taught me how to pr[G]ay
 now I truly conve[C]rted
-and walkin[G]g on t[C]he narr[D]ow wa[G]y
+and [D]walkin[C]g on t[Bm]he narr[Am]ow wa[G]y
+
+(solo)
 
 I know that if I cannot meet th[F]em on h[C]igh
 then how lonely I will be[G]
 for what good is my journ[C]ey
-if I miss [G]out o[C]n eter[D]nity[G]
+if I [D]miss [C]out o[Bm]n eter[Am]nity[G]
 
-I had a real good mot[F]her and fath[C]er
+(solo)
+
+I[G] had a real good mot[F]her and fat[C]her
 and they surely stood the t[G]est
 and now they're in bright gl[C]ory
-and sleepi[G]ng on [C]the saviour[D]'s bre[G]ast
+and [D]sleeping [C]on [Bm]the savio-[Am]ur's bre[G]ast

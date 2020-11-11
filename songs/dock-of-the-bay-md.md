@@ -38,4 +38,4 @@ watching the [G]tide roll a[E]way
 ooh I'm just [G]sittin' on the dock of the [A]bay
 wasting [G]ti---[E]ime
 
-[G]G             [E]E
+[G][E]
