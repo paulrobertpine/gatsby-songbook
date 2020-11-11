@@ -1,0 +1,72 @@
+---
+title: Material Girl
+artist: Madonna
+key: G
+youtube: 6p-lDYPR2P8
+---
+[G][F][G][F]
+
+[G]Some boys kiss me, some boys hug me
+[F]I think they're O[G].K.
+[G]If they don't give me proper credit
+[F]I just walk aw[G]ay
+[G]They can beg and they can plead
+[F]But they can't see the l[G]ight, that's right
+[G]Cause the boy with the cold hard cash
+Is [F]always Mister R[G]ight, 'cause we are
+
+[C]Liv[D]ing in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+[G]You know that we are
+[C]livi[D]ng in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+
+[G]Some boys romance, some boys slow dance
+[F]That's all right with [G]me
+[G]If they can't raise my interest then I
+[F]Have to let them [G]be
+[G]Some boys try and some boys lie but
+[F]I don't let them pl[G]ay
+[G]Only boys who save their pennies
+[F]Make my rainy d[G]ay, 'cause they are
+
+[C]Liv[D]ing in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+[G]You know that we are
+[C]livi[D]ng in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+
+[C]Liv[D]ing in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+[G]You know that we are
+[C]livi[D]ng in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+
+[G]Living in a mat[F]erial world (material)
+[G]Living in a mat[F]erial world
+[G]Living in a mat[F]erial world (material)
+[G]Living in a mat[F]erial world
+
+[G]Boys may come and boys may go
+[F]And that's all right you s[G]ee
+[G]Experience has made me rich
+And n[F]ow they're after [G]me, 'cause everybody's
+
+[C]Liv[D]ing in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+[G]You know that we are
+[C]livi[D]ng in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+
+[C]Liv[D]ing in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+[G]You know that we are
+[C]livi[D]ng in a mat[D]erial w[Em]orld
+And [C]I am a mat[D]erial g[G]irl
+
+[G]A material, a material, a material, a material world
+[G]Living in a mat[F]erial world [material]
+[G]Living in a mat[F]erial world
+[G]A material, a material, a material, a material world
+[G]Living in a mat[F]erial world [material]
+[G]Living in a mat[F]erial world
