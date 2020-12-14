@@ -25,6 +25,8 @@ In some east side [C7]rendezv[F]ous
 Then we'll [C]walk
 Arm in [F]arm around the [Dm7]block and [C]talk
 
+jam over chords
+
 [Em]To-[Am]night [C]you're [C7]mine
 [C7]Let's [F]not [Dm7]waste [G]time
 
