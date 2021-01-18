@@ -1,6 +1,6 @@
 ---
-Title: Last Thing On My Mind
-Artist: Tom Paxton
+title: Last Thing On My Mind
+artist: Tom Paxton
 key: G
 youtube: voqL5ksOuoo
 ---
