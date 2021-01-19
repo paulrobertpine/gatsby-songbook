@@ -2,7 +2,7 @@
 title: Via Chicago
 artist: Jeff Tweedy
 key: C
-youtube: https://www.youtube.com/watch?v=nT-JUFzzS0Y
+youtube: nT-JUFzzS0Y
 ---
 [C]I dreamed about killing you a[G]gain last night
 And it f[F]elt alright to me

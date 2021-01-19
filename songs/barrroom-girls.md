@@ -2,7 +2,7 @@
 title: Barroom Girls
 artist: Gillian Welch
 key: G
-youtube: https://www.youtube.com/watch?v=Igcw2nnN4Qk
+youtube: Igcw2nnN4Qk
 ---
 Well the n[G]ight came undone like a party dress
 And fell at her feet in a b[D]eautiful mess
