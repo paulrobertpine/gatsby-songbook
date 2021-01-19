@@ -4,7 +4,6 @@ artist: The Verve
 key: E
 youtube: 1lyu1KKwC74
 ---
-
 | [E]/ / [Bm7] / / | [Asus]/ / [A]/ / |
 
 Cause it's a bittersweet symphony this life

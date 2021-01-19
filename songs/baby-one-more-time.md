@@ -2,7 +2,7 @@
 title: Baby One More Time
 artist: Britney Spears
 key: Am
-youtube:
+youtube: 91Niv2q4gvc
 ---
 [Am]Oh baby, baby, how [E]was I supposed to [C]know
 That [Dm]something wasn't [E]right here
