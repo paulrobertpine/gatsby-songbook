@@ -2,6 +2,7 @@
 title: Suzanne
 artist: Leonard Cohen
 key: E
+youtube: svitEEpI07E
 ---
 
 Su[E]zanne takes you down to her place near the river
