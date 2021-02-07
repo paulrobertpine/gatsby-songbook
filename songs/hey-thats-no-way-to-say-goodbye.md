@@ -2,6 +2,7 @@
 title: Hey Thats No Way To Say Goodbye
 artist: Leonard Cohen
 key: A
+youtube: b-bJPmasXKs
 ---
 [E]
 
