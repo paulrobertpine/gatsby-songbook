@@ -2,6 +2,7 @@
 title: Mercedes Benz
 artist: Janis Joplin
 key: D
+youtube: Qev-i9-VKlY
 ---
 [D][D][D][D]
 
