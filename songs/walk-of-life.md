@@ -2,6 +2,7 @@
 title: Walk Of Life
 artist: Dire Straits
 key: E
+youtube: kd9TlGDZGkI
 ---
 [E] [A] [B] [A] [B]x4
 
