@@ -26,7 +26,7 @@ in the ar[C]ms of all I'm [D]keepin here with [G]me[Em][C][D]
 
 [Bridge]
 [Em] [C]  [G]  [D]
-[Em] [C]  [G]  [D]
+[Em] [C]  [G]  [D]  [D]
 
 [G]what a curious l[Em]ife we have found here to[C]night
 there is music that [D]sounds from the street
@@ -46,8 +46,7 @@ with one you loved so long ag[D]o
 
 now he don't even know his name
 
-[Em] [C][G][D]
-[Em] [C][G][D]
+[Em] [C]  [G]  [D]   [D]  
 
 [G]What a beautiful f[Em]ace
 I have found in this pl[C]ace
