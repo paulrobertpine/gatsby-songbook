@@ -19,10 +19,9 @@ It's [Dm]so many miles and so long s[Am]ince I've left[F] you[E]
 [F]But suddenly now,[G]I know where I belong
 It's many[C] hundred miles a[G]nd it won[F]'t      [Dm]       be[Am]long
 
-
-Guitar 1: [Am]
-[Am]-[Am6] [Am6]-[Am] (x4)
-
+[Am]
+[Am]-[Am6] [Am6]-[Am] 
+x4
 
 [Verse 2]
 
@@ -31,7 +30,6 @@ Guitar 1: [Am]
 [Am]Nothing I've learned all my life[F] on the[E]way to you
 [Am7]One day our love[F] was ov[E]er and gone[Am]
 
-
 [Chorus]
 
 It's [Dm]so many miles and so long s[Am]ince I've left[F] you[E]
@@ -39,9 +37,9 @@ It's [Dm]so many miles and so long s[Am]ince I've left[F] you[E]
 [F]But suddenly now,[G]I know where I belong
 It's many[C] hundred miles a[G]nd it won[F]'t      [Dm]       be[Am]long
 
-Guitar 1: [Am]
-[Am]-[Am6] [Am6]-[Am] (x4)
-
+[Am]
+[Am]-[Am6] [Am6]-[Am] 
+x4
 
 [Verse 3]
 
@@ -49,7 +47,6 @@ Guitar 1: [Am]
 [Am]Maybe someone you've al[F]ways known[E]
 [Am]How do I know I can come a[F]nd give to [E]you
 [Am7]Love with no war[F]ning and find yo[E]u alone[Am]
-
 
 [Chorus]
 
