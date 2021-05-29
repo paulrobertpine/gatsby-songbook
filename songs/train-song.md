@@ -20,8 +20,8 @@ It's [Dm]so many miles and so long s[Am]ince I've left[F] you[E]
 It's many[C] hundred miles a[G]nd it won[F]'t      [Dm]       be[Am]long
 
 
-Guitar 1: Am
-Am-Am6 Am6-Am (x4)
+Guitar 1: [Am]
+[Am]-[Am6] [Am6]-[Am] (x4)
 
 
 [Verse 2]
@@ -39,8 +39,8 @@ It's [Dm]so many miles and so long s[Am]ince I've left[F] you[E]
 [F]But suddenly now,[G]I know where I belong
 It's many[C] hundred miles a[G]nd it won[F]'t      [Dm]       be[Am]long
 
-Guitar 1: Am
-Am-Am6 Am6-Am (x4)
+Guitar 1: [Am]
+[Am]-[Am6] [Am6]-[Am] (x4)
 
 
 [Verse 3]
