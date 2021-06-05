@@ -1,8 +1,9 @@
 ---
-Title: Island in the Sun
-Artist: Weezer
-Key: Em
-Youtube: erG5rgNYSdk
+title: Island in the Sun
+artist: Weezer
+key: Em
+youtube: erG5rgNYSdk
+
 ---
 
 [Em]    [Am]    [D]   [G]Hip hip
