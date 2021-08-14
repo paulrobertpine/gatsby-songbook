@@ -1,8 +1,8 @@
 ---
-Title: Bad As They Seem
-Artist: Hayden
-Key: Am
-Youtube: BzQY7yRDil0
+title: Bad As They Seem
+artist: Hayden
+key: Am
+youtube: BzQY7yRDil0
 ---
 
 [Am]Girl [F]of my dr[C]eams
