@@ -1,8 +1,8 @@
 ---
-Title: Brother Down
-Artist: Sam Roberts
-Key: Dm
-Youtube: 71EnaOs-Xdk
+title: Brother Down
+artist: Sam Roberts
+key: Dm
+youtube: 71EnaOs-Xdk
 ---
 
 [Dm]One life to live but we're doing it wrong
