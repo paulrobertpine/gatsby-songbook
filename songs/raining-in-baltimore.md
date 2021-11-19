@@ -1,6 +1,6 @@
 ---
 title: Raining in Baltimore
-arist: Counting Crows
+artist: Counting Crows
 key: C#m
 youtube: gEnCxGh8kBg
 ---
