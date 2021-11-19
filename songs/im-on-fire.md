@@ -1,6 +1,6 @@
 ---
 title: I'm On Fire
-arist: Bruce Springsteen
+artist: Bruce Springsteen
 key: E
 youtube: lrpXArn3hII
 ---
