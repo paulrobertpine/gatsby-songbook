@@ -1,7 +1,7 @@
 ---
 title: Lightning Crashes
 artist: Live
-key: E
+key: F
 youtube: xsJ4O-nSveg
 ---
 
