@@ -4,9 +4,10 @@ artist: Lowest of the Low
 key: C
 youtube: hQXdmN7YjLA
 ---
+capo 3
 
-[C] [Am] [C] [Am] [F] [C] [G] [Dm] [C] [G]
-[C] [Am] [C] [Am] [F] [C] [G] [Dm] [G]
+|[C] [Am]| [Am] | [C] [Am]|[Am] | [Dm] [C] [G]| [G] | [Dm] [C] [G] | [G] |
+|[C] [Am]| [Am] | [C] [Am]|[Am] | [Dm] [C] [G]| [G] | [Dm] [C] [G] | [G] |
 
 [C]Black [G]Mon[F]day is [Am]coming [G]around again
 And it [C]feels [G]like a [F]friend that [Am]just won't [G]take a hint
