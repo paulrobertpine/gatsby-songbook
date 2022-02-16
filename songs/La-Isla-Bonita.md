@@ -7,7 +7,7 @@ youtube: zpzdgmqIHOQ
 
 Capo 4th fret
 
-[Am]Com[G]o puede ser verdad
+|[Am][G]|[Am]|
 
 [Am]Last night I dr[G]eamt of San P[Am]edro
 [F]Just [Am]like I'd n[C]ever gone, I [G]knew the song
@@ -23,6 +23,8 @@ Capo 4th fret
 Ring [G]through my ears and [Dm]sting my eyes
 Your [Em]Spanish lulla[Am]by
 
+|[Am][G]|[Am]|
+
 [Am]I fell in [G]love with San[Am]Pedro
 [F]Warm win[Am]d carried o[C]n the sea, he cal[G]led to me
 [Am]        Te [G]dijo te[Am]amo
@@ -37,12 +39,14 @@ Your [Em]Spanish lulla[Am]by
 Ring [G]through my ears and [Dm]sting my eyes
 Your [Em]Spanish lulla[Am]by
 
+|[Am][G]|[Am]|
+
 [Dm]I want to [Bb]be where the s[C]un warms the [Dm]sky
 When it's t[Dm]ime for sie[Bb]sta you can wa[C]tch them go by
 [Dm]Beautiful fa[Bb]ces, no ca[C]res in this w[Dm]orld
 Where a g[Dm]irl loves a b[Bb]oy, and a b[C]oy lo[E]ves a g[Am]irl
 
-[Am]F Am[G] C [Am]G
+[Am][F] [Am][G] [C] |[Am][G]|[Am]|
 
 [Am]Last night I dr[G]eamt of San P[Am]edro
 [F]It [Am]all seems like ye[C]sterday, not f[G]ar away
