@@ -7,7 +7,7 @@ youtube: zpzdgmqIHOQ
 
 Capo 4th fret
 
-|[Am][G]|[Am]|
+|[Am]/ /[G]/ /|[Am]/ / / / | x4
 
 [Am]Last night I dr[G]eamt of San P[Am]edro
 [F]Just [Am]like I'd n[C]ever gone, I [G]knew the song
@@ -23,7 +23,7 @@ Capo 4th fret
 Ring [G]through my ears and [Dm]sting my eyes
 Your [Em]Spanish lulla[Am]by
 
-|[Am][G]|[Am]|
+|[Am]/ /[G]/ /|[Am]/ / / / | x2
 
 [Am]I fell in [G]love with San[Am]Pedro
 [F]Warm win[Am]d carried o[C]n the sea, he cal[G]led to me
@@ -39,14 +39,16 @@ Your [Em]Spanish lulla[Am]by
 Ring [G]through my ears and [Dm]sting my eyes
 Your [Em]Spanish lulla[Am]by
 
-|[Am][G]|[Am]|
+|[Am]/ /[G]/ /|[Am]/ / / / | x2
 
 [Dm]I want to [Bb]be where the s[C]un warms the [Dm]sky
 When it's t[Dm]ime for sie[Bb]sta you can wa[C]tch them go by
 [Dm]Beautiful fa[Bb]ces, no ca[C]res in this w[Dm]orld
 Where a g[Dm]irl loves a b[Bb]oy, and a b[C]oy lo[E]ves a g[Am]irl
 
-[Am][F] [Am][G] [C] |[Am][G]|[Am]|
+|[Am]/ /[G]/ /|[Am]/ / / / |
+
+|[F]/ /[Am/ /|[G]/ / [C]/ /| 
 
 [Am]Last night I dr[G]eamt of San P[Am]edro
 [F]It [Am]all seems like ye[C]sterday, not f[G]ar away
@@ -58,7 +60,7 @@ Where a g[Dm]irl loves a b[Bb]oy, and a b[C]oy lo[E]ves a g[Am]irl
 [Am]  And when the s[G]amba played
 [Dm]  The sun would s[C]et so high
 Ring [G]through my ears and [Dm]sting my eyes
-Your [Em]Spanish lulla[Am]by[F][G]
+Your [Em]Spanish lulla[Am]by
 
 [Am]Tropical the i[G]sland breeze
 [Dm]All of nature w[C]ild and free
@@ -67,6 +69,6 @@ Your [Em]Spanish lulla[Am]by[F][G]
 [Am]  And when the s[G]amba played
 [Dm]  The sun would s[C]et so high
 Ring [G]through my ears and [Dm]sting my eyes
-Your [Em]Spanish lulla[Am]by[F][G]
+Your [Em]Spanish lulla[Am]by
 
-[Am]
+(say Spanish things and jam over chorus)
